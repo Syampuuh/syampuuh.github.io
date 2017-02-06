@@ -7,12 +7,12 @@
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <link type="text/css" rel="stylesheet" href="webbums.css">
 </head>
-<body onLoad="deviceCheck()">
+<body onLoad="cookieCheck()">
 	<center>
 		<h1>flatline streak</h1>
 		<button type="button" onMouseUp="nativeRes()">Native Res</button> <button type="button" onMouseUp="autoscaleVideo()">Autoscale Video</button><br />
 		<button type="button" onMouseUp="force1440()">1440p (265 MB)</button> <button type="button" onMouseUp="force720()">720p (79.7 MB)</button><br /><br />
-		<video src="https://u.nya.is/qupano.webm" height="300" id="webmLoop" autoplay controls loop />
+		<video src="https://u.nya.is/qupano.webm" height="300" id="webmLoop" controls loop />
 	</center>
 <script>
 		//i'm sure there's a more efficient way to do everything here but bite my ass desu
@@ -56,6 +56,20 @@
 	function force1440(){
 		document.getElementById("webmLoop").src = "https://u.nya.is/mqxpar.webm"
 		document.cookie = "resPref = 1440p"
+	}
+	
+	function cookieCheck(){
+		if ( document.cookie != "" ) {
+			if ( document.cookie = "resPref=720p" ){
+				document.getElementById("webmLoop").src = "https://u.nya.is/zojvyi.webm"
+			} else {
+				if ( document.cookie = "resPref=1440p" ) {
+					document.getElementById("webmLoop").src = "https://u.nya.is/zojvyi.webm"
+				}
+			}
+		} else {
+			deviceCheck();
+		}
 	}
 </script>
 </body>
