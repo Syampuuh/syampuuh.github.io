@@ -3,14 +3,30 @@
 <head>
 <meta charset="utf-8">
 <title>pop pop pop pop - webm from shampooh</title>
+<script src="https://use.typekit.net/asw3wve.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<link type="text/css" rel="stylesheet" href="webbums.css">
 </head>
+<body onLoad="autoscaleVideo()">
 	<center>
-		<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/WebM_logo.svg" width="200">
-		<br />
 		<h1>pop pop pop pop</h1>
-		<br />
-		<video src="https://my.mixtape.moe/jsvarf.webm" width="1280" autoplay controls loop />
+		<button type="button" onMouseUp="nativeRes()">Native Res</button> <button type="button" onMouseUp="autoscaleVideo()">Autoscale Video</button><br /><br />
+		<video src="https://my.mixtape.moe/jsvarf.webm" height="720" id="webmLoop" autoplay controls loop />
 	</center>
-<body>
+<script>
+	function autoscaleVideo(){
+		if (window.innerHeight < window.innerWidth) {
+			document.getElementById("webmLoop").height = ( window.innerHeight - 100 )
+		} else {
+			document.getElementById("webmLoop").width = window.innerWidth - 40;
+		}
+		window.scrollTo(0,document.body.scrollHeight);
+	}
+	
+	function nativeRes(){
+		document.getElementById("webmLoop").height = 720
+		window.scrollTo(0,document.body.scrollHeight);
+	}
+</script>
 </body>
 </html>
