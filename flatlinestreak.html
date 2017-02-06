@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>flatline streak - webm from shampooh</title>
+<script src="https://use.typekit.net/asw3wve.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<link type="text/css" rel="stylesheet" href="webbums.css">
+</head>
+<body onLoad="autoscaleVideo()">
+	<center>
+		<h1>flatline streak</h1>
+		<button type="button" onMouseUp="nativeRes()">Native Res</button> <button type="button" onMouseUp="autoscaleVideo()">Autoscale Video</button><br /><br />
+		<video src="https://u.nya.is/mqxpar.webm" height="1440" id="webmLoop" autoplay controls loop />
+	</center>
+<script>
+	function autoscaleVideo(){
+		if (window.innerHeight < window.innerWidth) {
+			document.getElementById("webmLoop").height = ( window.innerHeight - 100 )
+		} else {
+			document.getElementById("webmLoop").width = window.innerWidth - 40;
+		}
+		window.scrollTo(0,document.body.scrollHeight);
+	}
+	
+	function nativeRes(){
+		document.getElementById("webmLoop").height = 1400
+		window.scrollTo(0,document.body.scrollHeight);
+	}
+</script>
+</body>
+</html>
