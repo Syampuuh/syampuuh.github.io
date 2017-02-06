@@ -7,13 +7,15 @@
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <link type="text/css" rel="stylesheet" href="webbums.css">
 </head>
-<body onLoad="autoscaleVideo()">
+<body onLoad="deviceCheck()">
 	<center>
 		<h1>flatline streak</h1>
-		<button type="button" onMouseUp="nativeRes()">Native Res</button> <button type="button" onMouseUp="autoscaleVideo()">Autoscale Video</button><br /><br />
-		<video src="https://u.nya.is/mqxpar.webm" height="1440" id="webmLoop" autoplay controls loop />
+		<button type="button" onMouseUp="nativeRes()">Native Res</button> <button type="button" onMouseUp="autoscaleVideo()">Autoscale Video</button><br />
+		<button type="button" onMouseUp="force1440()">1440p (265 MB)</button> <button type="button" onMouseUp="force720()">720p (79.7 MB)</button><br /><br />
+		<video src="https://u.nya.is/qupano.webm" height="300" id="webmLoop" autoplay controls loop />
 	</center>
 <script>
+		//i'm sure there's a more efficient way to do everything here but bite my ass desu
 	function autoscaleVideo(){
 		if (window.innerHeight < window.innerWidth) {
 			document.getElementById("webmLoop").height = ( window.innerHeight - 100 )
@@ -24,8 +26,34 @@
 	}
 	
 	function nativeRes(){
-		document.getElementById("webmLoop").height = 1400
+		document.getElementById("webmLoop").height = 1440
 		window.scrollTo(0,document.body.scrollHeight);
+	}
+	
+	function deviceCheck(){
+		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {	//http://stackoverflow.com/a/3540295
+			document.getElementById("webmLoop").src = "https://u.nya.is/zojvyi.webm"
+		} else {
+			if (screen.width <= 1280) {
+				document.getElementById("webmLoop").src = "https://u.nya.is/zojvyi.webm"
+			} else {
+			document.getElementById("webmLoop").src = "https://u.nya.is/mqxpar.webm"
+			}
+		}
+		if (window.innerHeight < window.innerWidth) {
+			document.getElementById("webmLoop").height = ( window.innerHeight - 100 )
+		} else {
+			document.getElementById("webmLoop").width = window.innerWidth - 40;
+		}
+		window.scrollTo(0,document.body.scrollHeight);
+	}
+	
+	function force720(){
+		document.getElementById("webmLoop").src = "https://u.nya.is/zojvyi.webm"
+	}
+	
+	function force1440(){
+		document.getElementById("webmLoop").src = "https://u.nya.is/mqxpar.webm"
 	}
 </script>
 </body>
