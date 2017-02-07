@@ -1,4 +1,14 @@
-	h1 {
-		font-family: pt-sans-narrow, sans-serif;
-		font-weight: bolder;
-	}
+h1 {
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: bolder;
+	color: ghostwhite;
+	text-shadow: 2px 2px 5px #5D606B;
+}
+
+body {
+	background:linear-gradient(#25262B,#5D606B);
+	height: 100%;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
