@@ -49,3 +49,8 @@ function nativeRes(){
 	}
 	window.scrollTo(0,document.body.scrollHeight);
 }
+	
+	function nativeRes720only(){
+		document.getElementById("webmLoop").height = 720
+		window.scrollTo(0,document.body.scrollHeight);
+	}
