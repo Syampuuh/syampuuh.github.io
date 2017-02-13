@@ -11,4 +11,18 @@ body {
 	margin: 0;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: normal;
+	font-size: 14pt;
+	color: white;	
+	text-shadow: 1px 1px 3px #6E727F;
+}
+
+button {
+	background:linear-gradient(#25262B,#5D606B);
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: normal;
+	font-size: 10pt;
+	color: white;	
+	text-shadow: 1px 1px 3px #5D606B;	
 }
