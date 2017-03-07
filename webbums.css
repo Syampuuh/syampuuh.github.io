@@ -1,10 +1,3 @@
-h1 {
-	font-family: pt-sans-narrow, sans-serif;
-	font-weight: bolder;
-	color: ghostwhite;
-	text-shadow: 2px 2px 5px #5D606B;
-}
-
 body {
 	background:linear-gradient(#25262B,#5D606B);
 	height: 100%;
@@ -15,7 +8,15 @@ body {
 	font-weight: normal;
 	font-size: 14pt;
 	color: white;	
-	text-shadow: 1px 1px 3px #6E727F;
+	text-shadow: 2px 2px 5px #6E727F;
+}
+
+h1 {
+	color: ghostwhite;
+}
+
+h2 {
+	color: ghostwhite;
 }
 
 button {
@@ -24,5 +25,37 @@ button {
 	font-weight: normal;
 	font-size: 10pt;
 	color: white;	
-	text-shadow: 1px 1px 3px #5D606B;	
+	text-shadow: 2px 2px 5px #5D606B;	
+}
+
+a:link {	
+	color: aliceblue;
+}
+
+a:visited {	
+	color: aliceblue;
+}
+
+a:hover {	
+	color: white;
+	text-shadow: 4px 4px 10px white;
+}
+
+a:active {
+	text-shadow: 4px 4px 10px white;	
+	font-weight: bold;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td {
+	width: 500px;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 5px;
+	border-color: ghostwhite;
+	text-align: center;
+	vertical-align: middle;
 }
