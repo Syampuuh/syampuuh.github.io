@@ -25,7 +25,7 @@ button {
 	font-weight: normal;
 	font-size: 10pt;
 	color: white;	
-	text-shadow: 2px 2px 5px #5D606B;	
+	text-shadow: 2px 2px 5px #5D606B;
 }
 
 a:link {	
@@ -58,4 +58,46 @@ td {
 	border-color: ghostwhite;
 	text-align: center;
 	vertical-align: middle;
+}
+
+@keyframes warning {
+	0% {color:red;}
+    50% {color:darkred;}
+	100% {color:red;}
+}
+
+#warning {
+	animation: warning;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+	text-shadow: 2px 2px 8px darkred;
+	font-weight: bold;
+}
+
+@keyframes safe {
+	0% {color:lawngreen;}
+    50% {color:darkgreen;}
+	100% {color:lawngreen;}
+}
+
+#safe {
+	animation: safe;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+	text-shadow: 2px 2px 8px darkgreen;
+	font-weight: bold;
+}
+
+@keyframes caution {
+	0% {color:gold;}
+    50% {color:darkgoldenrod;}
+	100% {color:gold;}
+}
+
+#caution {
+	animation: caution;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+	text-shadow: 2px 2px 8px darkgoldenrod;
+	font-weight: bold;
 }
