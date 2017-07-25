@@ -1,10 +1,21 @@
+@font-face {
+	font-family: MetronicProRegular;
+	src: url("metronic pro regular.woff");
+}
+
+@font-face {
+	font-family: MetronicProRegular;
+	src: url("metronic pro semibold.woff");
+	font-weight: bold;
+}
+
 body {
 	background:linear-gradient(#25262B,#5D606B);
 	height: 100%;
 	margin: 0;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	font-family: pt-sans-narrow, sans-serif;
+	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
 	font-weight: normal;
 	font-size: 14pt;
 	color: white;	
@@ -21,7 +32,7 @@ h2 {
 
 button {
 	background:linear-gradient(#25262B,#5D606B);
-	font-family: pt-sans-narrow, sans-serif;
+	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
 	font-weight: normal;
 	font-size: 10pt;
 	color: white;	
