@@ -1,0 +1,128 @@
+@font-face {
+	font-family: MetronicProRegular;
+	src: url("metronic pro regular.woff");
+}
+
+@font-face {
+	font-family: MetronicProRegular;
+	src: url("metronic pro semibold.woff");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: MetronicProItalic;
+	src: url("metronic pro italic.woff");
+}
+
+@font-face {
+	font-family: MetronicProItalic;
+	src: url("metronic pro semibold italic.woff");
+	font-weight: bold;
+}
+
+body {
+	font-family: pt-sans, sans-serif;
+	font-size: 1.2em;
+}
+
+h1 {
+	font-family: MetronicProRegular, sans-serif;
+	margin: 0px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+
+h2 {
+	font-family: MetronicProRegular, sans-serif;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+}
+
+table {
+	border: hidden;
+	text-align: left;
+	width: 1100px;
+}
+
+table.toc {
+	border: thin;
+	border-style: solid;
+	border-collapse: inherit;
+	width: 400px;
+	font-size: 0.9em;
+}
+
+div.toc {
+	text-indent: 1em;
+	margin: 0px;
+}
+
+a:link {	
+	color: cornflowerblue;
+}
+
+a:visited {	
+	color: cornflowerblue;
+}
+
+a:hover {
+	color: blue;
+	text-shadow: 4px 4px 10px grey;
+}
+
+a:active {
+	text-shadow: 4px 4px 10px grey;	
+	font-weight: bold;
+}
+
+#ronin {
+	background: url(Aegis/Ronin/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+}
+
+#scorch {
+	background: url(Aegis/Scorch/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+}
+
+#legion {
+	background: url(Aegis/Legion/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+}
+
+#tone {
+	background: url(Aegis/Tone/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+}
+
+#northstar {
+	background: url(Aegis/Northstar/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+}
+
+#ion {
+	background: url(Aegis/Ion/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+}
+
+#monarch {
+	background: url(Aegis/Monarch/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+}
+
+td.upgradeIcon {
+	width: 160px;
+}
+
+img.upgradeIcon {
+	width: 150px;
+	margin-left: 5px;
+}
+
+.firsth2 {
+	margin-top: 0px!important;
+}
+
+.rank {
+	font-family: MetronicProItalic, sans-serif;
+	margin-left: 30px;
+}
+
+.topButton {
+	font-family: MetronicProRegular;
+	font-size: 1.5em;
+}
