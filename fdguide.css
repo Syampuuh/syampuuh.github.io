@@ -32,6 +32,13 @@ h1 {
 	margin-left: 5px;
 }
 
+h1.difficulty {
+	font-family: MetronicProRegular, sans-serif;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+}
+
 h2 {
 	font-family: MetronicProRegular, sans-serif;
 	margin-top: 10px;
@@ -60,48 +67,56 @@ div.toc {
 
 a:link {	
 	color: cornflowerblue;
+	text-decoration: none;
 }
 
 a:visited {	
 	color: cornflowerblue;
+	text-decoration: none;
 }
 
 a:hover {
 	color: blue;
 	text-shadow: 4px 4px 10px grey;
+	text-decoration: none;
 }
 
 a:active {
 	text-shadow: 4px 4px 10px grey;	
 	font-weight: bold;
+	text-decoration: none;
+}
+
+#difficulties {
+	background: url(Aegis/secret.jpg) repeat center;
 }
 
 #ronin {
-	background: url(Aegis/Ronin/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+	background: url(Aegis/Ronin/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#EFEFEF,#FFFFFF);
 }
 
 #scorch {
-	background: url(Aegis/Scorch/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+	background: url(Aegis/Scorch/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#EFEFEF,#FFFFFF);
 }
 
 #legion {
-	background: url(Aegis/Legion/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+	background: url(Aegis/Legion/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#EFEFEF,#FFFFFF);
 }
 
 #tone {
-	background: url(Aegis/Tone/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+	background: url(Aegis/Tone/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#EFEFEF,#FFFFFF);
 }
 
 #northstar {
-	background: url(Aegis/Northstar/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+	background: url(Aegis/Northstar/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#EFEFEF,#FFFFFF);
 }
 
 #ion {
-	background: url(Aegis/Ion/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+	background: url(Aegis/Ion/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#EFEFEF,#FFFFFF);
 }
 
 #monarch {
-	background: url(Aegis/Monarch/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#CFCFCF,#FFFFFF);
+	background: url(Aegis/Monarch/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#EFEFEF,#FFFFFF);
 }
 
 td.upgradeIcon {
@@ -110,6 +125,14 @@ td.upgradeIcon {
 
 img.upgradeIcon {
 	width: 150px;
+	margin-left: 5px;
+}
+
+td.difficultyIcon {
+	width: 160px;
+}
+
+img.difficultyIcon {
 	margin-left: 5px;
 }
 
@@ -125,4 +148,5 @@ img.upgradeIcon {
 .topButton {
 	font-family: MetronicProRegular;
 	font-size: 1.5em;
+	text-align: center;
 }
