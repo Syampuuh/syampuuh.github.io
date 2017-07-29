@@ -15,7 +15,7 @@ body {
 	margin: 0;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
+	font-family: pt-sans, sans-serif;
 	font-weight: normal;
 	font-size: 14pt;
 	color: white;	
@@ -24,19 +24,25 @@ body {
 
 h1 {
 	color: ghostwhite;
+	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
 }
 
 h2 {
 	color: ghostwhite;
+	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
 }
 
 button {
 	background:linear-gradient(#25262B,#5D606B);
-	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
+	font-family: pt-sans-narrow, sans-serif;
 	font-weight: normal;
 	font-size: 10pt;
 	color: white;	
 	text-shadow: 2px 2px 5px #5D606B;
+}
+
+a {	
+	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
 }
 
 a:link {	
@@ -77,12 +83,13 @@ td {
 	100% {color:red;}
 }
 
-#warning {
+.warning {
 	animation: warning;
 	animation-duration: 1s;
 	animation-iteration-count: infinite;
 	text-shadow: 2px 2px 8px darkred;
 	font-weight: bold;
+	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
 }
 
 @keyframes safe {
@@ -91,12 +98,13 @@ td {
 	100% {color:lawngreen;}
 }
 
-#safe {
+.safe {
 	animation: safe;
 	animation-duration: 1s;
 	animation-iteration-count: infinite;
 	text-shadow: 2px 2px 8px darkgreen;
 	font-weight: bold;
+	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
 }
 
 @keyframes caution {
@@ -105,10 +113,11 @@ td {
 	100% {color:gold;}
 }
 
-#caution {
+.caution {
 	animation: caution;
 	animation-duration: 1s;
 	animation-iteration-count: infinite;
 	text-shadow: 2px 2px 8px darkgoldenrod;
 	font-weight: bold;
+	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
 }
