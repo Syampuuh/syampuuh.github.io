@@ -46,6 +46,10 @@ h2 {
 	margin-left: 5px;
 }
 
+img {
+    -webkit-filter: drop-shadow(4px 6px 2px rgba(0,0,0,0.5));
+}
+
 table {
 	border: hidden;
 	text-align: left;
@@ -62,6 +66,19 @@ table.toc {
 
 div.toc {
 	text-indent: 1em;
+	margin: 0px;
+}
+
+table.toc2 {
+	border: thin;
+	border-style: solid;
+	border-collapse: inherit;
+	width: 400px;
+	font-size: 0.9em;
+}
+
+div.toc2 {
+	text-indent: 2em;
 	margin: 0px;
 }
 
@@ -89,6 +106,10 @@ a:active {
 
 #difficulties {
 	background: url(Aegis/secret.jpg) repeat center;
+}
+
+#enemies {
+	background: linear-gradient(#FFFFFF,#EFEFEF,#FFFFFF);
 }
 
 #ronin {
@@ -119,21 +140,18 @@ a:active {
 	background: url(Aegis/Monarch/emblem.svg) no-repeat center, linear-gradient(#FFFFFF,#EFEFEF,#FFFFFF);
 }
 
+td.entityIcon {
+	width: 160px;
+	text-align: center;
+}
+
 td.upgradeIcon {
 	width: 160px;
+	text-align: center;
 }
 
 img.upgradeIcon {
 	width: 150px;
-	margin-left: 5px;
-}
-
-td.difficultyIcon {
-	width: 160px;
-}
-
-img.difficultyIcon {
-	margin-left: 5px;
 }
 
 .firsth2 {
