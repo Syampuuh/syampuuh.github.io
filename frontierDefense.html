@@ -6,6 +6,17 @@
 
 <script src="https://use.typekit.net/asw3wve.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script>
+	function showHide(sh) {
+		if (document.getElementById( sh + 'Content' ).style.display != 'block') {
+			document.getElementById( sh + 'Content' ).style.display = 'block';
+			document.getElementById( sh + 'Button' ).textContent = '[Hide]';
+		} else {
+			document.getElementById( sh + 'Content' ).style.display = 'none';
+			document.getElementById( sh + 'Button' ).textContent = '[Expand]';
+		}
+	}
+</script>
 
 <link type="text/css" rel="stylesheet" href="fdguide.css">
 <link rel="shortcut icon" href="FDfavicon.ico" type="image/x-icon">
@@ -23,118 +34,132 @@
 	<center><h1>Frontier Defense: A Guide</h1><br/>
 <table class="toc">
 	<tr><td>
-	<a href="#harvester">The Harvester</a><br/>
-	<a href="#difficulties">Difficulties</a><br/>
-	<div class="toc">⤷ <a href="#easy">Easy</a><br/></div>
-	<div class="toc">⤷ <a href="#normal">Normal</a><br/></div>
-	<div class="toc">⤷ <a href="#hard">Hard<br/></a></div>
-	<div class="toc">⤷ <a href="#master">Master<br/></a></div>
-	<div class="toc">⤷ <a href="#insane">Insane<br/></a></div>
-	<a href="#enemies">Enemies</a><br/>
-	<div class="toc">⤷ <a href="#grunt">Grunt</a><br/></div>
-	<div class="toc">⤷ <a href="#shieldCaptain">Shield Captain</a><br/></div>
-	<div class="toc">⤷ <a href="#spectre">Spectre</a><br/></div>
-	<div class="toc">⤷ <a href="#mortarSpectre">Mortar Spectre</a><br/></div>
-	<div class="toc">⤷ <a href="#stalker">Stalker</a><br/></div>
-	<div class="toc">⤷ <a href="#reaper">Reaper</a><br/></div>
-	<div class="toc">⤷ <a href="#tick">Tick</a><br/></div>
-	<div class="toc">⤷ <a href="#cloakDrone">Cloak Drone</a><br/></div>
-	<div class="toc">⤷ <a href="#plasmaDrone">Plasma Drone</a><br/></div>
-	<div class="toc">⤷ Nuke Titan<br/></div>
-	<div class="toc">⤷ Mortar Titan<br/></div>
-	<div class="toc">⤷ Arc Titans<br/></div>
-	<div class="toc">⤷ Sniper Titans<br/></div>
-	<div class="toc">⤷ Ion<br/></div>
-	<div class="toc">⤷ Ronin<br/></div>
-	<div class="toc">⤷ Legion<br/></div>
-	Waves<br/>
-	<div class="toc">⤷ Homestead<br/></div>
-	<div class="toc2">⤷ <a href="#homesteadEasy">Easy</a><br/></div>
-	<div class="toc2">⤷ <a href="#homesteadNormal">Normal</a><br/></div>
-	<div class="toc2">⤷ <a href="#homesteadHard">Hard<br/></a></div>
-	<div class="toc2">⤷ <a href="#homesteadMaster">Master<br/></a></div>
-	<div class="toc2">⤷ <a href="#homesteadInsane">Insane<br/></a></div>
-	<div class="toc">⤷ Forwardbase Kodai<br/></div>
-	<div class="toc2">⤷ <a href="#kodaiEasy">Easy</a><br/></div>
-	<div class="toc2">⤷ <a href="#kodaiNormal">Normal</a><br/></div>
-	<div class="toc2">⤷ <a href="#kodaiHard">Hard<br/></a></div>
-	<div class="toc2">⤷ <a href="#kodaiMaster">Master<br/></a></div>
-	<div class="toc2">⤷ <a href="#kodaiInsane">Insane<br/></a></div>
-	<div class="toc">⤷ Black Water Canal<br/></div>
-	<div class="toc2">⤷ <a href="#canalEasy">Easy</a><br/></div>
-	<div class="toc2">⤷ <a href="#canalNormal">Normal</a><br/></div>
-	<div class="toc2">⤷ <a href="#canalHard">Hard<br/></a></div>
-	<div class="toc2">⤷ <a href="#canalMaster">Master<br/></a></div>
-	<div class="toc2">⤷ <a href="#canalInsane">Insane<br/></a></div>
-	<div class="toc">⤷ War Games<br/></div>
-	<div class="toc2">⤷ <a href="#wargamesEasy">Easy</a><br/></div>
-	<div class="toc2">⤷ <a href="#wargamesNormal">Normal</a><br/></div>
-	<div class="toc2">⤷ <a href="#wargamesHard">Hard<br/></a></div>
-	<div class="toc2">⤷ <a href="#wargamesMaster">Master<br/></a></div>
-	<div class="toc2">⤷ <a href="#wargamesInsane">Insane<br/></a></div>
-	<div class="toc">⤷ Rise<br/></div>
-	<div class="toc2">⤷ <a href="#riseEasy">Easy</a><br/></div>
-	<div class="toc2">⤷ <a href="#riseNormal">Normal</a><br/></div>
-	<div class="toc2">⤷ <a href="#riseHard">Hard<br/></a></div>
-	<div class="toc2">⤷ <a href="#riseMaster">Master<br/></a></div>
-	<div class="toc2">⤷ <a href="#riseInsane">Insane<br/></a></div>
-	<a href="#upgrades">Aegis Upgrades</a><br/>
-	<div class="toc">⤷ <a href="#ion">Ion</a></div>
-	<div class="toc2">⤷ <a href="#ion1">1 - Split Shot Power</a><br/></div>
-	<div class="toc2">⤷ <a href="#ion2">2 - Chassis Upgrade</a><br/></div>
-	<div class="toc2">⤷ <a href="#ion3">3 - Energy Storage<br/></a></div>
-	<div class="toc2">⤷ <a href="#ion4">4 - Split Shot Efficiency<br/></a></div>
-	<div class="toc2">⤷ <a href="#ion5">5 - Shield Upgrade<br/></a></div>
-	<div class="toc2">⤷ <a href="#ion6">6 - Energy Regen<br/></a></div>
-	<div class="toc2">⤷ <a href="#ion7">7 - Reflex Cannon<br/></a></div>
-	<div class="toc">⤷ <a href="#scorch">Scorch</a></div>
-	<div class="toc2">⤷ <a href="#scorch1">1 - Double Threat</a><br/></div>
-	<div class="toc2">⤷ <a href="#scorch2">2 - Chassis Upgrade</a><br/></div>
-	<div class="toc2">⤷ <a href="#scorch3">3 - Hot Streak<br/></a></div>
-	<div class="toc2">⤷ <a href="#scorch4">4 - Roaring Flames<br/></a></div>
-	<div class="toc2">⤷ <a href="#scorch5">5 - Shield Upgrade<br/></a></div>
-	<div class="toc2">⤷ <a href="#scorch6">6 - Triple Threat<br/></a></div>
-	<div class="toc2">⤷ <a href="#scorch7">7 - Explosive Barrels<br/></a></div>
-	<div class="toc">⤷ <a href="#northstar">Northstar</a></div>
-	<div class="toc2">⤷ <a href="#northstar1">1 - Explosive Traps</a><br/></div>
-	<div class="toc2">⤷ <a href="#northstar2">2 - Chassis Upgrade</a><br/></div>
-	<div class="toc2">⤷ <a href="#northstar3">3 - Plasma Railgun: Quick Charge<br/></a></div>
-	<div class="toc2">⤷ <a href="#northstar4">4 - Trap Mastery<br/></a></div>
-	<div class="toc2">⤷ <a href="#northstar5">5 - Shield Upgrade<br/></a></div>
-	<div class="toc2">⤷ <a href="#northstar6">6 - Plasma Railgun: Critical Hit<br/></a></div>
-	<div class="toc2">⤷ <a href="#northstar7">7 - Twin Cluster<br/></a></div>
-	<div class="toc">⤷ <a href="#ronin">Ronin</a></div>
-	<div class="toc2">⤷ <a href="#ronin1">1 - Sword Mastery</a><br/></div>
-	<div class="toc2">⤷ <a href="#ronin2">2 - Chassis Upgrade</a><br/></div>
-	<div class="toc2">⤷ <a href="#ronin3">3 - Ghost in the Machine<br/></a></div>
-	<div class="toc2">⤷ <a href="#ronin4">4 - Kinetic Transfer<br/></a></div>
-	<div class="toc2">⤷ <a href="#ronin5">5 - Shield Upgrade<br/></a></div>
-	<div class="toc2">⤷ <a href="#ronin6">6 - Wraith<br/></a></div>
-	<div class="toc2">⤷ <a href="#ronin7">7 - Blademaster<br/></a></div>
-	<div class="toc">⤷ <a href="#tone">Tone</a></div>
-	<div class="toc2">⤷ <a href="#tone1">1 - 40mm: Splasher Rounds</a><br/></div>
-	<div class="toc2">⤷ <a href="#tone2">2 - Chassis Upgrade</a><br/></div>
-	<div class="toc2">⤷ <a href="#tone3">3 - Sonar Weak Points<br/></a></div>
-	<div class="toc2">⤷ <a href="#tone4">4 - 40mm: Extended Ammo<br/></a></div>
-	<div class="toc2">⤷ <a href="#tone5">5 - Shield Upgrade<br/></a></div>
-	<div class="toc2">⤷ <a href="#tone6">6 - Signal Strength<br/></a></div>
-	<div class="toc2">⤷ <a href="#tone7">7 - Salvo Core Barrage<br/></a></div>
-	<div class="toc">⤷ <a href="#legion">Legion</a></div>
-	<div class="toc2">⤷ <a href="#legion1">1 - Piercing Rounds</a><br/></div>
-	<div class="toc2">⤷ <a href="#legion2">2 - Chassis Upgrade</a><br/></div>
-	<div class="toc2">⤷ <a href="#legion3">3 - Executioner<br/></a></div>
-	<div class="toc2">⤷ <a href="#legion4">4 - Redirect<br/></a></div>
-	<div class="toc2">⤷ <a href="#legion5">5 - Shield Upgrade<br/></a></div>
-	<div class="toc2">⤷ <a href="#legion6">6 - Drill Shot<br/></a></div>
-	<div class="toc2">⤷ <a href="#legion7">7 - Dreadnought<br/></a></div>
-	<div class="toc">⤷ <a href="#monarch">Monarch</a></div>
-	<div class="toc2">⤷ <a href="#mommy1">1 - Energized Smoke</a><br/></div>
-	<div class="toc2">⤷ <a href="#mommy2">2 - Chassis Upgrade</a><br/></div>
-	<div class="toc2">⤷ <a href="#mommy3">3 - XO-16: Sniper Configuration<br/></a></div>
-	<div class="toc2">⤷ <a href="#mommy4">4 - Energized Smoke Lvl 2<br/></a></div>
-	<div class="toc2">⤷ <a href="#mommy5">5 - Shield Upgrade<br/></a></div>
-	<div class="toc2">⤷ <a href="#mommy6">6 - XO-16: Critical Hit<br/></a></div>
-	<div class="toc2">⤷ <a href="#mommy7">7 - Apex Titan<br/></a></div>
+	<a href="#harvester"><b>The Harvester</b></a><br/>
+	
+	<a href="#difficulties"><b>Difficulties</b></a> - <a onClick="showHide('difficulties')" id="difficultiesButton" class="expandoButton">[Expand]</a><br/>
+	<div id="difficultiesContent" style="display: none"><div class="toc">⤷ <b><a href="#easy">Easy</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#normal">Normal</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#hard">Hard</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#master">Master</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#insane">Insane</a></b><br/></div></div>
+	
+	<b><a href="#enemies">Enemies</a></b> - <a onClick="showHide('enemies')" id="enemiesButton" class="expandoButton">[Expand]</a><br/>
+	<div id="enemiesContent" style="display: none"><div class="toc">⤷ <b><a href="#grunt">Grunt</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#shieldCaptain">Shield Captain</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#spectre">Spectre</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#mortarSpectre">Mortar Spectre</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#stalker">Stalker</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#reaper">Reaper</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#tick">Tick</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#cloakDrone">Cloak Drone</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#plasmaDrone">Plasma Drone</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#nukeTitan">Nuke Titan</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#mortarTitan">Mortar Titan</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#arcTitan">Arc Titan</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#sniperTitan">Sniper Titan</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#ionEnemy">Ion</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#scorchEnemy">Scorch</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#northstarEnemy">Northstar</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#roninEnemy">Ronin</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#toneEnemy">Tone</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#legionEnemy">Legion</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#monarchEnemy">Monarch</a></b><br/></div></div>
+	
+	<b><a href="#waves">Waves</a></b> - <a onClick="showHide('waves')" id="wavesButton" class="expandoButton">[Expand]</a><br/>
+	<div id="wavesContent" style="display: none"><div class="toc">⤷ <b><a href="#homestead">Homestead</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#homesteadEasy">Easy</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#homesteadNormal">Normal</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#homesteadHard">Hard</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#homesteadMaster">Master</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#homesteadInsane">Insane</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#kodai">Forwardbase Kodai</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#kodaiEasy">Easy</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#kodaiNormal">Normal</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#kodaiHard">Hard</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#kodaiMaster">Master</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#kodaiInsane">Insane</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#canal">Black Water Canal</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#canalEasy">Easy</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#canalNormal">Normal</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#canalHard">Hard</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#canalMaster">Master</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#canalInsane">Insane</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#warGames">War Games</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#wargamesEasy">Easy</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#wargamesNormal">Normal</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#wargamesHard">Hard</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#wargamesMaster">Master</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#wargamesInsane">Insane</a></b><br/></div>
+	<div class="toc">⤷ <b><a href="#rise">Rise</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#riseEasy">Easy</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#riseNormal">Normal</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#riseHard">Hard</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#riseMaster">Master</a></b><br/></div>
+	<div class="toc2">⤷ <b><a href="#riseInsane">Insane</a></b><br/></div></div>
+	
+	<b><a href="#upgrades">Aegis Upgrades</a></b> - <a onClick="showHide('upgrades')" id="upgradesButton" class="expandoButton">[Expand]</a><br/>
+	<div id="upgradesContent" style="display: none"><div class="toc">⤷ <b><a href="#ion">Ion</a></b> - <a onClick="showHide('ion')" id="ionButton" class="expandoButton">[Expand]</a></div>
+	<div id="ionContent" style="display: none"><div class="toc2">⤷ <a href="#ion1">1 - <b>Split Shot Power</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ion2">2 - <b>Chassis Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ion3">3 - <b>Energy Storage</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ion4">4 - <b>Split Shot Efficiency</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ion5">5 - <b>Shield Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ion6">6 - <b>Energy Regen</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ion7">7 - <b>Reflex Cannon</b></a><br/></div></div>
+	
+	<div class="toc">⤷ <b><a href="#scorch">Scorch</a></b> - <a onClick="showHide('scorch')" id="scorchButton" class="expandoButton">[Expand]</a></div>
+	<div id="scorchContent" style="display: none"><div class="toc2">⤷ <a href="#scorch1">1 - <b>Double Threat</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#scorch2">2 - <b>Chassis Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#scorch3">3 - <b>Hot Streak</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#scorch4">4 - <b>Roaring Flames</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#scorch5">5 - <b>Shield Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#scorch6">6 - <b>Triple Threat</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#scorch7">7 - <b>Explosive Barrels</b></a><br/></div></div>
+	
+	<div class="toc">⤷ <b><a href="#northstar">Northstar</a></b> - <a onClick="showHide('northstar')" id="northstarButton" class="expandoButton">[Expand]</a></div>
+	<div id="northstarContent" style="display: none"><div class="toc2">⤷ <a href="#northstar1">1 - <b>Explosive Traps</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#northstar2">2 - <b>Chassis Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#northstar3">3 - <b>Plasma Railgun: Quick Charge</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#northstar4">4 - <b>Trap Mastery</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#northstar5">5 - <b>Shield Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#northstar6">6 - <b>Plasma Railgun: Critical Hit</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#northstar7">7 - <b>Twin Cluster</b></a><br/></div></div>
+	
+	<div class="toc">⤷ <b><a href="#ronin">Ronin</a></b> - <a onClick="showHide('ronin')" id="roninButton" class="expandoButton">[Expand]</a></div>
+	<div id="roninContent" style="display: none"><div class="toc2">⤷ <a href="#ronin1">1 - <b>Sword Mastery</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ronin2">2 - <b>Chassis Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ronin3">3 - <b>Ghost in the Machine</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ronin4">4 - <b>Kinetic Transfer</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ronin5">5 - <b>Shield Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ronin6">6 - <b>Wraith</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#ronin7">7 - <b>Blademaster</b></a><br/></div></div>
+	
+	<div class="toc">⤷ <b><a href="#tone">Tone</a></b> - <a onClick="showHide('tone')" id="toneButton" class="expandoButton">[Expand]</a></div>
+	<div id="toneContent" style="display: none"><div class="toc2">⤷ <a href="#tone1">1 - <b>40mm: Splasher Rounds</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#tone2">2 - <b>Chassis Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#tone3">3 - <b>Sonar Weak Points</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#tone4">4 - <b>40mm: Extended Ammo</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#tone5">5 - <b>Shield Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#tone6">6 - <b>Signal Strength</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#tone7">7 - <b>Salvo Core Barrage</b></a><br/></div></div>
+	
+	<div class="toc">⤷ <b><a href="#legion">Legion</a></b> - <a onClick="showHide('legion')" id="legionButton" class="expandoButton">[Expand]</a></div>
+	<div id="legionContent" style="display: none"><div class="toc2">⤷ <a href="#legion1">1 - <b>Piercing Rounds</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#legion2">2 - <b>Chassis Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#legion3">3 - <b>Executioner</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#legion4">4 - <b>Redirect</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#legion5">5 - <b>Shield Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#legion6">6 - <b>Drill Shot</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#legion7">7 - <b>Dreadnought</b></a><br/></div></div>
+	
+	<div class="toc">⤷ <b><a href="#monarch">Monarch</a></b> - <a onClick="showHide('monarch')" id="monarchButton" class="expandoButton">[Expand]</a></div>
+	<div id="monarchContent" style="display: none"><div class="toc2">⤷ <a href="#mommy1">1 - <b>Energized Smoke</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#mommy2">2 - <b>Chassis Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#mommy3">3 - <b>XO-16: Sniper Configuration</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#mommy4">4 - <b>Energized Smoke Lvl 2</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#mommy5">5 - <b>Shield Upgrade</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#mommy6">6 - <b>XO-16: Critical Hit</b></a><br/></div>
+	<div class="toc2">⤷ <a href="#mommy7">7 - <b>Apex Titan</b></a><br/></div></div></div>
 	</td></tr>
 </table>
 <br/><br/>
