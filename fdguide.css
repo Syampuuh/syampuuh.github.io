@@ -1,22 +1,22 @@
 @font-face {
 	font-family: MetronicProRegular;
-	src: url("metronic pro regular.woff");
+	src: url("fonts/metronic/metronic pro regular.woff");
 }
 
 @font-face {
 	font-family: MetronicProRegular;
-	src: url("metronic pro semibold.woff");
+	src: url("fonts/metronic/metronic pro semibold.woff");
 	font-weight: bold;
 }
 
 @font-face {
 	font-family: MetronicProItalic;
-	src: url("metronic pro italic.woff");
+	src: url("fonts/metronic/metronic pro italic.woff");
 }
 
 @font-face {
 	font-family: MetronicProItalic;
-	src: url("metronic pro semibold italic.woff");
+	src: url("fonts/metronic/metronic pro semibold italic.woff");
 	font-weight: bold;
 }
 
@@ -27,110 +27,110 @@
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_extra_light-webfont.eot');
+    src: url('fonts/kiro/kiro_extra_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_extra_light-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_extra_light-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_extra_light-webfont.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light_italic-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light_italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light_italic-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light_italic-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_light_italic-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_extra_light_italic-webfont.eot');
+    src: url('fonts/kiro/kiro_extra_light_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_extra_light_italic-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_extra_light_italic-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_extra_light_italic-webfont.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro.light-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro.light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro.light-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro.light-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro.light-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro.light-webfont.eot');
+    src: url('fonts/kiro/kiro.light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro.light-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro.light-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro.light-webfont.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_light_italic-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_light_italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_light_italic-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_light_italic-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_light_italic-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_light_italic-webfont.eot');
+    src: url('fonts/kiro/kiro_light_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_light_italic-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_light_italic-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_light_italic-webfont.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_regular-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_regular-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_regular-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_regular-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_regular-webfont.eot');
+    src: url('fonts/kiro/kiro_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_regular-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_regular-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_regular-webfont.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_italic-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_italic-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_italic-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_italic-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_italic-webfont.eot');
+    src: url('fonts/kiro/kiro_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_italic-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_italic-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_italic-webfont.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_bold-webfont.eot');
+    src: url('fonts/kiro/kiro_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_bold-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_bold-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_bold-webfont.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold_italic-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold_italic-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold_italic-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_bold_italic-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_bold_italic-webfont.eot');
+    src: url('fonts/kiro/kiro_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_bold_italic-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_bold_italic-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_bold_italic-webfont.ttf') format('truetype');
     font-weight: 700;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_extra_bold-webfont.eot');
+    src: url('fonts/kiro/kiro_extra_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_extra_bold-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_extra_bold-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_extra_bold-webfont.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'kiro';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold_italic-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold_italic-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold_italic-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_extra_bold_italic-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_extra_bold_italic-webfont.eot');
+    src: url('fonts/kiro/kiro_extra_bold_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_extra_bold_italic-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_extra_bold_italic-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_extra_bold_italic-webfont.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
 }
@@ -139,22 +139,22 @@
 
 @font-face {
     font-family: 'kirothin';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_thin-webfont.eot');
+    src: url('fonts/kiro/kiro_thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_thin-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_thin-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_thin-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'kirothin_italic';
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin_italic-webfont.eot');
-    src: url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin_italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin_italic-webfont.woff2') format('woff2'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin_italic-webfont.woff') format('woff'),
-         url('https://www.respawn.com/wp-content/themes/respawn/assets/fonts/kiro_thin_italic-webfont.ttf') format('truetype');
+    src: url('fonts/kiro/kiro_thin_italic-webfont.eot');
+    src: url('fonts/kiro/kiro_thin_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/kiro/kiro_thin_italic-webfont.woff2') format('woff2'),
+         url('fonts/kiro/kiro_thin_italic-webfont.woff') format('woff'),
+         url('fonts/kiro/kiro_thin_italic-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
