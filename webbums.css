@@ -79,7 +79,7 @@ td {
 
 @keyframes warning {
 	0% {color:red;}
-    50% {color:darkred;}
+	50% {color:darkred;}
 	100% {color:red;}
 }
 
@@ -94,7 +94,7 @@ td {
 
 @keyframes safe {
 	0% {color:lawngreen;}
-    50% {color:darkgreen;}
+	50% {color:darkgreen;}
 	100% {color:lawngreen;}
 }
 
@@ -109,7 +109,7 @@ td {
 
 @keyframes caution {
 	0% {color:gold;}
-    50% {color:darkgoldenrod;}
+	50% {color:darkgoldenrod;}
 	100% {color:gold;}
 }
 
@@ -120,4 +120,13 @@ td {
 	text-shadow: 2px 2px 8px darkgoldenrod;
 	font-weight: bold;
 	font-family: MetronicProRegular, pt-sans-narrow, sans-serif;
+}
+
+#overlay {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	overflow:visible;
+	pointer-events:none;
+	background:none !important;
 }

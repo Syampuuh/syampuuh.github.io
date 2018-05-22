@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Subtitle Video Overlay Demo</title>
+<script src="https://use.typekit.net/asw3wve.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<link type="text/css" rel="stylesheet" href="webbums.css">
+</head>
+<body>
+	<center>
+		<h1>Subtitle Video Overlay Demo</h1>
+		<div style="position: relative; display: inline;">
+			<iframe width="1280" height="720" src="https://www.youtube.com/embed/butibDkXZL4?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen id="youtube"></iframe>
+			<video src="https://my.mixtape.moe/hvovcu.webm" height="720" id="overlay"/>
+		</div>
+		<h2 style="margin-bottom: 0px;margin-top: 0px">Works best in Chrome</h2>
+		<h3 style="margin-top: 0px">And by that I mean probably <i>only</i> works in Chrome</h3>
+	</center>
+	
+<script>
+	setTimeout(function(){
+	document.getElementById("overlay").play();
+	}, 500);
+</script>
+</body>
+</html>
