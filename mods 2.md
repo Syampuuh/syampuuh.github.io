@@ -1,4 +1,4 @@
-## Mod Showcase: wacky survival heck
+## Mod Showcase: shampooh's mods
 
 **Exported from Vortex by Shampooh**
 
@@ -6,411 +6,36 @@
 
 <hr />
 
-- [XM2010 Enhanced Sniper Rifle - 0.XM2010.Leveled List.Patch.Data 4.1](#xm2010-enhanced-sniper-rifle---0xm2010leveled-listpatchdata-41)
-- [Q.M.W (Quick Modification Weapon)(Only mod weapon) - 0_WheelMenu.UI Remastered.2021.3.7 1.49](#qmw--quick-modification-weapononly-mod-weapon---0_wheelmenuui-remastered202137-149)
-- [Kill Tips and Hit Sound (Remastered) - 1_BPM Mini UI 2.21](#kill-tips-and-hit-sound-remastered---1_bpm-mini-ui-221)
-- [Streetlight Radius Fix - 3x Radius 40x Falloff 1b](#streetlight-radius-fix---3x-radius-40x-falloff-1b)
-- [K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat - 4K Textures v1.1 1.1](#k-9-harness----tactical-body-armor-and-backpack-for-dogmeat---4k-textures-v11-11)
-- [Mk17-Mk20 Project - 4K 1.0](#mk17-mk20-project---4k-10)
-- [Lowered Jetpack AP Drain - 50 Percent 1.0](#lowered-jetpack-ap-drain---50-percent-10)
-- [512 Standalone Hair Colors (1 ESP) 2.0](#512-standalone-hair-colors-1-esp-20)
-- [9x39 Project - v2.0 2.0](#9x39-project---v20-20)
-- [A-10 Warthog CAS 1.1 1.1](#a-10-warthog-cas-11-11)
-- [AK400 - Assault Rifle 1.0](#ak400---assault-rifle-10)
-- [AKM Complex - 1.0 - MAIN 1.0](#akm-complex---10---main-10)
-- [AKe Volk 1.0](#ake-volk-10)
-- [ANiceOakTree Vanilla Match v2.0 2](#aniceoaktree-vanilla-match-v20-2)
-- [ANiceOakTree's Hairstyles 2.0](#aniceoaktrees-hairstyles-20)
-- [APC Home on the Move - APC Mobile Base v1.5.4 1.5.4](#apc-home-on-the-move---apc-mobile-base-v154-154)
-- [ASh-12.7 - 1.0 - 4K 1.0](#ash-127---10---4k-10)
-- [ASh-12.7 - 1.0.1 - UPDATE ONLY 1.0.1](#ash-127---101---update-only-101)
-- [MK14 EBR - AWKCR Compatibility Patch](#mk14-ebr---awkcr-compatibility-patch)
-- [9x39 Project - AWKCR Compatibility Patch](#9x39-project---awkcr-compatibility-patch)
-- [Accuracy International AX50 - See-Through Update 1.1a](#accuracy-international-ax50---see-through-update-11a)
-- [Accuracy International AX50 1.0](#accuracy-international-ax50-10)
-- [Address Library 1.10.163.0](#address-library-1101630)
-- [Adrenaline Redone - Default Timescale 20 2a](#adrenaline-redone---default-timescale-20-2a)
-- [Advanced Bubble Turret Set - All in One Installer v1.1](#advanced-bubble-turret-set---all-in-one-installer-v11)
-- [Advanced Settlement Turret Set - All in One Installer Complete Version v2.5](#advanced-settlement-turret-set---all-in-one-installer-complete-version-v25)
-- [Aggressive synth voice overhaul 1.0](#aggressive-synth-voice-overhaul-10)
-- [Heckler und Koch - MP5 Complex - Alternate Fire Sounds by Partisan 1.0](#heckler-und-koch---mp5-complex---alternate-fire-sounds-by-partisan-10)
-- [Heckler und Koch - UMP - Alternate Sounds by Lena 1.0](#heckler-und-koch---ump---alternate-sounds-by-lena-10)
-- [Springfield Armory M1A - Alternative textures by OhDeer 1.0](#springfield-armory-m1a---alternative-textures-by-ohdeer-10)
-- [Ambient Fallout Compilation 1.4 1.4](#ambient-fallout-compilation-14-14)
-- [AMMO UI HUD and my hud config - Ammo UI 1.1](#ammo-ui-hud-and-my-hud-config---ammo-ui-11)
-- [Animated Ingestibles - Food and Drink - octodecoy's version 1.1fix](#animated-ingestibles---food-and-drink---octodecoys-version-11fix)
-- [Animated Radaway 1.01 1.01](#animated-radaway-101-101)
-- [AnimeRace Nanakochan CBBE Reskin - AnimeRace CBBE Skin replacer 1.2 (darker skin navel and face texture) 1.2](#animerace-nanakochan-cbbe-reskin---animerace-cbbe-skin-replacer-12-darker-skin-navel-and-face-texture-12)
-- [AnimeRace Companion Cait 0.1](#animerace-companion-cait-01)
-- [AnimeRace Companion Curie 0.1](#animerace-companion-curie-01)
-- [AnimeRace Companion Piper 0.1](#animerace-companion-piper-01)
-- [AnimeRace NPC Kasumi 0.1](#animerace-npc-kasumi-01)
-- [AnimeRace Nanakochan v1.5.01 1.5.01](#animerace-nanakochan-v1501-1501)
-- [AnimeRace Nanakochan - AnimeRace_512StandaloneHairColors compatible files 1.5](#animerace-nanakochan---animerace_512standalonehaircolors-compatible-files-15)
-- [Animerace Nanakochan More Eyes 1.0](#animerace-nanakochan-more-eyes-10)
-- [Armor and Weapon Keywords Community Resource v8.6.0 v8.6.0](#armor-and-weapon-keywords-community-resource-v860-v860)
-- [Armorsmith Extended v4.6 v4.6](#armorsmith-extended-v46-v46)
-- [Artillery SFX 1.0](#artillery-sfx-10)
-- [Assaultron Grab Skills 1.0.2](#assaultron-grab-skills-102)
-- [Auto Hide Crosshair 1.02 1.02](#auto-hide-crosshair-102-102)
-- [AutoLockpick 1.2](#autolockpick-12)
-- [Automatically Lowered Weapons 1.4](#automatically-lowered-weapons-14)
-- [Autosave Manager 1.30](#autosave-manager-130)
-- [BOCW Outfit Pack Update 2.2 - Survivor 2.2](#bocw-outfit-pack-update-22---survivor-22)
-- [Baka ScrapHeap - Script Memory Limit Expander - Baka ScrapHeap 1.3](#baka-scrapheap---script-memory-limit-expander---baka-scrapheap-13)
-- [Better Explosives Redux 1.2.0](#better-explosives-redux-120)
-- [Better Sleep And Wait Menu 1.2](#better-sleep-and-wait-menu-12)
-- [Better Spotlights 1.0](#better-spotlights-10)
-- [BetterCompanions 1.24](#bettercompanions-124)
-- [Binoculars Animation Replacer 1.0](#binoculars-animation-replacer-10)
-- [Binoculars Fire Support Addon 2.0.1](#binoculars-fire-support-addon-201)
-- [Bird Killer ESL 1.0](#bird-killer-esl-10)
-- [BodySlide and Outfit Studio 5.3.1](#bodyslide-and-outfit-studio-531)
-- [Brighter Settlement Lights v1.2 1.2](#brighter-settlement-lights-v12-12)
-- [Brighter Wasteland Workshop Lights 1.0](#brighter-wasteland-workshop-lights-10)
-- [Buffout 4 1.22.0](#buffout-4-1220)
-- [Buildable Barricades and Guard Posts v1.6 1.6](#buildable-barricades-and-guard-posts-v16-16)
-- [Bullet Casings Redone I.4](#bullet-casings-redone-i4)
-- [Bullet Counted Reload - v.1.05b 1.05b](#bullet-counted-reload---v105b-105b)
-- [CROSS_2077_091b 091b](#cross_2077_091b-091b)
-- [CROSS_BrotherhoodRecon_091b2 091b2](#cross_brotherhoodrecon_091b2-091b2)
-- [CROSS_CoA_091a_ESP 091a](#cross_coa_091a_esp-091a)
-- [CROSS_CourserStrigidae_090c 090c](#cross_courserstrigidae_090c-090c)
-- [CROSS_GoreCrits_092beta 092beta](#cross_gorecrits_092beta-092beta)
-- [CROSS_GoreCrits_91g .91g](#cross_gorecrits_91g-91g)
-- [CROSS_InstituteExpeditionarySuit_090b 090b](#cross_instituteexpeditionarysuit_090b-090b)
-- [CROSS_VertibirdFlightsuit_091 091](#cross_vertibirdflightsuit_091-091)
-- [Customizable Targeting HUD - CTH_0.3.1 0.3.1](#customizable-targeting-hud---cth_031-031)
-- [CWMercOutfitAEPatch 1.0](#cwmercoutfitaepatch-10)
-- [Caliente's Beautiful Bodies Enhancer - v2.6.3 2.6.3](#calientes-beautiful-bodies-enhancer---v263-263)
-- [Capital Wasteland Behemoths 1.0](#capital-wasteland-behemoths-10)
-- [Car Physics Death Bug Fix 1.0](#car-physics-death-bug-fix-10)
-- [Cartographers Map Markers 4.3](#cartographers-map-markers-43)
-- [Cinematic Kills 1.1](#cinematic-kills-11)
-- [Cinematic Lensflares 1.1 (Sun and Lights) 1.1](#cinematic-lensflares-11-sun-and-lights-11)
-- [Classic Fallout Music 1.4b 1.4b](#classic-fallout-music-14b-14b)
-- [Classic Combat Armor - Armoursmith Extended 4.3.6](#classic-combat-armor---armoursmith-extended-436)
-- [Clean Power Armor HUD v1.1b 1.1b](#clean-power-armor-hud-v11b-11b)
-- [Cleaner Reflex Glass 1.0](#cleaner-reflex-glass-10)
-- [Clock Widget - Show Real Time While Loading - Clock Widget v1.4.0](#clock-widget---show-real-time-while-loading---clock-widget-v140)
-- [Commonwealth Cuts 2.5.1 2.5.1](#commonwealth-cuts-251-251)
-- [Commonwealth Cuts Vanilla Match v1 1](#commonwealth-cuts-vanilla-match-v1-1)
-- [Compact Jetpack 1.2](#compact-jetpack-12)
-- [Companion Status 1.0b 1.0](#companion-status-10b-10)
-- [CompanionStatus - UI Remastered - (Default Headpic-Pipboy) 1.0](#companionstatus---ui-remastered---default-headpic-pipboy-10)
-- [Companions Sneak Ada Added 3](#companions-sneak-ada-added-3)
-- [Consolidate Weapon Crafting Recipes Surplus (CWCRS) 1.5.9](#consolidate-weapon-crafting-recipes-surplus-cwcrs-159)
-- [Convenient Ammo Crafting Extended 1.0](#convenient-ammo-crafting-extended-10)
-- [Crossbow 1.1](#crossbow-11)
-- [Increased Build Limit Enhanced 4K - DD_Is_a_god_All IN One Enhanced Build Limit Epic.2.0](#increased-build-limit-enhanced-4k---dd_is_a_god_all-in-one-enhanced-build-limit-epic20)
-- [HUDFramework - 01. DEF_UI Compatibility Patch](#hudframework---01-def_ui-compatibility-patch)
-- [DaFi's Arsenal SFX Version Da Da](#dafis-arsenal-sfx-version-da-da)
-- [Darker Nights - Darker Nights No Fog Glow Fix for Far Harbor DLC](#darker-nights---darker-nights-no-fog-glow-fix-for-far-harbor-dlc)
-- [Darker Nights 1.11p6](#darker-nights-111p6)
-- [Deathclaw Grab Skills 1.1.0](#deathclaw-grab-skills-110)
-- [Def_ui 1.5.1 1.5.1](#def_ui-151-151)
-- [Desert Eagle 2.1](#desert-eagle-21)
-- [Destroy BoS for Good Guys (Cat) 1.0](#destroy-bos-for-good-guys-cat-10)
-- [Digital Nightmare Main v1.10 1.10](#digital-nightmare-main-v110-110)
-- [Director's Quarters 1.1](#directors-quarters-11)
-- [Dogs can grab player 2.1.0](#dogs-can-grab-player-210)
-- [Domino Lynx 1.0](#domino-lynx-10)
-- [Doom Eternal in Fallout Sounds v2.1](#doom-eternal-in-fallout-sounds-v21)
-- [Dynamic Weapon Shadows 1.3](#dynamic-weapon-shadows-13)
-- [E3PC - Enhanced 3rd Person Camera - E3PC - v1.2 1.2](#e3pc---enhanced-3rd-person-camera---e3pc---v12-12)
-- [Excessive Blood Spray Overhaul - EBSO v1.2](#excessive-blood-spray-overhaul---ebso-v12)
-- [Enhanced Blood Textures - EBT_Basic v101 1.01](#enhanced-blood-textures---ebt_basic-v101-101)
-- [Face Light - Fallout 4 Edition - ESL 1.1a MCM Hotfix 1.1a](#face-light---fallout-4-edition---esl-11a-mcm-hotfix-11a)
-- [Face Light - Fallout 4 Edition - ESL Version 1.1a 1.1a](#face-light---fallout-4-edition---esl-version-11a-11a)
-- [Companion Stealth Distance Fix (No Free Hugs) - Now with No Dogmeat in Crosshairs - ESPFE Follower Stealth Distance Fixes (ESL-tagged ESP file) 5.1](#companion-stealth-distance-fix-no-free-hugs---now-with-no-dogmeat-in-crosshairs---espfe-follower-stealth-distance-fixes-esl-tagged-esp-file-51)
-- [Easy Hacking 1.0](#easy-hacking-10)
-- [Eli's Armour Compendium - CBBE and BodySlide 1.5 1.5](#elis-armour-compendium---cbbe-and-bodyslide-15-15)
-- [Elysium AK 1.0](#elysium-ak-10)
-- [Enhanced Lights and FX 1.0](#enhanced-lights-and-fx-10)
-- [Experimental Hats w Hair 2021 AIO 1.2](#experimental-hats-w-hair-2021-aio-12)
-- [Explosion Knockdown FOMOD 1.5](#explosion-knockdown-fomod-15)
-- [Explosives Expanded 1.0](#explosives-expanded-10)
-- [Extended Dialogue Interface 1.3.6 1.3.6](#extended-dialogue-interface-136-136)
-- [Extreme Particles Overhaul - Less Bloom 3.0](#extreme-particles-overhaul---less-bloom-30)
-- [Eye Liner Masks 0.3](#eye-liner-masks-03)
-- [GIAT FAMAS - FELIN 3rd Person Reload Tweak 404](#giat-famas---felin-3rd-person-reload-tweak-404)
-- [FN FAL SA 58 Main 1.03.2 1.03.2](#fn-fal-sa-58-main-1032-1032)
-- [FNX-45 V1.1](#fnx-45-v11)
-- [FO4 BLOODv1 x1024 x2048 1.0](#fo4-bloodv1-x1024-x2048-10)
-- [FOMOD Installer - Immersive Burning Molotovs and Flamers (Flamers Optional) 1.2](#fomod-installer---immersive-burning-molotovs-and-flamers-flamers-optional-12)
-- [Weapons Project - FOMOD Installer 11](#weapons-project---fomod-installer-11)
-- [FOV Slider and Player Height - ESL version 1.3](#fov-slider-and-player-height---esl-version-13)
-- [AKe Volk - FTL V1.0 1.0](#ake-volk---ftl-v10-10)
-- [Fallout water overhaul - FWO - 1.2 - 4K 1.2](#fallout-water-overhaul---fwo---12---4k-12)
-- [Faded Glory - A Post-Apocalyptic Soundscape 5-1](#faded-glory---a-post-apocalyptic-soundscape-5-1)
-- [FallShark 1](#fallshark-1)
-- [FallUI - Map 1.0.3](#fallui---map-103)
-- [FallUI Workbench 1.2](#fallui-workbench-12)
-- [FallUI - Inventory Interface For PC (Pipboy Container Trader) - FallUI 1.12.1](#fallui---inventory-interface-for-pc-pipboy-container-trader---fallui-1121)
-- [Fallout Suite - Soundtrack Extension for Fallout 4 - Fallout Suite v.1.1 1.1](#fallout-suite---soundtrack-extension-for-fallout-4---fallout-suite-v11-11)
-- [Famished v2 2](#famished-v2-2)
-- [Digital Nightmare - Dark Apocalyptic Soundtrack - Far Harbor Music Addon 1.0](#digital-nightmare---dark-apocalyptic-soundtrack---far-harbor-music-addon-10)
-- [Faster Getup 1.0.0](#faster-getup-100)
-- [Faster Terminal Displays (20x) Creation Kit Version 3.0](#faster-terminal-displays-20x-creation-kit-version-30)
-- [Fences HD 1.0](#fences-hd-10)
-- [Feral Ghoul Bite Skills 1.1.0](#feral-ghoul-bite-skills-110)
-- [Fixed Creature Death Drops 1.0](#fixed-creature-death-drops-10)
-- [Lamprey Floaters - Floaters Initial Release 1.0](#lamprey-floaters---floaters-initial-release-10)
-- [Fostech Origin 12 1.0](#fostech-origin-12-10)
-- [G36 Complex - v2.0 2.0](#g36-complex---v20-20)
-- [GIAT FAMAS - 1st Person Power Armor Speedwalk Fix 1.0](#giat-famas---1st-person-power-armor-speedwalk-fix-10)
-- [GIAT FAMAS 1.0](#giat-famas-10)
-- [GKX Worlthwhile Caps Stashes 4 ESL Only 4.0](#gkx-worlthwhile-caps-stashes-4-esl-only-40)
-- [Faction Housing Overhaul - The Castle - General's Quarters 1.1](#faction-housing-overhaul---the-castle---generals-quarters-11)
-- [Glock 19x Pistol 1.0](#glock-19x-pistol-10)
-- [Modern Weapon Replacer - Glock 19x (FX0x01) - Glock 19x Replacer (FX0x01) - FOMOD Installer 1.0](#modern-weapon-replacer---glock-19x-fx0x01---glock-19x-replacer-fx0x01---fomod-installer-10)
-- [Glowing Animals Emit Light - ALL DLC 1.1](#glowing-animals-emit-light---all-dlc-11)
-- [Petal Gasmask - Petal Gasmask - Glowmap - Optional but Recommended V1.3](#petal-gasmask---petal-gasmask---glowmap---optional-but-recommended-v13)
-- [Goodneighbor Apartment 1.2a 1.2a](#goodneighbor-apartment-12a-12a)
-- [Three Warehouses - Player Home in Goodneighbor - GoodneighborWarehouses ESL 1.3](#three-warehouses---player-home-in-goodneighbor---goodneighborwarehouses-esl-13)
-- [Graf's Security Fences 1.4](#grafs-security-fences-14)
-- [Grenade Expansion Pack - Multi Plugin Installer 2.4.1 2.4.1](#grenade-expansion-pack---multi-plugin-installer-241-241)
-- [Guns and Explosives Perk Overhaul v1.0](#guns-and-explosives-perk-overhaul-v10)
-- [Gunslinger Rifleman Swap 1.0](#gunslinger-rifleman-swap-10)
-- [HK G3 Family 1.4 1.4](#hk-g3-family-14-14)
-- [HK USP .45(New) With Tactical Knife 1.5](#hk-usp-45new-with-tactical-knife-15)
-- [Heckler and Koch HK416 - HK416 - NPC Leveled List 1.3](#heckler-and-koch-hk416---hk416---npc-leveled-list-13)
-- [Heckler and Koch HK416 - HK416 1.3](#heckler-and-koch-hk416---hk416-13)
-- [HUD Plus Plus v1.1.0](#hud-plus-plus-v110)
-- [HUDFramework 1.0f 1.0f](#hudframework-10f-10f)
-- [Heckler und Koch - MP5 Complex 1.0](#heckler-und-koch---mp5-complex-10)
-- [Heckler und Koch - MP7 1.0](#heckler-und-koch---mp7-10)
-- [Heckler und Koch - UMP 1.0](#heckler-und-koch---ump-10)
-- [High FPS Physics Fix 0.8.3](#high-fps-physics-fix-083)
-- [Highlight Console Reference 1.0.0](#highlight-console-reference-100)
-- [Honey Badger 1.0](#honey-badger-10)
-- [Immersive Fallout Combat - IFC - IFC Complete 1.1](#immersive-fallout-combat---ifc---ifc-complete-11)
-- [IceStorms Sci-Fi GRL45 1.3](#icestorms-sci-fi-grl45-13)
-- [Idroid Voice Service 1.3.0](#idroid-voice-service-130)
-- [Immersive Dogmeat - ESP 1.0](#immersive-dogmeat---esp-10)
-- [Impact Grenades 1](#impact-grenades-1)
-- [Inner City Ambience ESL (Reup) x2 1.2](#inner-city-ambience-esl-reup-x2-12)
-- [Inside Jobs - UFO4P Patch ESL 4.01](#inside-jobs---ufo4p-patch-esl-401)
-- [Inside Jobs - VIS-G Sorting Tags - ESL 4.01](#inside-jobs---vis-g-sorting-tags---esl-401)
-- [Inside Jobs - Commonwealth Interiors Add-On - Inside Jobs 4.0](#inside-jobs---commonwealth-interiors-add-on---inside-jobs-40)
-- [Inspect weapons.(12.29update).Data](#inspect-weapons1229updatedata)
-- [Interiors Enhanced 2.0 - ALL IN ONE 2.0](#interiors-enhanced-20---all-in-one-20)
-- [Invisible Light (USE HOLOTAPE BEFORE UNINSTALL) 1.2](#invisible-light-use-holotape-before-uninstall-12)
-- [JaL - Just a Ladder (REDUX) 2.01-redux-beta](#jal---just-a-ladder-redux-201-redux-beta)
-- [Juger Pistols 1.0.2 ESL 1.0.2](#juger-pistols-102-esl-102)
-- [K-9 Harness - Tactical Body Armor for Dogmeat 1.1](#k-9-harness---tactical-body-armor-for-dogmeat-11)
-- [Kill Tips and Hit Sound(ESL file)Remastered 2.5.5](#kill-tips-and-hit-soundesl-fileremastered-255)
-- [LOST AWKCR VIS-G Patches 2.2](#lost-awkcr-vis-g-patches-22)
-- [LString Bow 1.4.4.1](#lstring-bow-1441)
-- [Lee Enfield No. 4 Mk. 1 1.5 1.5](#lee-enfield-no-4-mk-1-15-15)
-- [Leveled Raiders 1](#leveled-raiders-1)
-- [Lever Action Sniper Rifle.zip 1.1](#lever-action-sniper-riflezip-11)
-- [LightFlares and ChemLights 1.0.4](#lightflares-and-chemlights-104)
-- [Limited grenades 1.0](#limited-grenades-10)
-- [Live Dismemberment - Increased Headshot Damage 1](#live-dismemberment---increased-headshot-damage-1)
-- [Lone Wanderer Fast Travel V2.0.0 2.0.0](#lone-wanderer-fast-travel-v200-200)
-- [LongRangeBulletImpacts_v1_4_2 1.4.2](#longrangebulletimpacts_v1_4_2-142)
-- [Look At Me AE 1.0](#look-at-me-ae-10)
-- [Look At Me GE 1.1](#look-at-me-ge-11)
-- [Look At Me IE 1.1](#look-at-me-ie-11)
-- [Look At Me TE 1.0](#look-at-me-te-10)
-- [Looks Menu Customization Compendium v10](#looks-menu-customization-compendium-v10)
-- [LooksMenu v1-6-20 21-9 1.6.20](#looksmenu-v1-6-20-21-9-1620)
-- [Loot Detector (ESL) 3800](#loot-detector-esl-3800)
-- [Lush Ambience ESL 2.1](#lush-ambience-esl-21)
-- [M45A1 V1.1](#m45a1-v11)
-- [MK14 EBR - Main Files 1.7](#mk14-ebr---main-files-17)
-- [MK18 CQBR 1st Person Sound Fix - Loose Files 1.0](#mk18-cqbr-1st-person-sound-fix---loose-files-10)
-- [MK18 CQBR 1.0](#mk18-cqbr-10)
-- [MTs-255 Revolver Shotgun - 4K Textures 1.4](#mts-255-revolver-shotgun---4k-textures-14)
-- [MW Farah 1.0](#mw-farah-10)
-- [MW Grenades Replacer 1](#mw-grenades-replacer-1)
-- [MW3 - Oakley Factory Pilot Combat Gloves 1.0](#mw3---oakley-factory-pilot-combat-gloves-10)
-- [MWstriker - Striker 45 1.0](#mwstriker---striker-45-10)
-- [KS Hairdos Addon(s) with Physics - SUNMOON9 SUNMOON9](#ks-hairdos-addons-with-physics---sunmoon9-sunmoon9)
-- [Manual Reload Simple v1.02 v1.02](#manual-reload-simple-v102-v102)
-- [Mark VII Turret Only v1.1](#mark-vii-turret-only-v11)
-- [McMillan CS5 Base v2.0 2.0](#mcmillan-cs5-base-v20-20)
-- [Digital Nightmare - Dark Apocalyptic Soundtrack - Mega Battle Pack FIX 2 v1.12](#digital-nightmare---dark-apocalyptic-soundtrack---mega-battle-pack-fix-2-v112)
-- [Mercenary Outfits Initial Release 1.0](#mercenary-outfits-initial-release-10)
-- [Metal Gear Solid Audio Pack 1.0](#metal-gear-solid-audio-pack-10)
-- [Metro Replacer - Base Game v1.2a](#metro-replacer---base-game-v12a)
-- [Heckler and Koch - Mark 23 SOCOM - Mk 23 SOCOM - 1.0 - MAIN 1.0](#heckler-and-koch---mark-23-socom---mk-23-socom---10---main-10)
-- [Moar Blood 1.0](#moar-blood-10)
-- [Mod Configuration Menu 1.39 1.39](#mod-configuration-menu-139-139)
-- [Modern Weapon Replacers - All In One Pack - FOMOD Installer FOMOD12](#modern-weapon-replacers---all-in-one-pack---fomod-installer-fomod12)
-- [Mojave Geckos v1 1](#mojave-geckos-v1-1)
-- [Mossberg 500 - Update 1.0b](#mossberg-500---update-10b)
-- [Mossberg 500 1.0](#mossberg-500-10)
-- [Move (Get Out the Way) 1](#move-get-out-the-way-1)
-- [MsAbominationsV1_0_1 1.0.1](#msabominationsv1_0_1-101)
-- [Musical Lore - Wasteland Edition (Soundtrack Mod By Nir Shor) - Musical Lore V1.6 1.6](#musical-lore---wasteland-edition-soundtrack-mod-by-nir-shor---musical-lore-v16-16)
-- [NWM Playing House 1.3a](#nwm-playing-house-13a)
-- [Nameplates v1-1-13 1.1.13](#nameplates-v1-1-13-1113)
-- [NanakoChan NPC-Replacer 0.9](#nanakochan-npc-replacer-09)
-- [Nerf Those Quick Hands -20 Percent V1](#nerf-those-quick-hands--20-percent-v1)
-- [Private Military Company - Nexus PMC 3.0 3.0](#private-military-company---nexus-pmc-30-30)
-- [Private Military Company - Nexus PMC 3.0.2 Hotfix 3.0.2](#private-military-company---nexus-pmc-302-hotfix-302)
-- [No Aggro Impact Landing 1.0](#no-aggro-impact-landing-10)
-- [No Screen Blood Splatter 1.0](#no-screen-blood-splatter-10)
-- [Better Companions - All In One - NoSharedDogmeatTemplate 1.00](#better-companions---all-in-one---noshareddogmeattemplate-100)
-- [Nomex Glove Update 1.0](#nomex-glove-update-10)
-- [Nomex Gloves 1.0](#nomex-gloves-10)
-- [Elysium AK - Nuka World 7.62 Patch 1.0](#elysium-ak---nuka-world-762-patch-10)
-- [True Storms - Wasteland Edition (Thunder-Rain-Weather Redone) - Nuka World Plus Far Harbor Add-On. 1.4.1](#true-storms---wasteland-edition-thunder-rain-weather-redone---nuka-world-plus-far-harbor-add-on-141)
-- [PCPO - Power Conduits and Pylons Overhaul 2.00](#pcpo---power-conduits-and-pylons-overhaul-200)
-- [PIP-Pad 0.7b 0.7b](#pip-pad-07b-07b)
-- [PL-14 'Lebedev' - PL-14 - 4K - 1.0 1.0](#pl-14-lebedev---pl-14---4k---10-10)
-- [PL-14 - Update - 1.0.2 1.0.2](#pl-14---update---102-102)
-- [Private Military Company - PMC Glowmap 3.0.2](#private-military-company---pmc-glowmap-302)
-- [Pack Attack NPC Edition 1.98](#pack-attack-npc-edition-198)
-- [Crimsomrider's Perk VFX Removal (Night Person - Sneak Rank 5) - Perk VFX Removal 1.0](#crimsomriders-perk-vfx-removal-night-person---sneak-rank-5---perk-vfx-removal-10)
-- [Petal Gasmask - ESL V1.3](#petal-gasmask---esl-v13)
-- [Pip-Boy Flashlight 5.0.2](#pip-boy-flashlight-502)
-- [PipBoy Flashlight Sound Replacement 1.0](#pipboy-flashlight-sound-replacement-10)
-- [FNX-45 - Pistol Reanimation Pack - FNX Edit V1](#fnx-45---pistol-reanimation-pack---fnx-edit-v1)
-- [Pistol Reanimation Pack 2](#pistol-reanimation-pack-2)
-- [Place Everywhere - Place (Fallout4 1.10.163 - latest release) 1.18.0.1163](#place-everywhere---place-fallout4-110163---latest-release-11801163)
-- [Platinum Curie V2.1 V2.1](#platinum-curie-v21-v21)
-- [Eyewear and mask retexture - Plugin-free version 1.6](#eyewear-and-mask-retexture---plugin-free-version-16)
-- [Ponytail Hairstyles by Azar v2_5a - Loose files 2.5a](#ponytail-hairstyles-by-azar-v2_5a---loose-files-25a)
-- [PowerArmorAirdrop v1.00 1.0](#powerarmorairdrop-v100-10)
-- [PreWar Binoculars 2.1.1](#prewar-binoculars-211)
-- [Private Military Company - CBBE Uniboob Bodyslide v2.0.0 2.0.0](#private-military-company---cbbe-uniboob-bodyslide-v200-200)
-- [Private Military Company Extended Hot fix 1.1](#private-military-company-extended-hot-fix-11)
-- [Private Military Company Extended 1.0](#private-military-company-extended-10)
-- [Project Reality Footsteps FO4 1.7 BA2 1.7](#project-reality-footsteps-fo4-17-ba2-17)
-- [Prydwen Quarters 1.2 1.2](#prydwen-quarters-12-12)
-- [Q.M.W(Quick Modification Weapon) ESL file 1.9.6](#qmwquick-modification-weapon-esl-file-196)
-- [Quick Attack 2.6](#quick-attack-26)
-- [Not Great Not Terrible - Scarier Geiger Counter Sounds - Quieter Version 1.0](#not-great-not-terrible---scarier-geiger-counter-sounds---quieter-version-10)
-- [RAW INPUT - The Ultimate Mouse Sensitivity Fix - RAW INPUT - NMM Installer 2.4](#raw-input---the-ultimate-mouse-sensitivity-fix---raw-input---nmm-installer-24)
-- [RPG-7V2 1.2b](#rpg-7v2-12b)
-- [RSh-12 Assault Revolver 1.3 1.3](#rsh-12--assault-revolver-13-13)
-- [RU556 - Assault Rifle v3.0 3.0](#ru556---assault-rifle-v30-30)
-- [RU556 - Assault rifle - RU556 3.0 New Animations 3.0](#ru556---assault-rifle---ru556-30-new-animations-30)
-- [RU556 SOUND OVERHAUL 2.1](#ru556-sound-overhaul-21)
-- [Race Customizer 4](#race-customizer-4)
-- [Radiant Clouds and Fogs 1.3](#radiant-clouds-and-fogs-13)
-- [Radstag Grab Skill 1.1.0](#radstag-grab-skill-110)
-- [No Weapon Recoil Auto Recovery for Some Mod Added Weapons - Raider2078s Aim Model Patches FOMOD 1.3.1](#no-weapon-recoil-auto-recovery-for-some-mod-added-weapons---raider2078s-aim-model-patches-fomod-131)
-- [Faction Housing Overhaul - Railroad HQ - Railroad HQ 1.2 1.2](#faction-housing-overhaul---railroad-hq---railroad-hq-12-12)
-- [Real Night Vision 1.1](#real-night-vision-11)
-- [Realistic Bullet Cracks v1.2](#realistic-bullet-cracks-v12)
-- [Realistic Death Physics - ALL DLC version. 1.2](#realistic-death-physics---all-dlc-version-12)
-- [Realistic Explosions v1.5 v1.5](#realistic-explosions-v15-v15)
-- [Realistic Low Health 1](#realistic-low-health-1)
-- [Realistic Sprinting 1.0](#realistic-sprinting-10)
-- [Reverb and Ambiance Overhaul - ALL DLC 1.6e](#reverb-and-ambiance-overhaul---all-dlc-16e)
-- [Ruger Mini-14 Fixes for MK14 and Recoil 1.3](#ruger-mini-14-fixes-for-mk14-and-recoil-13)
-- [Ruger Mini-14 V1](#ruger-mini-14-v1)
-- [Russian Assault Pack - SVD Dragunov - Saiga 12 - PP-19 Bizon - Stechkin APS - MP412 REX - Russian Assault Pack - 1.0 1.0](#russian-assault-pack---svd-dragunov---saiga-12---pp-19-bizon---stechkin-aps---mp412-rex---russian-assault-pack---10-10)
-- [Russian Assault Pack - SVD Dragunov - Saiga 12 - PP-19 Bizon - Stechkin APS - MP412 REX - Russian Assault Pack - 1.0.3 UPDATE 1.0.3](#russian-assault-pack---svd-dragunov---saiga-12---pp-19-bizon---stechkin-aps---mp412-rex---russian-assault-pack---103-update-103)
-- [SCAR-LK Assault Rifle 2.0](#scar-lk-assault-rifle-20)
-- [AKe Volk - SDF Trooper 1.0](#ake-volk---sdf-trooper-10)
-- [M3D - Sig Sauer P220 - SIG P220 - version 103 1.03](#m3d---sig-sauer-p220---sig-p220---version-103-103)
-- [SIG SG 550 - 1.0 - 4K 1.0](#sig-sg-550---10---4k-10)
-- [SIG SG 550 - 1.0.2 - UPDATE 1.0.2](#sig-sg-550---102---update-102)
-- [SIG Sauer MPX 001e2](#sig-sauer-mpx-001e2)
-- [Ammo-O-Matic (scrap and make ammo) - SKKAmmoOMatic_004 004](#ammo-o-matic-scrap-and-make-ammo---skkammoomatic_004-004)
-- [SKKSurvivalUtilities_007 007](#skksurvivalutilities_007-007)
-- [STI 2011 DVC - A Relic of the Modern Age 1.16 Full 1.16](#sti-2011-dvc---a-relic-of-the-modern-age-116-full-116)
-- [SURVIVAL QUICK SAVE 1.2.1](#survival-quick-save-121)
-- [SVU Retextured I](#svu-retextured-i)
-- [Sandbag Fortifications - 4.1 4.1](#sandbag-fortifications---41-41)
-- [Satellite Color World Map Combo 1-3 1.3](#satellite-color-world-map-combo-1-3-13)
-- [Scrap Everything 2.5.5](#scrap-everything-255)
-- [Scrap dead things 1 70 1.70](#scrap-dead-things-1-70-170)
-- [Accuracy International AX50 Anti-Materiel Rifle - See-Through Hotfix 1.1b](#accuracy-international-ax50-anti-materiel-rifle---see-through-hotfix-11b)
-- [SettlementMenuManagerMainFile 0.1.7](#settlementmenumanagermainfile-017)
-- [Sextravaganza Hair Import 1.0](#sextravaganza-hair-import-10)
-- [Shell Rain 1.2](#shell-rain-12)
-- [Shield Boy Fomod 2.0](#shield-boy-fomod-20)
-- [Sig Sauer Handgun Pack 1.1](#sig-sauer-handgun-pack-11)
-- [SirTanksAlot's Dungeons of Doom 1](#sirtanksalots-dungeons-of-doom-1)
-- [Skip DiMA's Memory Games 1](#skip-dimas-memory-games-1)
-- [Skip New Game Intro 2](#skip-new-game-intro-2)
-- [Slide 1.0](#slide-10)
-- [Spitfire (Enhanced Muzzle FX) - Smoke Visibility Options 0.2](#spitfire-enhanced-muzzle-fx---smoke-visibility-options-02)
-- [Snap'n Build 2.0 2.0](#snapn-build-20-20)
-- [Sneaky Kills 0.6](#sneaky-kills-06)
-- [Some Grenade Stuff 1.3](#some-grenade-stuff-13)
-- [Some Trees ESL 1.2](#some-trees-esl-12)
-- [Spitfire (Enhanced Muzzle FX) 0.5](#spitfire-enhanced-muzzle-fx-05)
-- [Spitfire (Enhanced Muzzle FX) - Spitfire - Extra Options 0.1](#spitfire-enhanced-muzzle-fx---spitfire---extra-options-01)
-- [Springfield Armory M1A 1.0](#springfield-armory-m1a-10)
-- [S.T.A.L.K.E.R. Music Mod (Non-Replacer Version) - Stalker Music 1.1 1.1](#stalker-music-mod-non-replacer-version---stalker-music-11-11)
-- [Standalone Workbenches 1.6](#standalone-workbenches-16)
-- [Better Sneaking - Stealth Level 6 Balanced 1.2](#better-sneaking---stealth-level-6-balanced-12)
-- [Steyr AUG A3 - Modular Assault Rifle - Steyr AUG - 1.0 - 4K 1.0](#steyr-aug-a3----modular-assault-rifle---steyr-aug---10---4k-10)
-- [Steyr AUG - 1.0.1 - UPDATE ONLY 1.0.1](#steyr-aug---101---update-only-101)
-- [Stimpaks help you breathe 1.1.0](#stimpaks-help-you-breathe-110)
-- [StunGrenadesEN 1.2](#stungrenadesen-12)
-- [Survivalist Go-Bags 1.6 1.6](#survivalist-go-bags--16-16)
-- [TERA Rogue Mashup 1.0.0](#tera-rogue-mashup-100)
-- [THP - Turret Hacker Perk 1.0](#thp---turret-hacker-perk-10)
-- [Tactical Animations V3.2 3.2](#tactical-animations-v32-32)
-- [Tactical Fast Helmet 4K 1.5](#tactical-fast-helmet-4k-15)
-- [Tactical Human V1.02](#tactical-human-v102)
-- [Tactical Jumpsuits 1](#tactical-jumpsuits-1)
-- [Tactical Outfit Kit 4k 1.3](#tactical-outfit-kit-4k-13)
-- [TacticalBeanie v1.0 - Archived 1.0](#tacticalbeanie-v10---archived-10)
-- [Taran Tactical STI 2011 1.1](#taran-tactical-sti-2011-11)
-- [Targeting HUD Eyewear 1.3 1.3](#targeting-hud-eyewear-13-13)
-- [The Eyes of Beauty Fallout Kaleidoscope Edition - All-in-One 3.2](#the-eyes-of-beauty-fallout-kaleidoscope-edition---all-in-one-32)
-- [The Mercenary - Pack v0.9.c - plugin only update 0.9c](#the-mercenary---pack-v09c---plugin-only-update-09c)
-- [The Mercenary - Pack v0.9b - Loose files 0.9b](#the-mercenary---pack-v09b---loose-files-09b)
-- [Third-Person Movement Speed Fix 1.0](#third-person-movement-speed-fix-10)
-- [Tidy Fallout 1.0](#tidy-fallout-10)
-- [Tidy Far Harbor 1.0](#tidy-far-harbor-10)
-- [True Storms - Wasteland Edition v1.4.1 1.4.1](#true-storms---wasteland-edition-v141-141)
-- [Turret Blind Spots - FOMod Installer 1.0.0](#turret-blind-spots---fomod-installer-100)
-- [UniqueNPCs-CreatureMonsters_2_0_Hybrid 2.0](#uniquenpcs-creaturemonsters_2_0_hybrid-20)
-- [UniqueNPCs-CreatureMonsters_2_1_Hotfix 2.1](#uniquenpcs-creaturemonsters_2_1_hotfix-21)
-- [UniqueNPCs-CreaturesMonsters_2_1_AE_VIS-G_Patch 2.1](#uniquenpcs-creaturesmonsters_2_1_ae_vis-g_patch-21)
-- [Unlimited Companion Framework v1-1-0 1.1.0](#unlimited-companion-framework-v1-1-0-110)
-- [Unlimited Survival Mode - F4SE v1.4.0](#unlimited-survival-mode---f4se-v140)
-- [Unlock All Hairstyles - default version with Far Harbor and Nuka World 1.2](#unlock-all-hairstyles---default-version-with-far-harbor-and-nuka-world-12)
-- [Unofficial Fallout 4 Patch 2.1.2b](#unofficial-fallout-4-patch-212b)
-- [VAFS Redux - Bullet Time and Manual Critical - VAFS Redux 1.4.2](#vafs-redux---bullet-time-and-manual-critical---vafs-redux-142)
-- [HS Produkt VHS-2 Rifle - VHS-2 - 4K 1.0](#hs-produkt-vhs-2-rifle---vhs-2---4k-10)
-- [VIS-G Item Sorting v2.7 v2.7](#vis-g-item-sorting-v27-v27)
-- [Faction Housing Overhaul - Vault 81 - Vault 81 1.2 1.2](#faction-housing-overhaul---vault-81---vault-81-12-12)
-- [Vivid WEathers Fallout 4 - Definitive Edition 2.1](#vivid-weathers-fallout-4---definitive-edition-21)
-- [Vivid Weathers Fallout 4 - Definitive Edition Update 2.12](#vivid-weathers-fallout-4---definitive-edition-update-212)
-- [10mm Pistol Reanimation Pack - WD_10mm_Anims_New_Sounds v3](#10mm-pistol-reanimation-pack---wd_10mm_anims_new_sounds-v3)
-- [Double Action Revolver - WD_44_DA_SA_DLC_V3 V3](#double-action-revolver---wd_44_da_sa_dlc_v3-v3)
-- [WM_ServiceRifle_1.1 1.1](#wm_servicerifle_11-11)
-- [Wall Pass-Through Power Conduits 1.3](#wall-pass-through-power-conduits-13)
-- [Wasteland Walls v1.2 1.2](#wasteland-walls-v12-12)
-- [Weapon Level List Patches FOMOD 1.80](#weapon-level-list-patches-fomod-180)
-- [WeaponJiggleRemover 1.01](#weaponjiggleremover-101)
-- [Weather Synergy - Merge Patch 1.10 1.10](#weather-synergy---merge-patch-110-110)
-- [Welcome to Goodneighbor 1.8](#welcome-to-goodneighbor-18)
-- [Welrod Mk II - Well here is my rod - Welrod 1.0 1.0](#welrod-mk-ii---well-here-is-my-rod---welrod-10-10)
-- [West Tek Tactical Optics v2.0.1 (minor update) 2.0.1](#west-tek-tactical-optics-v201-minor-update-201)
-- [Wetness Shader Fix 3.3](#wetness-shader-fix-33)
-- [WheelMenu 1.5.0](#wheelmenu-150)
-- [Where Are You Now - Automatron DLC support 1.4](#where-are-you-now---automatron-dlc-support-14)
-- [Where Are You Now 1.4](#where-are-you-now-14)
-- [Whirligig Sentry 2.1](#whirligig-sentry-21)
-- [Workshop Framework 2.0.11](#workshop-framework-2011)
-- [Workshop Rearranged 0.6.13](#workshop-rearranged-0613)
-- [XOF CVC Helmet - Archived v1.01 1.01](#xof-cvc-helmet---archived-v101-101)
-- [Yaoguai grab skill 1.2.0](#yaoguai-grab-skill-120)
-- [Wasteland Ballistics 2](#wasteland-ballistics-2)
-- [Brotherhood of Steel Modular Fencing - cVc BOS Fences 2.0b](#brotherhood-of-steel-modular-fencing---cvc-bos-fences-20b)
-- [deLuxe Makeup - Lip Liner Mask 0.1](#deluxe-makeup---lip-liner-mask-01)
-- [Murder Death Scream! 1.0.1](#murder-death-scream-101)
-- [AMMO UI HUD and my hud config - 0.my Font 416 CAI978 1.0](#ammo-ui-hud-and-my-hud-config---0my-font---416-cai978-10)
-- [No more pre-war pipeguns - remove_piperifle_lootdotesp.zip 1](#no-more-pre-war-pipeguns---remove_piperifle_lootdotespzip-1)
-- [DEF_SSW Survival Stats widget redone - ssw 1.10.163.1 1.10.163.1](#def_ssw-survival-stats-widget-redone---ssw-1101631-1101631)
-- [Remove Idiot Savant Voice v1.0](#remove-idiot-savant-voice-v10)
-- [West Tek Tactical Gloves - v1.1 main file 1.1](#west-tek-tactical-gloves---v11-main-file-11)
-- [wd_mk14_new_anims_v1.3 v1.3](#wd_mk14_new_anims_v13-v13)
-- [xSE PluginPreloader F4 0.2.4 0.2.4](#xse-pluginpreloader-f4-024-024)
+# Helpful tip: GitHub has an automatic Table of Contents in the hamburger menu, top left
+![click this](https://i.imgur.com/3piNG6e.png)
 
-<!-- tocstop -->
+<hr />
+
+### (Optional)16x9 my DEF_HUD.xml.Data 
+
+Installed 4/20/2021 from unknown source (Unknown) 
+
+
+> By Unknown Author for Fallout 4 (Default)
+
+
+
+
+
+
+<hr />
+
+### (Optional)XM2010.NV_Brightnessincrease.50_ 
+
+Installed 4/19/2021 from unknown source (Unknown) 
+
+
+> By Unknown Author for Fallout 4 (Default)
+
+
+
+
+
 
 <hr />
 
@@ -429,9 +54,9 @@ Including pendant, detector CPU, switch side aiming, thermal imaging, night visi
 
 <hr />
 
-### Q.M.W  (Quick Modification Weapon)(Only mod weapon) - 0_WheelMenu.UI Remastered.2021.3.7 1.49
+### Q.M.W  (Quick Modification Weapon)(Only mod weapon) - 0_WheelMenu.UI Remastered.2021.3.7 2021.7.10
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/44985/) (User Interface) 
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/44985/) (User Interface) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/44985/44985-1589268649-2044910411.jpeg" alt="mod-image" height="350" />
 
@@ -453,6 +78,36 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41
 > By tooun for Fallout 4 (Default)
 
 Hit sound: Increase the sense of attack for shooting!! Imitation of the mainstream game "COD MW"   "Ghost Recon Wildlands" "Far cry 5"  . The sound after the bullet hit<br />Kill Tips: Feedback after killing the enemy
+
+
+
+
+<hr />
+
+### HK USP .45(New) with Tactical knife - 3rd.Equip Action Heel chambering.Data 1.0
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42805/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/42805/42805-1604825190-767422639.jpeg" alt="mod-image" height="350" />
+
+> By Tooun for Fallout 4 (Default)
+
+USP 45 new model in this mod, Mod added a variety of tactical knives<br />Tribute to Call of Duty:MW Series<br />In the action, only reload action and knife holding action are imitated from Call of Duty: MW series,<br />Other actions are all my own original make,,Many actions can be selected from the MCM menu
+
+
+
+
+<hr />
+
+### HK USP .45(New) with Tactical knife - 3rd.Melee Action.Data 1.0
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42805/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/42805/42805-1604825190-767422639.jpeg" alt="mod-image" height="350" />
+
+> By Tooun for Fallout 4 (Default)
+
+USP 45 new model in this mod, Mod added a variety of tactical knives<br />Tribute to Call of Duty:MW Series<br />In the action, only reload action and knife holding action are imitated from Call of Duty: MW series,<br />Other actions are all my own original make,,Many actions can be selected from the MCM menu
 
 
 
@@ -489,21 +144,6 @@ New modular body armor with new meshes &amp; textures for Dogmeat, designed afte
 
 <hr />
 
-### Mk17-Mk20 Project - 4K 1.0
-
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46326/) (Weapons) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/46326/46326-1597169053-1869261509.png" alt="mod-image" height="350" />
-
-> By Arsenal Zavod Team ___  Defess  -  SpongeBobSlavicPants  -  Gettzy3D for Fallout 4 (Default)
-
-Mk17 - Mk20 is a fully modular weapon mod, complete with custom first and third person animations!
-
-
-
-
-<hr />
-
 ### Lowered Jetpack AP Drain - 50 Percent 1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/219/) (Cheats and God items) 
@@ -534,6 +174,21 @@ The future is here, and it is full of vibrant color&#33;  This adds 256 Standalo
 
 <hr />
 
+### 9x39 Addon and Replacer - Tactical Reload Patch 1.2
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
+
+
+
+
+<hr />
+
 ### 9x39 Project - v2.0 2.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/21103) (Weapons) 
@@ -549,15 +204,30 @@ The mod adds VSS and AS VAL, with a flexible modification system that allows for
 
 <hr />
 
-### A-10 Warthog CAS 1.1 1.1
+### A-10 Warthog CAS 1.2 1.2
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51184) (Miscellaneous) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51184/) (Miscellaneous) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/51184/51184-1617514288-298816255.jpeg" alt="mod-image" height="350" />
 
 > By ShiroNyan for Fallout 4 (Default)
 
 This adds the A-10 Warthog to the Commonwealth as a replacer to the original Stingray Air Support Mod. Comes with lots of BRRRRRT.
+
+
+
+
+<hr />
+
+### AK400 - Assault Rifle - Tactical Reload Patch 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
 
 
 
@@ -582,6 +252,21 @@ Adds the AK400 Assault Rifle. It's highly customizable, features custom animatio
 ### AKM Complex - 1.0 - MAIN 1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46179/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/46179/46179-1594295366-68628708.png" alt="mod-image" height="350" />
+
+> By Nova and i_code_i for Fallout 4 (Default)
+
+This mod adds a highly customisable version of the well known AKM with the ability to recreate several of it's derivitives or something completely new, it's all up to you.
+
+
+
+
+<hr />
+
+### AKM Complex - 1.0.2 - PATCH 1.0.2
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46179/) (Weapons) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/46179/46179-1594295366-68628708.png" alt="mod-image" height="350" />
 
@@ -624,7 +309,7 @@ A set of retextures for ANiceOakTree's Hairstyles so they blend with the vanilla
 
 <hr />
 
-### ANiceOakTree's Hairstyles 2.0
+### ANiceOakTree&#39;s Hairstyles 2.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/25536) (Body, Face, and Hair) 
 
@@ -729,6 +414,21 @@ Adds new powerful .50 Cal Anti-materiel rifle - Accuracy International AX50 - to
 
 <hr />
 
+### Accuracy International AX50 - Tactical Reload Patch 1.1
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
+
+
+
+
+<hr />
+
 ### Accuracy International AX50 1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/43265/) (Weapons) 
@@ -738,6 +438,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/43
 > By TheBigLidowski for Fallout 4 (Default)
 
 Adds new powerful .50 Cal Anti-materiel rifle - Accuracy International AX50 - to the game.
+
+
+
+
+<hr />
+
+### Realistic Ragdoll Force - Action 1.1
+
+Installed 4/20/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/5149/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/5149-0-1449607602.png" alt="mod-image" height="350" />
+
+> By dDefinder for Fallout 4 (Default)
+
+Ragdolls now reflect real life physics instead of cartoons.<br /><br />Force types:<br />Realistic - Ragdolls will slump down where they stand<br />Action - Same idea as Realistic but with minor knock back<br />Reduced Reduced Explosion Force - This will reduce the amount of force applied to items and bodies to about half
 
 
 
@@ -797,22 +512,7 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/81
 
 > By ccmads for Fallout 4 (Default)
 
-27 more turret types even Fat man&#33; Powerful turret that don't need POWER...(SK Compatible)
-
-
-
-
-<hr />
-
-### Aggressive synth voice overhaul 1.0
-
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/2105/) (Audio - Voice) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/2105-0-1448205496.jpg" alt="mod-image" height="350" />
-
-> By Ubercharge for Fallout 4 (Default)
-
-Completely changes voices of first gen. synths into much more intimidating and aggressive style. Contains all three variations of male synth voice. I added some human like elements like pain and breathing so fights are much more fun.  Lore Friendly
+27 more turret types even Fat man&#33; Powerful turret that don&#39;t need POWER...(SK Compatible)
 
 
 
@@ -879,22 +579,37 @@ This mod greatly expands the Fallout 4 soundtrack using music from several music
 
 <hr />
 
-### AMMO UI HUD and my hud config - Ammo UI 1.1
+### Ambient Wasteland 0.1
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42915/) (User Interface) 
+Installed 5/4/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/25343/) (Audio - SFX) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/42915/42915-1578481251-264272905.jpeg" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/25343/25343-1601586220-963034487.png" alt="mod-image" height="350" />
 
-> By Tooun for Fallout 4 (Default)
+> By Spiffyskytrooper - Leviathan1753 for Fallout 4 (Default)
 
-This mod UI shows the Ammo type of the current weapon<br />And it will display current weapon is equipped with silencer or none
+Ambient Wasteland is back! Immerse yourself in the wastes with sounds of wildlife and more! Ported over from Fallout 3, Ambient wasteland offers many new ambient sound effects added seamlessly into the base game.
 
 
 
 
 <hr />
 
-### Animated Ingestibles - Food and Drink - octodecoy's version 1.1fix
+### AmericanAnimals 1.0
+
+Installed 5/4/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48832/) (Audio - SFX) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48832/48832-1607384437-1401466088.png" alt="mod-image" height="350" />
+
+> By Azebal for Fallout 4 (Default)
+
+Adds various ambient calls, cries, and other sounds from North American animals .
+
+
+
+
+<hr />
+
+### Animated Ingestibles - Food and Drink - octodecoy&#39;s version 1.1fix
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47361) (Immersion) 
 
@@ -1104,6 +819,20 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46
 
 <hr />
 
+### Auto Grenade Launcher 1
+
+Installed 4/25/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51663/) (Weapons) 
+
+
+> By Alaszka for Fallout 4 (Default)
+
+A mod that uses the wonderful meshes and textures from WH-Mk.22 Heavy Machinegun REDUX by skibadaa to create an automatic grenade launcher for Fallout 4.
+
+
+
+
+<hr />
+
 ### Auto Hide Crosshair 1.02 1.02
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/16565/) (User Interface) 
@@ -1164,11 +893,41 @@ A simple autosave manager.
 
 <hr />
 
-### BOCW Outfit Pack Update 2.2 - Survivor 2.2
+### Bullet Counted Reload - Patches - BCR-Remington92 1.0.0
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50512) (Armour) 
+Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41339/) (Gameplay Effects and Changes) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/50512/50512-1616831982-1469083000.png" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/41339/41339-1569728521-38533996.jpeg" alt="mod-image" height="350" />
+
+> By User_1664022 for Fallout 4 (Default)
+
+Collection of Patches for the Bullet Counted Reload System
+
+
+
+
+<hr />
+
+### Bullet Counted Reload - Patches - BCR-RightHandedLeverActionReplacer 1.0.0
+
+Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41339/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/41339/41339-1569728521-38533996.jpeg" alt="mod-image" height="350" />
+
+> By User_1664022 for Fallout 4 (Default)
+
+Collection of Patches for the Bullet Counted Reload System
+
+
+
+
+<hr />
+
+### BOCW Outfit Pack Update 2.4 - EOD AIO 2.4
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50512/) (Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/50512/50512-1625777185-1873727596.png" alt="mod-image" height="350" />
 
 > By Chefs Camp for Fallout 4 (Default)
 
@@ -1194,6 +953,36 @@ A version independent F4SE plugin that expands the default size of ScrapHeap all
 
 <hr />
 
+### Basic Mining 2.4 2.4
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/37109/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/37109/37109-1618661172-535765133.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Short on copper? Mine it!
+
+
+
+
+<hr />
+
+### Better Coastal Waves ESL 1.1
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47153/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/47153/47153-1618662229-458115165.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Some parts of the coast appear now wilder, by adding Far Harbor waves to it
+
+
+
+
+<hr />
+
 ### Better Explosives Redux 1.2.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/37572/) (Gameplay Effects and Changes) 
@@ -1209,11 +998,11 @@ Rebalances the damage, radius and force of explosions. Making them more effectiv
 
 <hr />
 
-### Better Sleep And Wait Menu 1.2
+### FallUI - Sleep And Wait 1.3
 
-Installed 4/14/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49070/) (User Interface) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49070/) (User Interface) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/49070/49070-1609582371-335922584.jpeg" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/49070/49070-1621691660-2041324943.png" alt="mod-image" height="350" />
 
 > By m8r98a4f2 for Fallout 4 (Default)
 
@@ -1239,9 +1028,9 @@ Make Spotlights Great Again! Spotlights that actually spot people!
 
 <hr />
 
-### BetterCompanions 1.24
+### BetterCompanions 1.25
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/18547/) (Companions) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/18547/) (Companions) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/18547-0-1474215673.jpg" alt="mod-image" height="350" />
 
@@ -1269,15 +1058,30 @@ New anim set for  a_blind_man's Pre-War Binoculars mod.
 
 <hr />
 
-### Binoculars Fire Support Addon 2.0.1
+### Binoculars Artillery Addon - Stingray Version - A10 CAS Patch 1.4.0
 
-Installed 4/14/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48809) (Gameplay Effects and Changes) 
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48904/) (Gameplay Effects and Changes) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48809/48809-1607273471-1516597018.jpeg" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48904/48904-1607819668-1754685378.jpeg" alt="mod-image" height="350" />
 
 > By Sars99 for Fallout 4 (Default)
 
-Adds the ability to call in Minutemen artillery support and Yangtze missiles using the Prewar Binoculars mod. Plus a little extra.
+By popular demand a separate version that adds the ability to call in Stingray bomber support, Minutemen artillery and Yangtze missiles using the Prewar Binoculars mod. Plus a little extra.
+
+
+
+
+<hr />
+
+### Binoculars Fire Support Addon - Stingray Version 1.2.0
+
+Installed 4/16/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48904/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48904/48904-1607819668-1754685378.jpeg" alt="mod-image" height="350" />
+
+> By Sars99 for Fallout 4 (Default)
+
+By popular demand a separate version that adds the ability to call in Stingray bomber support, Minutemen artillery and Yangtze missiles using the Prewar Binoculars mod. Plus a little extra.
 
 
 
@@ -1314,6 +1118,21 @@ An easy to use tool for customizing bodies and outfits, creating new bodies and 
 
 <hr />
 
+### Bridges and Stairs ESL 1.3
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/38179/) (Crafting - Home&#x2F;Settlement) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/38179/38179-1553802368-1582547604.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Mostly bridges
+
+
+
+
+<hr />
+
 ### Brighter Settlement Lights v1.2 1.2
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/2494/) (Crafting - Home&#x2F;Settlement) 
@@ -1344,9 +1163,9 @@ Give the DLC lights a brighter, wider radius, a warmer glow, and softer falloff
 
 <hr />
 
-### Buffout 4 1.22.0
+### Buffout 4 1.23.1
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47359/) (Utilities) 
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47359/) (Utilities) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png" alt="mod-image" height="350" />
 
@@ -1389,9 +1208,9 @@ New bullet casings.
 
 <hr />
 
-### Bullet Counted Reload - v.1.05b 1.05b
+### Bullet Counted Reload - v.2.00 2.00
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41178) (Gameplay Effects and Changes) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41178/) (Gameplay Effects and Changes) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png" alt="mod-image" height="350" />
 
@@ -1554,7 +1373,7 @@ Adds Armorsmith Extended compatibility to all outfits in the Merc Outfit Pack
 
 <hr />
 
-### Caliente's Beautiful Bodies Enhancer - v2.6.3 2.6.3
+### Caliente&#39;s Beautiful Bodies Enhancer - v2.6.3 2.6.3
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15/) (Body, Face, and Hair) 
 
@@ -1719,6 +1538,21 @@ This mod adds a clock widget to loading menu, main menu and fader menu to displa
 
 <hr />
 
+### Modern Warfare 1for1 SOUND PACK - MK18_G19X - Cloth sounds removal 1.0
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50605/) (Audio - SFX) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/50605/50605-1615121451-1046859742.png" alt="mod-image" height="350" />
+
+> By AKKSI for Fallout 4 (Default)
+
+Simple sound replacer for Glock19x and MK18 CQBR
+
+
+
+
+<hr />
+
 ### Commonwealth Cuts 2.5.1 2.5.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/11402) (Body, Face, and Hair) 
@@ -1749,6 +1583,21 @@ A comprehensive set of retextures for Commonwealth Cuts hairstyles so they blend
 
 <hr />
 
+### Commonwealth Warfare - Explosions Main File 1.0.0
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/16609/) (Audio - SFX) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/16609-0-1468876766.jpeg" alt="mod-image" height="350" />
+
+> By QUAZZIMODO619 for Fallout 4 (Default)
+
+Spruce up your fallout experience with some sweet, realistic explosion sound effects&#33;
+
+
+
+
+<hr />
+
 ### Compact Jetpack 1.2
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/6831/) (Models and Textures) 
@@ -1757,7 +1606,7 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/68
 
 > By Ragnarokin for Fallout 4 (Default)
 
-Gets rid of the bulky top portion of the jetpack and it's associated flames. Simple.
+Gets rid of the bulky top portion of the jetpack and it&#39;s associated flames. Simple.
 
 
 
@@ -1809,9 +1658,9 @@ This mod re-makes all vanilla companions so that they do not affect your stealth
 
 <hr />
 
-### Consolidate Weapon Crafting Recipes Surplus (CWCRS) 1.5.9
+### Consolidate Weapon Crafting Recipes Surplus (CWCRS) 1.7.0
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/45387) (Weapons) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/45387/) (Weapons) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/45387/45387-1590871225-1430648659.png" alt="mod-image" height="350" />
 
@@ -1839,6 +1688,21 @@ Craft Ammo at a Chem Station using Workshop Contraptions DLC Recipes
 
 <hr />
 
+### Crafting Highlight Fix 1.8.8 1.8.8
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/27479/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif" alt="mod-image" height="350" />
+
+> By registrator2000 for Fallout 4 (Default)
+
+A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you're crafting.<br /><br />Also allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.
+
+
+
+
+<hr />
+
 ### Crossbow 1.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50832) (Weapons) 
@@ -1848,6 +1712,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50
 > By Bwones and ColdFrontST for Fallout 4 (Default)
 
 Adds a Crossbow with custom animations and level list integration.
+
+
+
+
+<hr />
+
+### DC and West Coast Supermutants v1 1
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49680/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/49680/49680-1611694766-405483520.jpeg" alt="mod-image" height="350" />
+
+> By HcGxGrill - TheFriedTurkey for Fallout 4 (Default)
+
+They are back, and they have teamed up! This mod adds the DC variants of the supermutants also their West Coast ones aswell (Yes that also includes nightkin). This is only a small mod but just a little something to spice up your playthrough with some extra variety, these will fight alongside the existing Fallout 4 Institute Supermutants.
 
 
 
@@ -1884,7 +1763,22 @@ HUDFramework is a UI framework that makes it possible for mods to add new UI ele
 
 <hr />
 
-### DaFi's Arsenal SFX Version Da Da
+### DEF_UI Iconlibs Rescaled and Fixed - Colored 1.6
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/31088/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/31088/31088-1540041078-2134724658.jpeg" alt="mod-image" height="350" />
+
+> By Phlunder for Fallout 4 (Default)
+
+Aims to bring consistency in design and coloring to the icon library. Also fixes various issues with icon sizes, bounding boxes, and scaling.
+
+
+
+
+<hr />
+
+### DaFi&#39;s Arsenal SFX Version Da Da
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/922/) (Audio - SFX) 
 
@@ -1892,7 +1786,7 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/92
 
 > By DaFi for Fallout 4 (Default)
 
-An ongoing project that will change your weapon's sound effects. My goal is a makeover of weapon sfx.
+An ongoing project that will change your weapon&#39;s sound effects. My goal is a makeover of weapon sfx.
 
 
 
@@ -1929,6 +1823,36 @@ Now you see me...
 
 <hr />
 
+### Death camera extended duration - 15 seconds 1.0
+
+Installed 5/22/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/3947/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/3947-0-1448981993.jpg" alt="mod-image" height="350" />
+
+> By patto2k for Fallout 4 (Default)
+
+Change the time after death from the default 3 seconds.
+
+
+
+
+<hr />
+
+### Death Rift 1.0
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50389/) (Locations - New) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/50389/50389-1618603748-916876514.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+A dangerous place filled with dangerous enemies. Can you survive until the end?
+
+
+
+
+<hr />
+
 ### Deathclaw Grab Skills 1.1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46460) (Gameplay Effects and Changes) 
@@ -1953,6 +1877,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/10
 > By Neanka and Valdacil and Old Nick and ParasiteX and sekoms for Fallout 4 (Default)
 
 Re-release of DEF_HUD and DEF_INV by Neanka with a combined installer package.  DEF_HUD is a fully customizable HUD.  DEF_INV provide many improvements to Pipboy, container, and barter inventory screens.
+
+
+
+
+<hr />
+
+### Desalination Plant ESL 1.0
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/37522/) (Crafting - Other) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/37522/37522-1550523337-893510786.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Gives you water and salt
 
 
 
@@ -2004,7 +1943,7 @@ Dark Ambient and Electronic Industrial background music<br />A soundtrack design
 
 <hr />
 
-### Director's Quarters 1.1
+### Director&#39;s Quarters 1.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15767/) (Player Homes) 
 
@@ -2012,7 +1951,22 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15
 
 > By Elianora for Fallout 4 (Default)
 
-Did you feel like the Director's Quarters weren't quite up to your high status? There's not even a bed for you to use. The Institute in general is useless for player housing as it doesn't have any workstations. This mod changes that.
+Did you feel like the Director&#39;s Quarters weren&#39;t quite up to your high status? There&#39;s not even a bed for you to use. The Institute in general is useless for player housing as it doesn&#39;t have any workstations. This mod changes that.
+
+
+
+
+<hr />
+
+### Dogmeat to Shiba Inu 1.0
+
+Installed 4/22/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50054/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/50054/50054-1613142071-1223976446.png" alt="mod-image" height="350" />
+
+> By KonataInoue for Fallout 4 (Default)
+
+Replaces Dogmeat with the Shiba Inu model from the CC content.
 
 
 
@@ -2073,6 +2027,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/25
 > By Troy Irving for Fallout 4 (Default)
 
 This mod adds dynamic shadows to weapon muzzle flashes, projectiles, and explosions.
+
+
+
+
+<hr />
+
+### E.V.A_RECON 1
+
+Installed 5/3/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/43644/) (Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/43644/43644-1582634603-1827768281.png" alt="mod-image" height="350" />
+
+> By WOLF_AoT for Fallout 4 (Default)
+
+Adds a new helmet and scarf that can be obtained in the chemstation.
 
 
 
@@ -2154,9 +2123,39 @@ Adds a soft face light for your character, which can enhance their appearance un
 
 <hr />
 
-### Companion Stealth Distance Fix (No Free Hugs) - Now with No Dogmeat in Crosshairs - ESPFE Follower Stealth Distance Fixes (ESL-tagged ESP file) 5.1
+### Floors - Roofs - Walls - ESL 1.1
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15823) (Companions) 
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/38497/) (Crafting - Home&#x2F;Settlement) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/38497/38497-1618685500-39816046.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Tons of Roofs, some walls and some floors.
+
+
+
+
+<hr />
+
+### Diamond City Ambience - ESL 1.0
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/39267/) (Audio - Misc) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/39267/39267-1618663046-629125830.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Squeaks, buzzes, rumbles... Adds over 40 hand placed sounds to Diamond City
+
+
+
+
+<hr />
+
+### Companion Stealth Distance Fix (No Free Hugs) - Now with No Dogmeat in Crosshairs - ESPFE Follower Stealth Distance Fixes (ESL-tagged ESP file) 7.0
+
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15823/) (Companions) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/15823-0-1467588748.png" alt="mod-image" height="350" />
 
@@ -2184,7 +2183,22 @@ Only the single correct password with be shown in hacking minigames of any diffi
 
 <hr />
 
-### Eli's Armour Compendium - CBBE and BodySlide 1.5 1.5
+### Effective Melee Blocking 2.2
+
+Installed 5/3/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51569/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51569/51569-1618897972-1341423370.png" alt="mod-image" height="350" />
+
+> By spacefiddle for Fallout 4 (Default)
+
+Vanilla melee "block" only stops 25% damage. Now, block amount scales with your Strength. Also gives a burst of damage immunity when you successfully block, for multiple attackers.
+
+
+
+
+<hr />
+
+### Eli&#39;s Armour Compendium - CBBE and BodySlide 1.5 1.5
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/22431/) (Armour) 
 
@@ -2229,6 +2243,21 @@ Enhanced Lights and FX has the goal to create a more atmospheric and realistic l
 
 <hr />
 
+### Equipped Armour Weight Reduction - Far Harbor 1.3
+
+Installed 4/16/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/12824/) (Perks) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/12824-0-1462179417.jpg" alt="mod-image" height="350" />
+
+> By Nebskungen for Fallout 4 (Default)
+
+This mod adds new benefits from the Strong Back perk. Each rank now makes your equipped armour weigh less.
+
+
+
+
+<hr />
+
 ### Experimental Hats w Hair 2021 AIO 1.2
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42207) (Armour) 
@@ -2253,6 +2282,36 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47
 > By Sensei Shisha for Fallout 4 (Default)
 
 Explosives now can knock enemies off their feet.
+
+
+
+
+<hr />
+
+### Explosions Ignore LOS 1.0 1
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/28671/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/28671/28671-1514048111-1738074539.jpeg" alt="mod-image" height="350" />
+
+> By Rooker for Fallout 4 (Default)
+
+Explosives will cause damage regardless of line of sight. No more hiding from a nuclear explosion behind plywood.
+
+
+
+
+<hr />
+
+### Explosive Barrels 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52780/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52780/52780-1624471682-730904588.jpeg" alt="mod-image" height="350" />
+
+> By Yeti for Fallout 4 (Default)
+
+Adds explosive barrels all over the Commonwealth. Light, medium, and heavy amount options available. esp/esl options included. Pre-combines intact. Based on the barrels from Half Life 2.
 
 
 
@@ -2484,6 +2543,36 @@ The mod adds Shark enemy to the game.
 
 <hr />
 
+### FallUI - Confirm Boxes 2.1
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48958/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png" alt="mod-image" height="350" />
+
+> By m8r98a4f2 for Fallout 4 (Default)
+
+Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like "Yes Im Sure"). Interface covers all languages.
+
+
+
+
+<hr />
+
+### FallUI - Inventory 1.13.3
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48758/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png" alt="mod-image" height="350" />
+
+> By m8r98a4f2 for Fallout 4 (Default)
+
+This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.
+
+
+
+
+<hr />
+
 ### FallUI - Map 1.0.3
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49920/) (User Interface) 
@@ -2499,9 +2588,9 @@ Overhaul of the Fallout 4 map. Added list of locations and workshops including t
 
 <hr />
 
-### FallUI Workbench 1.2
+### FallUI Workbench 1.2.4
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49300/) (User Interface) 
+Installed 4/24/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49300/) (User Interface) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/49300/49300-1610042654-1439715988.png" alt="mod-image" height="350" />
 
@@ -2514,15 +2603,30 @@ Better workbench interface optimized for PC. Bigger display size. Data columns. 
 
 <hr />
 
-### FallUI - Inventory Interface For PC (Pipboy Container Trader) - FallUI 1.12.1
+### Fallout 4 Scopes Framework v1.4.1
 
-Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48758/) (User Interface) 
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/30644/) (User Interface) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/30644/30644-1521692136-1090846838.png" alt="mod-image" height="350" />
 
-> By m8r98a4f2 for Fallout 4 (Default)
+> By Scrivener07 for Fallout 4 (Default)
 
-This is FallUI. A optimized Fallout 4 user interface for PC.
+A framework for loading custom user interface crosshairs and optics while zoomed in with the scope menu.
+
+
+
+
+<hr />
+
+### Fallout 4 Ultimate Window Overhaul 3.1
+
+Installed 4/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/43458/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/43458/43458-1619463475-1957245561.png" alt="mod-image" height="350" />
+
+> By SickStyle for Fallout 4 (Default)
+
+You won't know you really need this mod, until you install it. This mod overhauls all windows across the Commonwealth. RTX-ish next-gen reflections!
 
 
 
@@ -2537,7 +2641,7 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15
 
 > By FalloutSuite for Fallout 4 (Default)
 
-Adds 90 minutes of new music to Fallout 4's soundtrack.
+Adds 90 minutes of new music to Fallout 4&#39;s soundtrack.
 
 
 
@@ -2619,15 +2723,45 @@ New HQ Texture Replacer for the Fences.
 
 <hr />
 
-### Feral Ghoul Bite Skills 1.1.0
+### Feral Ghoul Bite Skills 1.2.0
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46097) (Gameplay Effects and Changes) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46097/) (Gameplay Effects and Changes) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/46097/46097-1594016906-1644620642.png" alt="mod-image" height="350" />
 
 > By Elzee for Fallout 4 (Default)
 
 2 bite combat skills for feral ghouls. With improved animations.
+
+
+
+
+<hr />
+
+### FineZoom v0.3.7 0.3.7
+
+Installed 4/16/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/36350/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/36350/36350-1594655878-106211287.png" alt="mod-image" height="350" />
+
+> By BLUESHADOW2020 for Fallout 4 (Default)
+
+Enables all scopes to have a variable zoom level! Controlled with the mouse wheel even! Or a controller! Should work for any weapon, even Modded.
+
+
+
+
+<hr />
+
+### American Animals Ambience - Fixed .esp 1.0
+
+Installed 5/4/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48832/) (Audio - SFX) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48832/48832-1607384437-1401466088.png" alt="mod-image" height="350" />
+
+> By Azebal for Fallout 4 (Default)
+
+Adds various ambient calls, cries, and other sounds from North American animals .
 
 
 
@@ -2658,6 +2792,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41
 > By HcG x Grill and TheFriedturkey for Fallout 4 (Default)
 
 This is the lamprey floater from fallout 3 concept art that was scrapped, I made this for Fallout 4 New Vegas. I did make some design changes to make it look more like the flat worm which it is meant to be a FEV mutated version.
+
+
+
+
+<hr />
+
+### Floating Damage v1.2.0
+
+Installed 4/20/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/28684) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/28684/28684-1514098766-1553092959.jpeg" alt="mod-image" height="350" />
+
+> By Kassent for Fallout 4 (Default)
+
+Show floating damage number when someone is hit.
 
 
 
@@ -2739,7 +2888,22 @@ First new version in 4 years! Makes Caps Stashes more... Worthwhile.
 
 <hr />
 
-### Faction Housing Overhaul - The Castle - General's Quarters 1.1
+### GS Lever Action Shotgun V3.0 V3.0
+
+Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/40062/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/40062/40062-1563210342-380321939.jpeg" alt="mod-image" height="350" />
+
+> By GaigeStorm for Fallout 4 (Default)
+
+Adds a scratch made lever shotgun to the game with plenty of mods to mix and match.
+
+
+
+
+<hr />
+
+### Faction Housing Overhaul - The Castle - General&#39;s Quarters 1.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15504/) (Player Homes) 
 
@@ -2747,7 +2911,37 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15
 
 > By Elianora for Fallout 4 (Default)
 
-Adds a private room for the player into the Minutemen Castle. Doesn't actually touch the Castle other than adding a new interior cell called &#34;General's Quarters&#34;. 
+Adds a private room for the player into the Minutemen Castle. Doesn&#39;t actually touch the Castle other than adding a new interior cell called &#34;General&#39;s Quarters&#34;. 
+
+
+
+
+<hr />
+
+### Ghillie Mod Redux - Cloak Fix Hotfix
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/26528/) (Weapons and Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/26528/26528-1549735801-1072462645.jpeg" alt="mod-image" height="350" />
+
+> By GameDev1995 for Fallout 4 (Default)
+
+Ghillie Mod Redux is an overhaul of my previous mod "Ghillie Mod - Suit &amp; Weapon Wraps (WIP)" The redux has been created from the ground up to fix many of the bugs from the previous installment along with brand new meshes, textures and cloth physics.
+
+
+
+
+<hr />
+
+### Ghillie Mod Redux 2.2
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/26528/) (Weapons and Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/26528/26528-1549735801-1072462645.jpeg" alt="mod-image" height="350" />
+
+> By GameDev1995 for Fallout 4 (Default)
+
+Ghillie Mod Redux is an overhaul of my previous mod "Ghillie Mod - Suit &amp; Weapon Wraps (WIP)" The redux has been created from the ground up to fix many of the bugs from the previous installment along with brand new meshes, textures and cloth physics.
 
 
 
@@ -2844,7 +3038,7 @@ Buy the three warehouses in Goodneighbor and make them your own
 
 <hr />
 
-### Graf's Security Fences 1.4
+### Graf&#39;s Security Fences 1.4
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/39252/) (Crafting - Home&#x2F;Settlement) 
 
@@ -2904,15 +3098,60 @@ Makes rifles longer range than pistols by swapping Rifleman's armor piercing buf
 
 <hr />
 
-### HK G3 Family 1.4 1.4
+### HK G3 - Battle rifle - HK G3 - 4K 1.0a
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42624) (Weapons) 
+Installed 5/2/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51754/) (Weapons) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/42624/42624-1576691024-2027088216.png" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51754/51754-1619707522-1845226240.png" alt="mod-image" height="350" />
 
-> By TheBigLidowski for Fallout 4 (Default)
+> By Subleader and Luchadordev for Fallout 4 (Default)
 
-Adds basically 4 new weapons to the game: G3 AR, HK-51 SMG, PSG-1 SR and HK-11 LMG. All guns are balanced around vanilla Assault rifle.
+This mod adds the G3 Battle rifle to Fallout 4 with a lot of customization, leveled list and unique variants.
+
+
+
+
+<hr />
+
+### HK G3 - Tactical reload patch 1.0f
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51754/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51754/51754-1619707522-1845226240.png" alt="mod-image" height="350" />
+
+> By Subleader and Luchadordev for Fallout 4 (Default)
+
+This mod adds the G3 Battle rifle to Fallout 4 with a lot of customization, leveled list and unique variants.
+
+
+
+
+<hr />
+
+### HK MP5 Complex - Tactical Reload Patch 1.3
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
+
+
+
+
+<hr />
+
+### HK UMP - Tactical Reload Patch 1.4
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
 
 
 
@@ -2958,6 +3197,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/45
 > By RayRory and many others for Fallout 4 (Default)
 
 You want an American style gun, but with a German engineering? Look no further than the HK416. This highly reliable AR-15 style rifle is in service with the Norwegian and French Armed Forces, and countless special operations forces from all over the world. If you need a gun to depend on in the harsh wasteland environment, the HK416 is the one.
+
+
+
+
+<hr />
+
+### HS Produkt VHS-2 - Tactical Reload Patch 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
 
 
 
@@ -3084,6 +3338,21 @@ Adds the Honey Badger from COD Ghosts and MWR into Fallout 4<br /><br />video re
 
 <hr />
 
+### Hunt Showdown Atmospheric Ambience - HuntAtmos 1.0
+
+Installed 5/4/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51863/) (Audio - SFX) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51863/51863-1620084465-685297832.png" alt="mod-image" height="350" />
+
+> By Azebal for Fallout 4 (Default)
+
+Replaces the commonwealth's dull/repetitive atmospheric sounds with that of Hunts.
+
+
+
+
+<hr />
+
 ### Immersive Fallout Combat - IFC - IFC Complete 1.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42037/) (Animation) 
@@ -3093,6 +3362,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42
 > By Tehsham for Fallout 4 (Default)
 
 Want the satisfaction of hitting something? Do you feel like you are shooting bricks and not enemies? Want enemies to feel alive and not freakin mannequins?<br />This is it then.
+
+
+
+
+<hr />
+
+### IceStorms Orsis F17 1.0
+
+Installed 4/30/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51257/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51257/51257-1617825510-2084761623.jpeg" alt="mod-image" height="350" />
+
+> By IceStormNG for Fallout 4 (Default)
+
+Russian multi-caliber sniper rifle.
 
 
 
@@ -3308,9 +3592,24 @@ New modular body armor with new meshes &amp; textures for Dogmeat, designed afte
 
 <hr />
 
-### Kill Tips and Hit Sound(ESL file)Remastered 2.5.5
+### Kicks And Punches V01
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41557/) (User Interface) 
+Installed 4/22/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/45402/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/45402/45402-1590938830-978098649.jpeg" alt="mod-image" height="350" />
+
+> By Flovici for Fallout 4 (Default)
+
+New martial arts moves for brawlers
+
+
+
+
+<hr />
+
+### Kill Tips and Hit Sound(ESL file)Remastered 2021.7.10
+
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41557/) (User Interface) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/41557/41557-1571205400-2065317898.jpeg" alt="mod-image" height="350" />
 
@@ -3323,9 +3622,9 @@ Hit sound: Increase the sense of attack for shooting!! Imitation of the mainstre
 
 <hr />
 
-### LOST AWKCR VIS-G Patches 2.2
+### LOST AWKCR VIS-G Patches 2.2.3
 
-Installed 4/14/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/40666/) (Patches) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/40666/) (Patches) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/40666/40666-1598625936-584631271.png" alt="mod-image" height="350" />
 
@@ -3422,21 +3721,6 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51
 > By anton557 for Fallout 4 (Default)
 
 NPC grenades are not unlimited (Кончающиеся гранаты у НПС).
-
-
-
-
-<hr />
-
-### Live Dismemberment - Increased Headshot Damage 1
-
-Installed 4/14/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/16400/) (Gameplay Effects and Changes) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/16400-1-1468382391.jpg" alt="mod-image" height="350" />
-
-> By DeathclawAlpha for Fallout 4 (Default)
-
-Mutilate your enemies as they squirm around!
 
 
 
@@ -3593,9 +3877,9 @@ Birds, creaking trees, rustling leaves...
 
 <hr />
 
-### M45A1 V1.1
+### M45A1 - M45A1 More Textures V2
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50704/) (Weapons) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50704/) (Weapons) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/50704/50704-1615487471-1935264594.png" alt="mod-image" height="350" />
 
@@ -3623,15 +3907,60 @@ Adds the MK14 EBR weapon system to Fallout 4
 
 <hr />
 
-### MK18 CQBR 1st Person Sound Fix - Loose Files 1.0
+### MK14 EBR with WD Animations - Tactical Reload Patch 1.3
 
-Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51434/) (Bug Fixes) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51434/51434-1618437385-1034121237.png" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
 
-> By Eidolon80 for Fallout 4 (Default)
+> By sincerity for Fallout 4 (Default)
 
-Sound fix for the rubbing cloth sound present in 1st person
+Tactical Reload Patch Repository, for your Tactical Reload needs.
+
+
+
+
+<hr />
+
+### Tactical Reload Patch Repository - MK18 - Optional Deluxe Support 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
+
+
+
+
+<hr />
+
+### MK18 - Tactical Reload Patch with Armory Project Support 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
+
+
+
+
+<hr />
+
+### MK18 Armory Project 0.69420
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52424/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52424/52424-1622742442-107062184.png" alt="mod-image" height="350" />
+
+> By SalientPhantom - EtCapra for Fallout 4 (Default)
+
+An expansion consisting of aftermarket and milspec parts to HyperX's MK18 CQBR.
 
 
 
@@ -3653,6 +3982,36 @@ Adds a highly customizable MK18 CQBR that features a quest, custom sounds, anima
 
 <hr />
 
+### MK18 Deluxe 1.21
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52396/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52396/52396-1622686589-1175198523.png" alt="mod-image" height="350" />
+
+> By Drifter OhDeerSKR Subleader and HeroicPie for Fallout 4 (Default)
+
+A collection of mostly cosmetic additions to the MK18
+
+
+
+
+<hr />
+
+### MK18 Textures Edits 1.1
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48049) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48049/48049-1603409822-1446671347.jpeg" alt="mod-image" height="350" />
+
+> By OunceStripes for Fallout 4 (Default)
+
+MK18 textures edits, mostly lighting tweaks.
+
+
+
+
+<hr />
+
 ### MTs-255 Revolver Shotgun - 4K Textures 1.4
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/31240/) (Weapons) 
@@ -3662,6 +4021,36 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/31
 > By ExpoAlt for Fallout 4 (Default)
 
 Adds the MTs-255 Revolver Shotgun to the Commonwealth. Favoured by the Gunners, this Russian-made hunting shotgun features several variants to adapt to your preferred play style.
+
+
+
+
+<hr />
+
+### MW .50 GS Submod 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/53171/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/53171/53171-1625926595-722829424.png" alt="mod-image" height="350" />
+
+> By WarfightersWorkshop for Fallout 4 (Default)
+
+SMALL SUBMOD<br /><br />Adds the .50 GS from Modern Warfare 2019 and it's variants/Blueprints into Fallout 4.<br />My Discord: https://discord.gg/t8xES57jem<br />My YT: https://www.youtube.com/channel/UCaAWXsfslSSJk93-6rKa66Q<br /><br />Please endorse as it always helps!
+
+
+
+
+<hr />
+
+### MW AN94 1.0
+
+Installed 4/23/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51615/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51615/51615-1619200019-818475281.jpeg" alt="mod-image" height="350" />
+
+> By WarfightersWorkshop for Fallout 4 (Default)
+
+Adds the AN94 from Modern Warfare 2019 and it's variants/Blueprints into Fallout 4.<br />My Discord: https://discord.gg/t8xES57jem<br />My YT: https://www.youtube.com/channel/UCaAWXsfslSSJk93-6rKa66Q<br /><br />Please endorse as it always helps!
 
 
 
@@ -3692,6 +4081,66 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51
 > By M4k4rov for Fallout 4 (Default)
 
 Adds the Frag Grenade and Semtex from MW 2019 to Fallout 4.
+
+
+
+
+<hr />
+
+### MW Player Hit Sounds and Effects - RaceCustomizer 1.0
+
+Installed 5/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52158/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52158/52158-1621320695-1113080703.jpeg" alt="mod-image" height="350" />
+
+> By ShiroNyanP for Fallout 4 (Default)
+
+Adds damage sounds and screen effects from MW when taking damage. Camera shake, screen flash and sound effects added. Check the video for a better idea of what this mod does.
+
+
+
+
+<hr />
+
+### MW Player Hit Sounds and Effects - UniqueNPCs (Creatures) 1.0
+
+Installed 5/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52158/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52158/52158-1621320695-1113080703.jpeg" alt="mod-image" height="350" />
+
+> By ShiroNyanP for Fallout 4 (Default)
+
+Adds damage sounds and screen effects from MW when taking damage. Camera shake, screen flash and sound effects added. Check the video for a better idea of what this mod does.
+
+
+
+
+<hr />
+
+### MW Player Hit Sounds and Effects 1.01 1.01
+
+Installed 5/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52158/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52158/52158-1621320695-1113080703.jpeg" alt="mod-image" height="350" />
+
+> By ShiroNyanP for Fallout 4 (Default)
+
+Adds damage sounds and screen effects from MW when taking damage. Camera shake, screen flash and sound effects added. Check the video for a better idea of what this mod does.
+
+
+
+
+<hr />
+
+### MW Ram-7 2K 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52823/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52823/52823-1625842360-509122449.png" alt="mod-image" height="350" />
+
+> By Warfighters Workshop for Fallout 4 (Default)
+
+Adds the Ram-7 from Modern Warfare 2019 and it's variants/Blueprints into Fallout 4.<br />My Discord: https://discord.gg/t8xES57jem<br />My YT: https://www.youtube.com/channel/UCaAWXsfslSSJk93-6rKa66Q<br /><br />Please endorse as it always helps!
 
 
 
@@ -3743,15 +4192,15 @@ Bringing the love from Skyrim over and adding more hair for your convenience. St
 
 <hr />
 
-### Manual Reload Simple v1.02 v1.02
+### ZENIT - Main mod 0.999999999
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/35378) (Gameplay Effects and Changes) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50152/) (Weapons) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/35378/35378-1539730794-808904936.jpeg" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/50152/50152-1614118516-746385185.jpeg" alt="mod-image" height="350" />
 
-> By Bwones for Fallout 4 (Default)
+> By SpongeBob and friends for Fallout 4 (Default)
 
-A very simple way to do manual reloading. No more automatic reloading when you run out of ammo.
+from Russia with love
 
 
 
@@ -3803,6 +4252,24 @@ Dark Ambient and Electronic Industrial background music<br />A soundtrack design
 
 <hr />
 
+### MegaExplosions_x2_VISUALSONLY 1
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/2961/) (Visuals and Graphics) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/2961-1-1448550474.jpg" alt="mod-image" height="350" />
+
+> By Meltus for Fallout 4 (Default)
+
+BOOM&#33;&#33;&#33;
+<br />Every single explosion in the game has double force, double damage and double size&#33;
+<br />
+<br />Ever thought that mini-nukes are a little too, well, mini? This is the mod for you&#33;
+
+
+
+
+<hr />
+
 ### Mercenary Outfits Initial Release 1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41272/) (Clothing) 
@@ -3842,6 +4309,51 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50
 > By AnomNom for Fallout 4 (Default)
 
 Does the re-use of the Monorail Trains for all Metro Tunnels bother you? Do you yearn to see Strider's metro models in-game? Well, do I have the mod for you! This mod replaces every vanilla train with the custom model (including support for other mods)!
+
+
+
+
+<hr />
+
+### Militarized Minutemen - FOMOD Installation v1.1.2 - Bug Fixes 1.1.2
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/29853/) (Factions) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/29853/29853-1518703862-1129512347.jpeg" alt="mod-image" height="350" />
+
+> By Corvalho for Fallout 4 (Default)
+
+Adds over 15 modular military themed items for the minutemen, overhauling the factions with different classes and combat styles.
+
+
+
+
+<hr />
+
+### Militarized Minutemen - Uniforms Patches and Insignias Addon v2.2 (.BA2 Archive Version) 2.2
+
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/32369/) (Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/32369/32369-1544761441-1612289592.png" alt="mod-image" height="350" />
+
+> By Zachtan1234 for Fallout 4 (Default)
+
+Brings a substantial, yet grounded expansion to Militarized Minutemen by Corvalho1, adding new features such as new camouflage patterns, insignia badges, ranks, tactical accessories, headgear and outfits. Also adds many QOL improvements such as making the outfits  craftable, removing leather/combat armour from NPC Minutemen and various bug fixes.
+
+
+
+
+<hr />
+
+### Military Soldier Vest V2
+
+Installed 5/3/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47527) (Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/47527/47527-1600797802-2072867482.png" alt="mod-image" height="350" />
+
+> By Goodfellas - - - M4k4rov and Cerruti for Fallout 4 (Default)
+
+A military assault vest.
 
 
 
@@ -3998,6 +4510,21 @@ This mod Adds Lore friendly professionally produced music tracks to your Fallout
 
 <hr />
 
+### Carry Weight Modifications - NMM Installer - Default and Bonus Carry Weight 2.0
+
+Installed 4/16/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/214/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/214-1-1447318416.png" alt="mod-image" height="350" />
+
+> By The Iron Rose for Fallout 4 (Default)
+
+No more endless inventory management&#33; Or, optionally, even more inventory management. Includes a suite of mods that allow you to edit your carry weight, as well as carry weight per level of strength, so you can balance your own game as you like. 
+
+
+
+
+<hr />
+
 ### NWM Playing House 1.3a
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/16897/) (Crafting - Home&#x2F;Settlement) 
@@ -4058,6 +4585,51 @@ Nerfs the Quick Hands perk from -35% to -20%/-10% for a more realistic experienc
 
 <hr />
 
+### New Bobbleheads ESL 2.6
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/39202/) (Collectibles, Treasure Hunts, and Puzzles) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/39202/39202-1620231818-458718444.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+New Bobbleheads with different functions
+
+
+
+
+<hr />
+
+### Right-handed Far Harbor Lever Action Replacer - New Equip Animation 1.0
+
+Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/30485/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/30485/30485-1521087022-141450536.png" alt="mod-image" height="350" />
+
+> By Hitman47101 - Antistar for Fallout 4 (Default)
+
+New animations and flipped mesh for the Far Harbor Lever Action Rifle.
+
+
+
+
+<hr />
+
+### Right-handed Far Harbor Lever Action Replacer - New Lever Cycle Animation 1.1
+
+Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/30485/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/30485/30485-1521087022-141450536.png" alt="mod-image" height="350" />
+
+> By Hitman47101 - Antistar for Fallout 4 (Default)
+
+New animations and flipped mesh for the Far Harbor Lever Action Rifle.
+
+
+
+
+<hr />
+
 ### Private Military Company - Nexus PMC 3.0 3.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41332/) (Armour) 
@@ -4088,6 +4660,36 @@ Adds a new outfit with custom camouflages and gloves.
 
 <hr />
 
+### Nightstrikers 3.1
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/23004/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/23004-0-1490499319.jpg" alt="mod-image" height="350" />
+
+> By Shadowliger for Fallout 4 (Default)
+
+A mod that adds a new species of enemy to the Commonwealth called A Nightstriker based loosely off the Nightstalkers of Fallout: New Vegas.
+
+
+
+
+<hr />
+
+### Nightstrikers 4K textures 
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/23004/) (Creatures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/23004-0-1490499319.jpg" alt="mod-image" height="350" />
+
+> By Shadowliger for Fallout 4 (Default)
+
+A mod that adds a new species of enemy to the Commonwealth called A Nightstriker based loosely off the Nightstalkers of Fallout: New Vegas.
+
+
+
+
+<hr />
+
 ### No Aggro Impact Landing 1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/9019) (Gameplay Effects and Changes) 
@@ -4103,6 +4705,21 @@ Just makes the Impact Landing not turn friendly NPCs hostile
 
 <hr />
 
+### No More Fake Puddles 2.0
+
+Installed 4/22/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/17850/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/17850-7-1472570078.png" alt="mod-image" height="350" />
+
+> By twizz0r for Fallout 4 (Default)
+
+A simple texture replacement to remove the persistent fake puddles from the game. No more fake reflections&#33;
+
+
+
+
+<hr />
+
 ### No Screen Blood Splatter 1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/109/) (Gameplay Effects and Changes) 
@@ -4112,6 +4729,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/10
 > By jet4571 for Fallout 4 (Default)
 
 Removes screen blood splatter when you are injured.
+
+
+
+
+<hr />
+
+### No more perk popups - Silent Perks 1.0
+
+Installed 4/22/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/7315/) (Perks) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/7315-1-1451536309.png" alt="mod-image" height="350" />
+
+> By torcher for Fallout 4 (Default)
+
+Makes those pesky perk popups that take up half your screen and noises that make your ears hurt vanish away&#33; All in 1 little install file&#33;
 
 
 
@@ -4223,7 +4855,7 @@ PIP Pad
 
 <hr />
 
-### PL-14 'Lebedev' - PL-14 - 4K - 1.0 1.0
+### PL-14 &#39;Lebedev&#39; - PL-14 - 4K - 1.0 1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42566/) (Weapons) 
 
@@ -4253,6 +4885,21 @@ The PL-14/PL-15 is a modern, light and compact semi-automatic pistol.
 
 <hr />
 
+### Private Military Company FAST Helmet Flashlight - PMC Flashlight - Non-NVG version 1.0b
+
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51974/) (Armour) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51974/51974-1620598376-1883768023.png" alt="mod-image" height="350" />
+
+> By TheBigLidowski for Fallout 4 (Default)
+
+Adds fully functional flashlight attachment to FAST helmet of EvTital's Private Military Company
+
+
+
+
+<hr />
+
 ### Private Military Company - PMC Glowmap 3.0.2
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41332/) (Armour) 
@@ -4268,9 +4915,9 @@ Adds a new outfit with custom camouflages and gloves.
 
 <hr />
 
-### Pack Attack NPC Edition 1.98
+### Pack Attack NPC Edition 1.991
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/30140/) (NPC) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/30140/) (NPC) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/30140/30140-1519793478-1636112246.png" alt="mod-image" height="350" />
 
@@ -4283,7 +4930,22 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/30
 
 <hr />
 
-### Crimsomrider's Perk VFX Removal (Night Person - Sneak Rank 5) - Perk VFX Removal 1.0
+### HK USP .45(New) with Tactical knife - 0.Patch for Sneaky Kills mod 1.0
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42805) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/42805/42805-1604825190-767422639.jpeg" alt="mod-image" height="350" />
+
+> By Tooun for Fallout 4 (Default)
+
+USP 45 new model in this mod, Mod added a variety of tactical knives<br />Tribute to Call of Duty:MW Series<br />In the action, only reload action and knife holding action are imitated from Call of Duty: MW series,<br />Other actions are all my own original make,,Many actions can be selected from the MCM menu
+
+
+
+
+<hr />
+
+### Crimsomrider&#39;s Perk VFX Removal (Night Person - Sneak Rank 5) - Perk VFX Removal 1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/24510/) (Gameplay Effects and Changes) 
 
@@ -4315,7 +4977,7 @@ Adds a beautifully cyberpunk flower gasmask to your game.
 
 ### Pip-Boy Flashlight 5.0.2
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/10840/) (Immersion) 
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/10840/) (Immersion) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/10840-0-1457930276.jpg" alt="mod-image" height="350" />
 
@@ -4531,37 +5193,22 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/13
 
 > By Elianora for Fallout 4 (Default)
 
-This mod overhauls the player's quarters aboard Prydwen into a glorious soldier home. You will be able to use all workbenches with cloud storage, fast-travel in and out (yay for no more 3 loading screens to get home), and have a great time coming home between missions&#33;
+This mod overhauls the player&#39;s quarters aboard Prydwen into a glorious soldier home. You will be able to use all workbenches with cloud storage, fast-travel in and out (yay for no more 3 loading screens to get home), and have a great time coming home between missions&#33;
 
 
 
 
 <hr />
 
-### Q.M.W(Quick Modification Weapon) ESL file 1.9.6
+### Q.M.W(Quick Modification Weapon) ESL file 2021.7.10
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/44985/) (User Interface) 
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/44985/) (User Interface) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/44985/44985-1589268649-2044910411.jpeg" alt="mod-image" height="350" />
 
 > By Tooun for Fallout 4 (Default)
 
 Quick Modification Weapon : Fast change scopes/muzzle/attach , great efficiency, Anytime, Anywhere..<br />Only support modern weapons(Only mod weapon)
-
-
-
-
-<hr />
-
-### Quick Attack 2.6
-
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46617/) (Gameplay Effects and Changes) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/46617/46617-1597440442-426246141.png" alt="mod-image" height="350" />
-
-> By Akanto10 for Fallout 4 (Default)
-
-Ever wanted to shank a mole rat in the heat of combat, but you couldn't take out your machete fast enough? This mod is for you. Add your weapon of choice to the Mod Configuration Menu, and every time you press your desired key, you use that weapon to quickly melee or shoot. Simple as that.
 
 
 
@@ -4681,7 +5328,7 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15
 
 > By lazyradly and FancyPants for Fallout 4 (Default)
 
-Allows you to modify the Player's Race Entry without affecting NPCs.
+Allows you to modify the Player&#39;s Race Entry without affecting NPCs.
 
 
 
@@ -4718,9 +5365,24 @@ Radstag will use his special skill in combat.
 
 <hr />
 
-### No Weapon Recoil Auto Recovery for Some Mod Added Weapons - Raider2078s Aim Model Patches FOMOD 1.3.1
+### Ragdoll Collision 1.0
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50531) (Patches) 
+Installed 4/20/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/6740/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/6740-0-1450845300.png" alt="mod-image" height="350" />
+
+> By Midnight for Fallout 4 (Default)
+
+Enables collisions with live ragdolls, allowing Pain Train to physically collide with the target. Ragdolls will also collide with their own limbs, so limbs no longer clip through each other. 
+
+
+
+
+<hr />
+
+### No Weapon Recoil Auto Recovery for Some Mod Added Weapons - Raider2078s Aim Model Patches FOMOD 1.5.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50531/) (Patches) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/50531/50531-1614994791-2128880948.jpeg" alt="mod-image" height="350" />
 
@@ -4742,6 +5404,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/13
 > By Elianora for Fallout 4 (Default)
 
 Mod adds a new wing, or a room, whatever, into Railroad HQ for the player to use.
+
+
+
+
+<hr />
+
+### Real Gen2 Females FOMOD AIO (repack2) 1.05.2
+
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/22794/) (NPC) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/22794/22794-1597134244-548794691.png" alt="mod-image" height="350" />
+
+> By JackJack86 for Fallout 4 (Default)
+
+This mod is aimed at adding Female Gen2 Synths to the Commonwealth
 
 
 
@@ -4838,6 +5515,156 @@ Allows you to Sprint for more than 5 seconds at a time and a little faster
 
 <hr />
 
+### Reinforcement Radio - v3.1.0 FOMOD Installer 3.1.0
+
+Installed 5/3/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48558/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48558/48558-1608842999-1638940370.jpeg" alt="mod-image" height="350" />
+
+> By Sars99 for Fallout 4 (Default)
+
+Adds a radio item under the aid tab to allow calling in reinforcements. These squads can be controlled and some have upgrade options to improve their capability. Main versions based on the Militarised Minutemen mod. Optional Horizon patch support
+
+
+
+
+<hr />
+
+### Remington Model 700 - Remington 700 - Tactical Reload Patch 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52950/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52950/52950-1625143836-1426779890.png" alt="mod-image" height="350" />
+
+> By TheBigLidowski for Fallout 4 (Default)
+
+Adds Remington 700 rifle into the game with customizable leveled list integration, custom sounds and animations in 1st and 3rd person and a variety of modifications.
+
+
+
+
+<hr />
+
+### Remington 700 - Update 1.0a
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52950/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52950/52950-1625143836-1426779890.png" alt="mod-image" height="350" />
+
+> By TheBigLidowski for Fallout 4 (Default)
+
+Adds Remington 700 rifle into the game with customizable leveled list integration, custom sounds and animations in 1st and 3rd person and a variety of modifications.
+
+
+
+
+<hr />
+
+### Remington 700 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52950/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52950/52950-1625143836-1426779890.png" alt="mod-image" height="350" />
+
+> By TheBigLidowski for Fallout 4 (Default)
+
+Adds Remington 700 rifle into the game with customizable leveled list integration, custom sounds and animations in 1st and 3rd person and a variety of modifications.
+
+
+
+
+<hr />
+
+### Remington ACR Carry Fix 1.0.2
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51997/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51997/51997-1620707775-877291665.png" alt="mod-image" height="350" />
+
+> By SalientPhantom for Fallout 4 (Default)
+
+Adds a neat and somewhat modular Remington ACR for crafting and usage.
+
+
+
+
+<hr />
+
+### Remington ACR 1.0.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51997/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51997/51997-1620707775-877291665.png" alt="mod-image" height="350" />
+
+> By SalientPhantom for Fallout 4 (Default)
+
+Adds a neat and somewhat modular Remington ACR for crafting and usage.
+
+
+
+
+<hr />
+
+### Remington Model 11 - 4K 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52357/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52357/52357-1622392041-661619336.png" alt="mod-image" height="350" />
+
+> By Subleader and Egorprotonov for Fallout 4 (Default)
+
+This mod adds the Model 11 shotgun to Fallout 4 with a lot of customization and leveled list. Fully compatible with BCR and Tactical Reload.
+
+
+
+
+<hr />
+
+### Remington Model 11 - TacticalReloadPatch TR
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52357/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52357/52357-1622392041-661619336.png" alt="mod-image" height="350" />
+
+> By Subleader and Egorprotonov for Fallout 4 (Default)
+
+This mod adds the Model 11 shotgun to Fallout 4 with a lot of customization and leveled list. Fully compatible with BCR and Tactical Reload.
+
+
+
+
+<hr />
+
+### Rename Anything 2.6.12 2.6.12
+
+Installed 7/18/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/22105/) (User Interface) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/22105-0-1487376052.jpg" alt="mod-image" height="350" />
+
+> By registrator2000 for Fallout 4 (Default)
+
+A F4SE plugin that lets you rename anything in your inventory or in the world, including containers, settlers, and more. Names can be restored to default at any time.<br /><br />It also restores the ability to use formatting tags (e.g. bold, italics, underlining) in item names.
+
+
+
+
+<hr />
+
+### Resources Expanded ESM and optional ESL 0.9
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/37501/) (Crafting - Other) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/37501/37501-1618661785-557533263.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+A lot of different resource items.<br />Modders resource
+
+
+
+
+<hr />
+
 ### Reverb and Ambiance Overhaul - ALL DLC 1.6e
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/10189/) (Audio - SFX) 
@@ -4847,6 +5674,36 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/10
 > By mm137 for Fallout 4 (Default)
 
 Makes weapon sounds more realistic for player and NPCs. Improves and balances ambiance and reverb to be more realistic and lively.  Increases the diversity and dynamics of in-game sound.  Fixes numerous issues. Lightweight and compatible with all sound replacer mods.
+
+
+
+
+<hr />
+
+### Right-handed Lever Action Replacer V1.1
+
+Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/30485/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/30485/30485-1521087022-141450536.png" alt="mod-image" height="350" />
+
+> By Hitman47101 - Antistar for Fallout 4 (Default)
+
+New animations and flipped mesh for the Far Harbor Lever Action Rifle.
+
+
+
+
+<hr />
+
+### Ruger Mini-14 - Tactical Reload Patch 1.3
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
 
 
 
@@ -4943,6 +5800,36 @@ Adds the Volk from Infinite Warfare and it's variants (Basic to Legendary) into 
 
 <hr />
 
+### SIG MCX - 4K 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52697/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52697/52697-1624037506-1927037054.png" alt="mod-image" height="350" />
+
+> By Subleader - Partisan - ParallaxGameStudios - The Campers for Fallout 4 (Default)
+
+This mod adds the SIG MCX Assault rifle to Fallout 4 with a lot of customization, leveled list and unique variants.
+
+
+
+
+<hr />
+
+### SIG MCX - Update 1.0b
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52697/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52697/52697-1624037506-1927037054.png" alt="mod-image" height="350" />
+
+> By Subleader - Partisan - ParallaxGameStudios - The Campers for Fallout 4 (Default)
+
+This mod adds the SIG MCX Assault rifle to Fallout 4 with a lot of customization, leveled list and unique variants.
+
+
+
+
+<hr />
+
 ### M3D - Sig Sauer P220 - SIG P220 - version 103 1.03
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/18796/) (Weapons) 
@@ -5018,6 +5905,21 @@ A vending machine that scraps old ammo and makes new ammo. Scripted for conflict
 
 <hr />
 
+### Global Stash (Connect all Workshops and Workbenches) by SKK - SKKGlobalStashScrapping_007 008
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41511/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/41511/41511-1583318168-193821050.png" alt="mod-image" height="350" />
+
+> By SKK50 for Fallout 4 (Default)
+
+A global stash connecting all Workshops and Workbenches to share all inventory for building and crafting. Access from any workshop, workbench, player hotkey, constructable containers. Never have to transfer inventory around again. Optional scrapping of misc junk to components and consolidation of Fusion Cores.
+
+
+
+
+<hr />
+
 ### SKKSurvivalUtilities_007 007
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46306) (Utilities) 
@@ -5056,7 +5958,7 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/12
 
 > By Gopher for Fallout 4 (Default)
 
-You are not my mother, don't tell me to go to bed&#33;
+You are not my mother, don&#39;t tell me to go to bed&#33;
 
 
 
@@ -5139,6 +6041,36 @@ Scrap skeletons, piles, ghouls, bloodbugs, claws...
 
 <hr />
 
+### See Through Scopes 2.4.0 - NMM Version 2.4.0
+
+Installed 7/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/9476/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/9476/9476-1535110744-1741862064.jpeg" alt="mod-image" height="350" />
+
+> By henkspamadres for Fallout 4 (Default)
+
+Adds see-through (so no scope overlay) Combat Scopes to various weapons.
+
+
+
+
+<hr />
+
+### Tactical Reload - See Through Scopes Patch 1.1
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49444/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/49444/49444-1610721148-30612444.png" alt="mod-image" height="350" />
+
+> By Bwones for Fallout 4 (Default)
+
+Adds a second reload for when the magazine is not empty. 1st person only.<br />Improved Manual Reload 1st and 3rd person.
+
+
+
+
+<hr />
+
 ### Accuracy International AX50 Anti-Materiel Rifle - See-Through Hotfix 1.1b
 
 Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/43265/) (Weapons) 
@@ -5148,6 +6080,36 @@ Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/43
 > By TheBigLidowski for Fallout 4 (Default)
 
 Adds new powerful .50 Cal Anti-materiel rifle - Accuracy International AX50 - to the game.
+
+
+
+
+<hr />
+
+### Sentry Turret Main 1.2.1
+
+Installed 5/7/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51916/) (Player Settlement) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51916/51916-1620331009-1035409275.jpeg" alt="mod-image" height="350" />
+
+> By IceStormNG for Fallout 4 (Default)
+
+The Sentry Minigun turrets from Call of Duty MW can now defend your settlement.
+
+
+
+
+<hr />
+
+### Service Rifle 0.96
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/32361/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/32361/32361-1528756323-651319149.jpeg" alt="mod-image" height="350" />
+
+> By DeadPool2099 - The Shiny Haxorus and friends for Fallout 4 (Default)
+
+This mod will add Service Rifle from Fallout New Vegas, based on legendary M16 platform, with completely scratch-made assets and animations
 
 
 
@@ -5214,6 +6176,36 @@ you can craft a (stealthboy like) personal energy shield device in the chem work
 
 <hr />
 
+### ShootingTarget 1.3
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/10132/) (Crafting - Home&#x2F;Settlement) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/10132-1-1456036168.jpg" alt="mod-image" height="350" />
+
+> By bagle for Fallout 4 (Default)
+
+This mod is add shooting targets.
+
+
+
+
+<hr />
+
+### Showers ESL 1.4
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/36107/) (Crafting - Home&#x2F;Settlement) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/36107/36107-1543178794-2101958813.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Six showers that boost your charisma or remove your rads.
+
+
+
+
+<hr />
+
 ### Sig Sauer Handgun Pack 1.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47610/) (Weapons) 
@@ -5229,7 +6221,7 @@ This mod adds 4 Sig Sauer pistols, the P226, P320, X Five Legion and the M17 wit
 
 <hr />
 
-### SirTanksAlot's Dungeons of Doom 1
+### SirTanksAlot&#39;s Dungeons of Doom 1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51304) (Locations - New) 
 
@@ -5244,7 +6236,7 @@ This mod adds new locations and dungeons to the game, and they are filled to the
 
 <hr />
 
-### Skip DiMA's Memory Games 1
+### Skip DiMA&#39;s Memory Games 1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/39417/) (Miscellaneous) 
 
@@ -5253,36 +6245,6 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/39
 > By Borjoyzee for Fallout 4 (Default)
 
 Skip DiMA's memory games at the press of 5 buttons, one for each memory. No bat. files.
-
-
-
-
-<hr />
-
-### Skip New Game Intro 2
-
-Installed 4/13/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/28562/) (Cheats and God items) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/28562/28562-1513542090-88081726.jpeg" alt="mod-image" height="350" />
-
-> By Ellirium115 for Fallout 4 (Default)
-
-Skip Pre-War and In-Pod Scenes when start new game.
-
-
-
-
-<hr />
-
-### Slide 1.0
-
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41243/) (Gameplay Effects and Changes) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/41243/41243-1569143551-1439482804.png" alt="mod-image" height="350" />
-
-> By Beulenbernd for Fallout 4 (Default)
-
-Adds a slide ability similar to games like Titanfall that kicks NPCs over.
 
 
 
@@ -5304,7 +6266,7 @@ Overhauls the effects produced from muzzle attachments, every muzzle and caliber
 
 <hr />
 
-### Snap'n Build 2.0 2.0
+### Snap&#39;n Build 2.0 2.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/28834/) (Player Settlement) 
 
@@ -5328,6 +6290,36 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/19
 > By 5133p39 for Fallout 4 (Default)
 
 Adds the ability to backstab your enemies if you sneak up on them.<br />With or without a weapon, sneak behind (or in front of) an unsuspecting enemy, and attack to perform a killmove.
+
+
+
+
+<hr />
+
+### Sombre Mountain - Basic Mining Patch (ESL) 1.0
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47332) (New Lands) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/47332/47332-1618603704-133276382.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+A village built around an inactive volcanic crater. And a mine harboring deep secrets. Can you get to the bottom and survive? Oh and there's a cool workshop.
+
+
+
+
+<hr />
+
+### Sombre Mountain Mini DLC - For Miners and Cave Dwellers - Sombre Mountain 1.5
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/47332) (New Lands) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/47332/47332-1618603704-133276382.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+A village built around an inactive volcanic crater. And a mine harboring deep secrets. Can you get to the bottom and survive? Oh and there's a cool workshop.
 
 
 
@@ -5424,6 +6416,21 @@ A non-replacer version of the STALKER Music mod by Bananaphone333. Adds music fr
 
 <hr />
 
+### Basic Fishing ESL 1.5
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/37810/) (Crafting - Home&#x2F;Settlement) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/37810/37810-1618661212-321052140.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Fish and relax or let your settler do the work for you.
+
+
+
+
+<hr />
+
 ### Standalone Workbenches 1.6
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/41832/) (Crafting - Home&#x2F;Settlement) 
@@ -5484,6 +6491,21 @@ The Steyr AUG, a modular Austrian bullpup with variants ranging from SMG to LMG 
 
 <hr />
 
+### Stimpak Animation replacer 1.0
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52766/) (Animation) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52766/52766-1624390270-2099714351.jpeg" alt="mod-image" height="350" />
+
+> By Warfighters Workshop for Fallout 4 (Default)
+
+I found this in the dark recesses of my mod folder and figured I might as well upload it.
+
+
+
+
+<hr />
+
 ### Stimpaks help you breathe 1.1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46361/) (Immersion) 
@@ -5493,6 +6515,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46
 > By Elzee for Fallout 4 (Default)
 
 Add visual effect, sound effect, and player breath voice to stimpak.
+
+
+
+
+<hr />
+
+### Stingray Support 3.4.4.2
+
+Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15939/) (Miscellaneous) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/15939-0-1467540992.jpg" alt="mod-image" height="350" />
+
+> By Undivide for Fallout 4 (Default)
+
+This mod allows you to request a Stingray Military jet to come to your aid. 
 
 
 
@@ -5529,6 +6566,21 @@ A collection of Back-pack's and Duffle-Bags.
 
 <hr />
 
+### Synth Tattoo Distribution 1
+
+Installed 4/21/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42111/) (Companions) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/42111/42111-1573934195-328552750.png" alt="mod-image" height="350" />
+
+> By radbeetle for Fallout 4 (Default)
+
+Well, the generic coursers have a tattoo on the back of their neck. Why not X6-88? This fixes that, and adds the tattoo to a handful of other unique synths
+
+
+
+
+<hr />
+
 ### TERA Rogue Mashup 1.0.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/32714/) (Armour) 
@@ -5553,6 +6605,51 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/19
 > By ghzfba for Fallout 4 (Default)
 
 Turrets can be hacked in the same way as robots. Restored Fallout 3 feature according to which robots can be hacked by the player only if they are not in combat state (optional).
+
+
+
+
+<hr />
+
+### Tula Arms TOZ-194 Shotgun - TOZ-194 4K 1.0
+
+Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48581) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48581/48581-1606146167-1667930227.png" alt="mod-image" height="350" />
+
+> By Subleader for Fallout 4 (Default)
+
+This mod adds the Toz-194 to Fallout 4 with attachments and leveled list.
+
+
+
+
+<hr />
+
+### Tula Arms TOZ-194 Shotgun - TOZ-194 Faster Actions Faster
+
+Installed 4/16/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48581) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48581/48581-1606146167-1667930227.png" alt="mod-image" height="350" />
+
+> By Subleader for Fallout 4 (Default)
+
+This mod adds the Toz-194 to Fallout 4 with attachments and leveled list.
+
+
+
+
+<hr />
+
+### Tula Arms TOZ-194 Shotgun - TOZ-194 Update 1.03c
+
+Installed 4/15/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48581/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48581/48581-1606146167-1667930227.png" alt="mod-image" height="350" />
+
+> By Subleader for Fallout 4 (Default)
+
+This mod adds the Toz-194 to Fallout 4 with attachments and leveled list.
 
 
 
@@ -5634,9 +6731,54 @@ An outfit that is tactical.<br /><br />22 - Attachments<br />72 - standard colou
 
 <hr />
 
-### TacticalBeanie v1.0 - Archived 1.0
+### Tactical Reload DLC Weapons 1.1
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46148/) (Clothing) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49444/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/49444/49444-1610721148-30612444.png" alt="mod-image" height="350" />
+
+> By Bwones for Fallout 4 (Default)
+
+Adds a second reload for when the magazine is not empty. 1st person only.<br />Improved Manual Reload 1st and 3rd person.
+
+
+
+
+<hr />
+
+### Tactical Reload Framework 1.1
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49444/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/49444/49444-1610721148-30612444.png" alt="mod-image" height="350" />
+
+> By Bwones for Fallout 4 (Default)
+
+Adds a second reload for when the magazine is not empty. 1st person only.<br />Improved Manual Reload 1st and 3rd person.
+
+
+
+
+<hr />
+
+### Tactical Reload Vanilla Weapons 1.1
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49444/) (Gameplay Effects and Changes) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/49444/49444-1610721148-30612444.png" alt="mod-image" height="350" />
+
+> By Bwones for Fallout 4 (Default)
+
+Adds a second reload for when the magazine is not empty. 1st person only.<br />Improved Manual Reload 1st and 3rd person.
+
+
+
+
+<hr />
+
+### TacticalBeanie v1.01 - Archived 1.01
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46148/) (Clothing) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/46148/46148-1594220707-1663996858.png" alt="mod-image" height="350" />
 
@@ -5664,9 +6806,9 @@ This mod adds a unique pistol to the game which is craftable at the chem bench u
 
 <hr />
 
-### Targeting HUD Eyewear 1.3 1.3
+### Targeting HUD Eyewear 1.3.5 (Experimental) 1.3.5
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/2498/) (Gameplay Effects and Changes) 
+Installed 4/30/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/2498/) (Gameplay Effects and Changes) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/2498-0-1448358916.png" alt="mod-image" height="350" />
 
@@ -5688,6 +6830,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/13
 > By LogRaam aka Gabriel Mailhot for Fallout 4 (Default)
 
 Change eyes textures for new high resolution ones.  Will work for both gender.  New textures will be added so keep in touch!
+
+
+
+
+<hr />
+
+### The Forest Main 3.4
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/46602/) (New Lands) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/46602/46602-1618603533-1091417720.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Pure wilderness with few remains of human civilization. Comes with collectibles.
 
 
 
@@ -5724,6 +6881,36 @@ My Outfit pack that contains all of my previous work (B-90, Rebel, SNCR) plus a 
 
 <hr />
 
+### The Sewers ESM 1.7
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/45663/) (Locations - New) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/45663/45663-1618603500-111584457.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Step down into the sewers and see where the journey takes you
+
+
+
+
+<hr />
+
+### The Wilderness 1.6
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/53128/) (New Lands) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/53128/53128-1625748489-315392562.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+An abandoned town, lakes, forests and a curse that needs to be broken. Also tons of new settlement options
+
+
+
+
+<hr />
+
 ### Third-Person Movement Speed Fix 1.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/28737) (Bug Fixes) 
@@ -5733,6 +6920,21 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/28
 > By Asterra for Fallout 4 (Default)
 
 Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half.
+
+
+
+
+<hr />
+
+### This is My Bed 3
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/7399/) (Crafting - Home&#x2F;Settlement) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/7399-0-1451665556.jpg" alt="mod-image" height="350" />
+
+> By Kae Arby for Fallout 4 (Default)
+
+Adds six (or 13) craft-able beds that settlers cannot sleep in...but you can.
 
 
 
@@ -5769,6 +6971,55 @@ A lightweight mod that removes settlement trash when you move next to the workbe
 
 <hr />
 
+### TinyTweak_CubemapTextures2 2
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/19256/) (Models and Textures) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/19256-0-1476816199.jpg" alt="mod-image" height="350" />
+
+> By Andragorn for Fallout 4 (Default)
+
+Default Cubemaps show a landscape with house and sky and this is reflected in surfaces such as your gun even if you are indoors.
+
+
+
+
+<hr />
+
+### Toilets ESL 1.2
+
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/36203/) (Crafting - Home&#x2F;Settlement) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/36203/36203-1618685851-1590301288.jpeg" alt="mod-image" height="350" />
+
+> By El Ha for Fallout 4 (Default)
+
+Toilets that also produce fertilizer and happiness
+
+
+
+
+<hr />
+
+### Training Targets.. 1.1
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/12181/) (Player Settlement) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/12181-0-1461645349.jpg" alt="mod-image" height="350" />
+
+> By Luis Guerreiro for Fallout 4 (Default)
+
+Gain XP by shooting or hitting targets
+<br />
+<br />Get items as a prize
+<br />
+<br />Spawn npcs when shooting some of the targets
+
+
+
+
+<hr />
+
 ### True Storms - Wasteland Edition v1.4.1 1.4.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/4472/) (Weather and Lighting) 
@@ -5799,6 +7050,21 @@ Control how far all turrets can rotate when attacking in your settlements and ou
 
 <hr />
 
+### Unique Creatures - Standalone Version 2.5
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48637/) (Patches) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/48637/48637-1606474731-1972165671.jpeg" alt="mod-image" height="350" />
+
+> By WhiskyTangoFox for Fallout 4 (Default)
+
+Standalone version with tons of bug fixes for Thirdstorm's Unique NPCs Creatures and Monsters
+
+
+
+
+<hr />
+
 ### UniqueNPCs-CreatureMonsters_2_0_Hybrid 2.0
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/24357/) (Overhauls) 
@@ -5815,21 +7081,6 @@ Unique NPCs - Creatures and Monsters of the Commonwealth<br /><br />A new... non
 <hr />
 
 ### UniqueNPCs-CreatureMonsters_2_1_Hotfix 2.1
-
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/24357/) (Overhauls) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/24357/24357-1534782063-338414852.png" alt="mod-image" height="350" />
-
-> By Thirdstorm for Fallout 4 (Default)
-
-Unique NPCs - Creatures and Monsters of the Commonwealth<br /><br />A new... non-replacer way to introduce exceptional variety to the Creatures of the Wasteland.
-
-
-
-
-<hr />
-
-### UniqueNPCs-CreaturesMonsters_2_1_AE_VIS-G_Patch 2.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/24357/) (Overhauls) 
 
@@ -5889,15 +7140,45 @@ This mod unlocks all the hairstyles that are normally not yet available at the b
 
 <hr />
 
-### Unofficial Fallout 4 Patch 2.1.2b
+### FallUI - Item Sorter Mod - Unofficial Fallout 4 Patch With AWKCR (EN) 1.13
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/4598/) (Bug Fixes) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49656/) (Overhauls) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/49656/49656-1611586158-1520110642.jpeg" alt="mod-image" height="350" />
+
+> By m8r98a4f2 for Fallout 4 (Default)
+
+The official Item Sorter Mod for FallUI. Available for all languages.
+
+
+
+
+<hr />
+
+### Unofficial Fallout 4 Patch 2.1.3
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/4598/) (Bug Fixes) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png" alt="mod-image" height="350" />
 
 > By Unofficial Patch Project Team for Fallout 4 (Default)
 
 A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.
+
+
+
+
+<hr />
+
+### ZENIT - Update 0.999999999B
+
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/50152/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/50152/50152-1614118516-746385185.jpeg" alt="mod-image" height="350" />
+
+> By SpongeBob and friends for Fallout 4 (Default)
+
+from Russia with love
 
 
 
@@ -5928,21 +7209,6 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/48
 > By Subleader for Fallout 4 (Default)
 
 This mod adds the bullpup rifle VHS-2 to Fallout 4 with a lot of customization and fully leveled list.
-
-
-
-
-<hr />
-
-### VIS-G Item Sorting v2.7 v2.7
-
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/33383/) (Overhauls) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/33383/33383-1531962186-1069291878.png" alt="mod-image" height="350" />
-
-> By Gambit77 - Gernash - Valdacil - Neanka - Thirdstorm - Omega9380 - Spherikal - Khaibit for Fallout 4 (Default)
-
-This is the new expanded version of VIS.
 
 
 
@@ -6069,30 +7335,30 @@ Finally, some walls for your settlements capable of defending your poor settlers
 
 <hr />
 
-### Weapon Level List Patches FOMOD 1.80
+### Water Tower - ESL 1.1
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/49078) (Weapons) 
+Installed 7/26/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/35283/) (Player Settlement) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/49078/49078-1609049369-1349452971.jpeg" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/35283/35283-1618607408-1957871011.jpeg" alt="mod-image" height="350" />
 
-> By Aaron7491 for Fallout 4 (Default)
+> By El Ha for Fallout 4 (Default)
 
-Created some level list injection scripts for some weapons. If you have a suggestion, please message me and I'll see what I can do.<br /><br />Got tired of typing everything I did to the level list. Just know that everything can be purchased at Vendors and multiple enemies will wield these weapons.
+You can construct two kind of water towers. No electricity required.
 
 
 
 
 <hr />
 
-### WeaponJiggleRemover 1.01
+### We Are The Minutemen 7.6
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/29331) (Weapons) 
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/6443/) (Factions) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/29331/29331-1516668797-1486810326.jpeg" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/6443-0-1455082038.jpg" alt="mod-image" height="350" />
 
-> By aerisarn for Fallout 4 (Default)
+> By TheFirstEnD for Fallout 4 (Default)
 
-A simple mod that removes the incredibly ugly, uncontrollable additive fire jiggle animation.
+The Minutemen are supposed to be the best alternative for rebuilding the Commonwealth because : More settlements = More resources = Better materials = Better fire power and a larger presence in all the Commonwealth. But currently this is not the case and this mod attempts to fix this problem.
 
 
 
@@ -6159,9 +7425,9 @@ Night Vision / Thermal / Targeting HUD goggles and eyepieces with new meshes and
 
 <hr />
 
-### Wetness Shader Fix 3.3
+### Wetness Shader Fix 3.41
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/23389) (Bug Fixes) 
+Installed 4/30/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/23389/) (Bug Fixes) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/23389-0-1492422847.jpg" alt="mod-image" height="350" />
 
@@ -6234,9 +7500,24 @@ Workshop craftable aerial Sentry for protecting Settlements
 
 <hr />
 
-### Workshop Framework 2.0.11
+### White test room 1806
 
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/35004/) (Player Settlement) 
+Installed 4/20/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/15265/) (Environment) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/15265-0-1466198041.jpg" alt="mod-image" height="350" />
+
+> By OniNigma for Fallout 4 (Default)
+
+Simple mod, adds white room for testing mods and screenshot.
+
+
+
+
+<hr />
+
+### Workshop Framework 2.0.15a
+
+Installed 7/11/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/35004) (Player Settlement) 
 
 <img src="https://staticdelivery.nexusmods.com/mods/1151/images/35004/35004-1538179488-326730582.png" alt="mod-image" height="350" />
 
@@ -6258,6 +7539,36 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/16
 > By d81 for Fallout 4 (Default)
 
 New items and functionality for the Fallout 4 Workshop.
+
+
+
+
+<hr />
+
+### XM2010 Enhanced Sniper Rifle - 1.See Through Scopes mode.FOV90.patch.data 4.0
+
+Installed 4/18/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/36750/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/36750/36750-1546576114-77271646.jpeg" alt="mod-image" height="350" />
+
+> By tooun for Fallout 4 (Default)
+
+Including pendant, detector CPU, switch side aiming, thermal imaging, night vision and Too many features.<br />I've been updating this gun for a year, and now it's over, the last version
+
+
+
+
+<hr />
+
+### XM2010 Enhanced Sniper Rifle - XM2010.v4.1.MAIN.data 4.1
+
+Installed 4/16/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/36750/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/36750/36750-1546576114-77271646.jpeg" alt="mod-image" height="350" />
+
+> By tooun for Fallout 4 (Default)
+
+Including pendant, detector CPU, switch side aiming, thermal imaging, night vision and Too many features.<br />I've been updating this gun for a year, and now it's over, the last version
 
 
 
@@ -6294,15 +7605,74 @@ Combat skill for Yaoguai grab and bite you down.
 
 <hr />
 
-### Wasteland Ballistics 2
+### Zenit - Tactical Reload Patch 1.1
 
-Installed 4/14/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42757) (Weapons) 
+Installed 7/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/52619/) (Weapons) 
 
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/42757/42757-1577615069-145054051.gif" alt="mod-image" height="350" />
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/52619/52619-1623647124-1077932494.jpeg" alt="mod-image" height="350" />
+
+> By sincerity for Fallout 4 (Default)
+
+Tactical Reload Patch Repository, for your Tactical Reload needs.
+
+
+
+
+<hr />
+
+### _Sound Zero_ 2
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/45659) (Audio - SFX) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/45659/45659-1592030251-210757681.png" alt="mod-image" height="350" />
+
+> By Hedied for Fallout 4 (Default)
+
+Adds actual gun shot reverbs which makes a big difference when shooting in interior.
+
+
+
+
+<hr />
+
+### _Wasteland Ballistics_ 3
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/42757/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/42757/42757-1618674059-1119302917.png" alt="mod-image" height="350" />
 
 > By Hedieded for Fallout 4 (Default)
 
 Small mod, big impact.<br />Adds a wound mechanic to bullets based on the caliber, shape, mass and speed of their real life counterparts.
+
+
+
+
+<hr />
+
+### _Wasteland Medic 1
+
+Installed 4/17/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51497/) (Items (Food, Drinks, Chems, etc)) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51497/51497-1618675248-1618364448.png" alt="mod-image" height="350" />
+
+> By Hedieded for Fallout 4 (Default)
+
+Wasteland Medic makes stimpacks pretty rare and add new healing items to the game.
+
+
+
+
+<hr />
+
+### ammoUI by Tooun.v1.25.Main.Data 
+
+Installed 4/19/2021 from unknown source (Unknown) 
+
+
+> By Unknown Author for Fallout 4 (Default)
+
+
 
 
 
@@ -6324,6 +7694,21 @@ Brotherhood of Steel fencing set. Rebuilt to be modular using 3D software. Navme
 
 <hr />
 
+### IceStorm&#39;s MK.23 1.0.2
+
+Installed 4/30/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/44762/) (Weapons) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/44762/44762-1588151986-1760223843.jpeg" alt="mod-image" height="350" />
+
+> By IceStormNG for Fallout 4 (Default)
+
+Powerful, tactical .45 Auto handgun.
+
+
+
+
+<hr />
+
 ### deLuxe Makeup - Lip Liner Mask 0.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/4398/) (Visuals and Graphics) 
@@ -6333,6 +7718,36 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/43
 > By Cilbas for Fallout 4 (Default)
 
 Alternative makeup masks&#33;
+
+
+
+
+<hr />
+
+### occasional silence - intermittent music - ambient soundtrack pauses - breaks between tracks - goty 1
+
+Installed 4/23/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/51624/) (Audio - Music) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/51624/51624-1619152630-2141087326.png" alt="mod-image" height="350" />
+
+> By 1 for Fallout 4 (Default)
+
+Ambient exploration music in dungeons and exteriors no longer plays constantly; periods of silence between tracks
+
+
+
+
+<hr />
+
+### limb-explosion-v1.2 v1.2
+
+Installed 4/19/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/44316/) (Audio - SFX) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/44316/44316-1586323717-748854607.jpeg" alt="mod-image" height="350" />
+
+> By satire_ for Fallout 4 (Default)
+
+A simple SFX replacer to make you feel Elite. Global, even!
 
 
 
@@ -6384,6 +7799,20 @@ Removes pipe rifle and pistols from chest and safe loot.
 
 <hr />
 
+### seinfeldian 
+
+Installed 5/22/2021 from unknown source (Unknown) 
+
+
+> By Unknown Author for Fallout 4 (Default)
+
+
+
+
+
+
+<hr />
+
 ### DEF_SSW Survival Stats widget redone - ssw 1.10.163.1 1.10.163.1
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/38067/) (User Interface) 
@@ -6393,21 +7822,6 @@ Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/38
 > By Neanka for Fallout 4 (Default)
 
 rework of my old survival stats widget mod using f4se, which avoids any compability issues with any mods which modifiy HC_ManagerScript or HC_Manager quest
-
-
-
-
-<hr />
-
-### Remove Idiot Savant Voice v1.0
-
-Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/4905) (Audio - Misc) 
-
-<img src="https://staticdelivery.nexusmods.com/mods/1151/images/4905-0-1449466399.png" alt="mod-image" height="350" />
-
-> By Wanwa for Fallout 4 (Default)
-
-Remove laughter from perk of Idiot Savant
 
 
 
@@ -6444,6 +7858,21 @@ Custom animations, sounds and updated esp.
 
 <hr />
 
+### More experience points options - x1.5 XP 1.0
+
+Installed 4/22/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/10398/) (Skills and Leveling) 
+
+<img src="https://staticdelivery.nexusmods.com/mods/1151/images/10398-0-1467564936.jpg" alt="mod-image" height="350" />
+
+> By Onkeltoctoc for Fallout 4 (Default)
+
+You want more experience points?<br /> More XP options for Questing,Killing,Smithing,Cooking,Crafting ,Build ,Explore etc!!
+
+
+
+
+<hr />
+
 ### xSE PluginPreloader F4 0.2.4 0.2.4
 
 Installed 4/12/2021 from [Nexus Mods](https://www.nexusmods.com/fallout4/mods/33946) (Utilities) 
@@ -6458,3 +7887,4 @@ This mod allows preload F4SE plugins before the game initializes.
 
 
 <hr />
+
