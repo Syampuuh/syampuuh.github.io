@@ -6,12 +6,13 @@
 This is the full featured modpack as I designed and intended for it to be, complete with preset keybinds and a shortcut to the server immediately available.
 
 **[TechnicPack](https://youtu.be/UCFZW1SAaIY?t=16)**
+
 **[Direct download](https://www.dropbox.com/s/a0cchsoaa8nbhm7/shamcitizen%20-%20full.zip?dl=1)**
 
 ### Light version
 If you're having trouble comfortably running the pack, try this instead. This strips out all of the extra client-side flavor mods, such as HUDs, voice chat, and inventory management mods, and leaves the bare minimum to connect to the server. If that seems to treat you well, you can try adding stuff back from the full pack to find what you like.
 
-*~coming soon probably~*
+*\~coming soon probably\~*
 
 ### Server version
 In ten thousand years I will be dead, and this Minecraft server won't be available anymore. Maybe. If that ever happens, here is the pack as it runs on the server. This is slightly different from the light version as it includes solely server-side tools like the chunk pre-generator and some mods absent in the light version are on the server to provide them with extra features that necessitate server-client communication, such as voice chat.
