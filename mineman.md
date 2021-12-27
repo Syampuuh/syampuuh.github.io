@@ -5,17 +5,18 @@
 ### Full version
 This is the full featured modpack as I designed and intended for it to be, complete with preset keybinds and a shortcut to the server immediately available.
 
-**[Download](https://youtu.be/UCFZW1SAaIY?t=16)**
+**[TechnicPack](https://youtu.be/UCFZW1SAaIY?t=16)**
+**[Direct download](https://www.dropbox.com/s/a0cchsoaa8nbhm7/shamcitizen%20-%20full.zip?dl=1)**
 
 ### Light version
 If you're having trouble comfortably running the pack, try this instead. This strips out all of the extra client-side flavor mods, such as HUDs, voice chat, and inventory management mods, and leaves the bare minimum to connect to the server. If that seems to treat you well, you can try adding stuff back from the full pack to find what you like.
 
-**[Download](https://youtu.be/UCFZW1SAaIY?t=16)**
+*~coming soon probably~*
 
 ### Server version
 In ten thousand years I will be dead, and this Minecraft server won't be available anymore. Maybe. If that ever happens, here is the pack as it runs on the server. This is slightly different from the light version as it includes solely server-side tools like the chunk pre-generator and some mods absent in the light version are on the server to provide them with extra features that necessitate server-client communication, such as voice chat.
 
-**[Download](https://youtu.be/UCFZW1SAaIY?t=16)**
+**[Direct download](https://www.dropbox.com/s/iy7zazzwis2a2mw/shamcitizen%20-%20SERVER.zip?dl=1)**
 
 # About the server
 The server is intended to be chiefly cooperative with a focus on exploration and expansion of industry and PVE capabilities. For now, PVP damage is enabled because friendly fire is funny and some faction warfare could be neat. Please, however, don't try to be a dick and Make A Thing out of it. I'm a lot more likely to just ban you upon being told you're a troublemaker than do anything preventative, because compromising the experience because of a bad egg is lame. So don't be lame.
@@ -33,7 +34,7 @@ The server is intended to be chiefly cooperative with a focus on exploration and
 | B | Open backpack if one is available |
 | V | Open voice chat configuration menu |
 | Caps Lock | Push to talk
-| Shift + V | Ping menu
+| N | Ping menu
 | Middle Click | Auto-sort an open inventory under the cursor
 | T | Toggle visibility of trash slot in an inventory (it may not work cleanly with every interface)
 | Delete | Send item under the cursor into the trashs slot
@@ -94,14 +95,16 @@ Small warning: Inventory HUD does not like the way I have configured our additio
 
 [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/dynmapforge)
 
+[GitHub Wiki](https://github.com/webbukkit/dynmap/wiki/)
+
 While the in-game world map will only show the world as you've explored it, DynMap provides a full web-hosted map of EVERYTHING in the server that has been explored! You can even add markers to it and mark specific areas as your own: Check out the linked wiki for more details!  
-The map can be found at:
+The map can be found at: http://104.152.140.96:8123/
 
 # World & Progression
 
 ### Immersive Engineering
 
-![BluSunrize on Twitter: &quot;The new release of Immersive Engineering for 1.14.4  is out! https://t.co/aY0udwUIAV Featuring all those cool things in the  picture, villagers, lots of bugfixes, and mooooore https://t.co/dVadQrRGBp&quot;  / Twitter](https://pbs.twimg.com/media/EV-loeiWAAUWP3N.jpg)
+![](https://pbs.twimg.com/media/EV-loeiWAAUWP3N.jpg)
 
 [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 
@@ -136,7 +139,7 @@ Rarely throughout the world, you might find some spooky towers: These are entran
 
 [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/loot-bag-mod)
 
-All that monster killing's gotta be for something! Even the most innocuous mob has a change to drop a Loot Bag, which will grant you a small assortment of *any* 10 items in the game. Yes, ***anything*** (except for control blocks and the like). It's a 1 in 200 chance from hostile mobs, but when you get one it can end up being one hell of a boon.
+All that monster killing's gotta be for something! Even the most innocuous mob has a change to drop a Loot Bag, which will grant you a small assortment of *any* 10 items in the game. Yes, ***anything*** (except for control blocks and the like). It's a 1 in 100 chance from rarer hostile mobs, but when you get one it can end up being one hell of a boon.
 
 ### Majrusz's Progressive Difficulty
 
@@ -191,17 +194,27 @@ Epic Knights adds a wide variety of new weapon types and accompanying armors the
 
 Comboing nicely with Epic Knights, Parry This adds... parrying. Swing any weapon at the same time an enemy attacks, player or not, to deflect their attack and negate the damage! With the "Deflection" enchantment, you can even parry projectiles. It also adds a dedicated dual wielding system: equipping a one-handed weapon in each hand grants an overall attack speed bonus as you attack with each weapon alternatingly, avoiding the usual caveats of dual wielding with Minecraft's regular off-handing system and damage cooldowns. The mod also adds a damage bonus for back-attacks, providing an actual reason to use stealth when possible for a massive 3x damage multiplier. Additionally, all shields gain access to a new shield bashing ability, which can stun a group of targets momentarily and can make for a great combo with a slower weapon to maintain your damage output. Finally, there is a universal dodging system that allows you perform a short hop at any time on the ground in any direction (default binding is **ALT**).
 
-### Curios, Nameless Trinkets, Majrusz's Accessories
+### Curios, Artifacts, Nameless Trinkets, Majrusz's Accessories
+
+![](https://i.imgur.com/OT2aoh8.png)
 
 [Curios CurseForge page](https://www.curseforge.com/minecraft/mc-mods/curios)
+
+[Artifacts CurseForge page](https://www.curseforge.com/minecraft/mc-mods/artifacts)
 
 [Nameless Trinkets CurseForge page](https://www.curseforge.com/minecraft/mc-mods/nameless-trinkets)
 
 [Majrusz's Accessories CurseForge page](https://www.curseforge.com/minecraft/mc-mods/majruszs-accessories)
 
-![](https://i.imgur.com/OT2aoh8.png)
-
 Successors to the old Baubles mods, these mods each add a collection of special pieces of equipment that you can use to gain various minor (and not so minor) buffs, through either recycling the items or looting them throughout the world. These can allow for more specialized combat builds or more capable exploration, so keeping a good collection handy can provide a lot of flexibility when exploring.
+
+### Chalk
+
+![](https://i.imgur.com/p5UUeNF.png)
+
+[CurseForge page](https://www.curseforge.com/minecraft/mc-mods/chalk)
+
+A handy little tool to allow you to mark up caves with arrows pointing in any direction, with colored and glowing variants available. Never get lost in these gigantic caves again!
 
 ### Player Revive
 
