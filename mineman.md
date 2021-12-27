@@ -5,8 +5,6 @@
 ### Full version
 This is the full featured modpack as I designed and intended for it to be, complete with preset keybinds and a shortcut to the server immediately available.
 
-**[TechnicPack](https://youtu.be/UCFZW1SAaIY?t=16)**
-
 **[Direct download](https://www.dropbox.com/s/a0cchsoaa8nbhm7/shamcitizen%20-%20full.zip?dl=1)**
 
 ### Light version
