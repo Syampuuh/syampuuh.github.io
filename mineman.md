@@ -1,7 +1,17 @@
+
 # Helpful tip: GitHub has an automatic Table of Contents in the hamburger menu, top left
 ![click this](https://i.imgur.com/3piNG6e.png)
 
-# Obtaining the modpack
+# Installation
+
+The Technic Launcher that I usually used to use for my modpacks apparently doesn't support Forge past 1.16 for some reason, so unfortunately our only options right now are direct downloads and installation. [You will need at least Forge 39.0.9 or greater to connect to the server and use most mods.](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
+
+## MultiMC
+
+Personally, for simplicity and customization, I recommend using [MultiMC](https://multimc.org/) over the vanilla launcher. MultiMC allows you to have multiple instances, ie. multiple installations, of Minecraft over different versions and mod setups, which is great for playing modpacks. To use it with my modpack, [download 1.18.1, install Forge on top of it,](https://github.com/MultiMC/Launcher/wiki/Getting-Started) and then extract the contents of the modpack archive from below into the `.minecraft` folder. As in the troubleshooting section, I recommend [increasing the allocated RAM for Minecraft to at least 8 gb.](https://github.com/MultiMC/Launcher/wiki/Increasing-Java's-memory-allocation)
+
+## Download links
+
 ### Full version
 This is the full featured modpack as I designed and intended for it to be, complete with preset keybinds and a shortcut to the server immediately available.
 
@@ -17,35 +27,28 @@ In ten thousand years I will be dead, and this Minecraft server won't be availab
 
 **[Direct download](https://www.dropbox.com/s/iy7zazzwis2a2mw/shamcitizen%20-%20SERVER.zip?dl=1)**
 
+## Troubleshooting
+### Minecraft takes forever to boot/load the server
+Raise the amount of RAM being given to Minecraft,  I would recommend at *least* 8 gb. Pretty much anything above the default 2 should help. [Here is a guide for some common launchers](https://shockbyte.com/billing/knowledgebase/278/How-to-Allocate-More-Memory-to-your-Minecraft-Client.html), and [here is a guide for MultiMC.](https://github.com/MultiMC/Launcher/wiki/Increasing-Java's-memory-allocation)
+
+### How the hell do I update to Java 17
+I have no idea why this is so annoying to do. [Here is some random fucking Amazon installer that includes Java 17;](https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi) you can verify it's installed after restarting your computer by opening a command prompt and entering in `java -version`; the output should read something like
+
+    openjdk version "17" 2021-09-14 LTS
+    OpenJDK Runtime Environment Corretto-17.0.0.35.1 (build 17+35-LTS)
+    OpenJDK 64-Bit Server VM Corretto-17.0.0.35.1 (build 17+35-LTS, mixed mode, sharing)
+
+If you've already got Java 17 and Minecraft is still saying otherwise, make sure that your launcher is pointed at the correct installation of Java. [Here's a guide to do that with MultiMC.](https://github.com/MultiMC/Launcher/wiki/Using-the-right-Java)
+
+### Veinminer doesn't work
+The initial release of the modpack had a binding conflict. This has since been fixed, but won't apply to an existing profile after you've already had the default options set. To resolve it manually, unbind the "Cheat 1 Stack" binding from JEI, or bind it to something other than your sneak key if you want to use it in single-player or something.
+
 # About the server
 The server is intended to be chiefly cooperative with a focus on exploration and expansion of industry and PVE capabilities. For now, PVP damage is enabled because friendly fire is funny and some faction warfare could be neat. Please, however, don't try to be a dick and Make A Thing out of it. I'm a lot more likely to just ban you upon being told you're a troublemaker than do anything preventative, because compromising the experience because of a bad egg is lame. So don't be lame.
 
-# Keybinds you should know
+# Introduction to some of our mods
 
-*Obviously, these can all be rebound however you want in the options menus! Further, there's a lot of binds that are not set by default, being mostly shortcuts and other miscellaneous functions; if you think you've got the buttons to spare, go for it*
-|Input|Action|
-|--|--|
-| Alt | Dodge (when pressed with a movement button |
-| Right Click + Left Click | Shield bash while blocking with a shield or blade slap with a two handed weapon
-| R | Hold to quickly eat the first food item in your hot bar
-| X | Go prone to crawl through one block spaces
-| Alt + Right Click | Pick up an animal or tile entity block in your hands to move it
-| B | Open backpack if one is available |
-| V | Open voice chat configuration menu |
-| Caps Lock | Push to talk
-| N | Ping menu
-| Middle Click | Auto-sort an open inventory under the cursor
-| T | Toggle visibility of trash slot in an inventory (it may not work cleanly with every interface)
-| Delete | Send item under the cursor into the trashs slot
-| Y | Create waypoint
-| U | View waypoints
-| M | View world map
-| Z | Hold to enlarge minimap
-| Shift (Sneak) | Hold while breaking a block to engage vein mining: mine up to 6 connected blocks of the same type at once (increased by enchantments)
-| R | View crafting recipes of the item under the cursor if possible
-| U | View crafting uses of the item under the cursor if possible
-
-# Interface
+## Interface
 
 ### Simple Voice Chat
 
@@ -99,7 +102,7 @@ Small warning: Inventory HUD does not like the way I have configured our additio
 While the in-game world map will only show the world as you've explored it, DynMap provides a full web-hosted map of EVERYTHING in the server that has been explored! You can even add markers to it and mark specific areas as your own: Check out the linked wiki for more details!  
 The map can be found at: http://104.152.140.96:8123/
 
-# World & Progression
+## World & Progression
 
 ### Immersive Engineering
 
@@ -151,7 +154,7 @@ All that monster killing's gotta be for something! Even the most innocuous mob h
 Someone's gonna notice all that monster killing. Shamelessly dervitive of Terraria, Progressive Difficulty adds new mechanics like increased enemy groups and new raids as you make progression through the game. Entering the Nether will raise the world's difficulty to "Expert", while slaying the Ender Dragon will raise the world's difficulty to "Master". Of course, increased difficulty means increased rewards, with each bump in difficulty providing global boosts to loot and experience drops. Helpfully, these also power up the charms featured in Majrusz's Accessories!  
 I recommend checking the linked GitHub wiki page for the full lists of changes to each difficulty mode, as it introduces a few other new "base" mechanics such as bleeding and changes to some enemy spawning behavior right out of the gate.
 
-# Enchanting
+## Enchanting
 
 ### Matrix Enchanting (Quark)
 
@@ -177,7 +180,7 @@ Going even further beyond matrix enchanting, the Infuser enchantment tables allo
 
 Still need *more* enchanting control? Tool Leveling adds an additional work table that can be used to level enchantments up even further than their vanilla limitations at the cost of rare and valuable items. The value of any given item can be seen its tooltip, and is dependent on its overall rarity and usefulness.
 
-# Combat & Equipment
+## Combat & Equipment
 
 ### Epic Knights: Shields, Armor and Weapons
 
@@ -230,3 +233,33 @@ So you've got all these fancy new mechanics and equipment, but then you stumble 
 [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/corpse)
 
 Okay, the friend also died. When your revive timer runs out (or you choose to give up), instead of farting out a loose pile of items to get dropped and lost, you will leave behind your corpse carrying all of your items which can be easily reacquired; they'll even zip back into the same slots you had them in at the time death if possible. **The corpse has no time limit and cannot be looted by anyone but yourself.** Small mercy, you just gotta be able to reach it!
+
+## Keybinds you should know
+
+*Obviously, these can all be rebound however you want in the options menus! Further, there's a lot of binds that are not set by default, being mostly shortcuts and other miscellaneous functions; if you think you've got the buttons to spare, go for it*
+|Input|Action|
+|--|--|
+| Alt | Dodge (when pressed with a movement button |
+| Right Click + Left Click | Shield bash while blocking with a shield or blade slap with a two handed weapon
+| R | Hold to quickly eat the first food item in your hot bar
+| X | Go prone to crawl through one block spaces
+| Alt + Right Click | Pick up an animal or tile entity block in your hands to move it
+| B | Open backpack if one is available |
+| V | Open voice chat configuration menu |
+| Caps Lock | Push to talk
+| N | Ping menu
+| Middle Click | Auto-sort an open inventory under the cursor
+| T | Toggle visibility of trash slot in an inventory (it may not work cleanly with every interface)
+| Delete | Send item under the cursor into the trashs slot
+| Y | Create waypoint
+| U | View waypoints
+| M | View world map
+| Z | Hold to enlarge minimap
+| Shift (Sneak) | Hold while breaking a block to engage vein mining: mine up to 6 connected blocks of the same type at once (increased by enchantments)
+| R | View crafting recipes of the item under the cursor if possible
+| U | View crafting uses of the item under the cursor if possible
+
+# Changelog
+## 1.0.1
+*Dec 27th 2021*
+- Fixed binding conflict between JEI and Veinminer; this won't be applied retroactively and only fixes it for new default options going forward
