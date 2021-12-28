@@ -7,6 +7,10 @@
 
 The Technic Launcher that I usually used to use for my modpacks apparently doesn't support Forge past 1.16 for some reason, so unfortunately our only options right now are direct downloads and installation. [You will need at least Forge 39.0.9 or greater to connect to the server and use most mods.](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
 
+## Updating
+
+If you're updating an existing installation, make sure to only extract the "mods" folder and not the "configs" folders, as you can end up overwriting any existing changes you may have made to mods like the HUD and so on.
+
 ## MultiMC
 
 Personally, for simplicity and customization, I recommend using [MultiMC](https://multimc.org/) over the vanilla launcher. MultiMC allows you to have multiple instances, ie. multiple installations, of Minecraft over different versions and mod setups, which is great for playing modpacks. To use it with my modpack, [download 1.18.1, install Forge on top of it,](https://github.com/MultiMC/Launcher/wiki/Getting-Started) and then extract the contents of the modpack archive from below into the `.minecraft` folder. As in the troubleshooting section, I recommend [increasing the allocated RAM for Minecraft to at least 8 gb.](https://github.com/MultiMC/Launcher/wiki/Increasing-Java's-memory-allocation)
@@ -264,6 +268,8 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
 | U | View crafting uses of the item under the cursor if possible
 
 # Changelog
+
+*Reminder: If you're updating an existing installation, make sure to only extract the "mods" folder and not the "configs" folders, as you can end up overwriting any existing changes you may have made to mods like the HUD and so on.*
 
 ## 1.1.0
 
