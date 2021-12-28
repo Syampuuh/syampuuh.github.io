@@ -1,4 +1,5 @@
 
+
 # Helpful tip: GitHub has an automatic Table of Contents in the hamburger menu, top left
 ![click this](https://i.imgur.com/3piNG6e.png)
 
@@ -263,6 +264,23 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
 | U | View crafting uses of the item under the cursor if possible
 
 # Changelog
-## 1.0.1
+
+## 1.1.0
+
+*Dec 28th 2021*
+
+ - Updated [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts/files/3583056), [Physics](https://www.curseforge.com/minecraft/mc-mods/physics-mod/files/3583001), [Better PVP](https://chocolateminecraft.com/update.php?mod_id=1) and [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3582993), [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/3582626), [Optifine](https://optifine.net/changelog?f=preview_OptiFine_1.18.1_HD_U_H5_pre4.jar), and [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/3582396)
+	- The update to Artifacts **fixes the hilarious Everlasting Beef drop rate**; feel free to hold onto the existing ones, removing them would be more trouble than it'd be worth and the idea of an *actual* beefconomy trade is really funny to me
+	- The Optifine update should hopefully **fix the occasional weird reverse-culling issues** we've seen with some tile entities
+ - Reconfigured Enchantment Infuser: **Enchantment costs are now ~1.5× more expensive.**
+ - Added [Flan](https://www.curseforge.com/minecraft/mc-mods/flan-forge), [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads), and [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
+	 - **Flan finally introduces chunk claiming.** The short version: Use a golden hoe to mark a zone to claim, up to 4 chunks worth of blocks can be claimed. You can configure permissions and groups with your friends using `/flan menu` when inside your zone. The long version: [Read their documentation.](https://github.com/Flemmli97/Flan/wiki/)
+ - This is not a modpack update, but **the server has been upgraded**, with 2 more cores and 8 more GB of RAM; we're now running on an 8 core system with 32 GB of RAM, which should hopefully minimize the hiccups in TPS we see at higher player counts.
+	 - While I was at it, I also slightly reconfigured DynMap to hopefully be a little more responsive, but it still doesn't seem great. I'm probably going to have to look for help on this.
+
+
+### 1.0.1
+
 *Dec 27th 2021*
-- Fixed binding conflict between JEI and Veinminer; this won't be applied retroactively and only fixes it for new default options going forward
+
+ - Fixed binding conflict between JEI and Veinminer; this won't be applied retroactively and only fixes it for new default options going forward
