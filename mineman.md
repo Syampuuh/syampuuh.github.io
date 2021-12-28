@@ -145,7 +145,7 @@ All that monster killing's gotta be for something! Even the most innocuous mob h
 
 ### Majrusz's Progressive Difficulty
 
-![](https://i.imgur.com/JhFWFur.gif)
+![](https://puu.sh/IyUSC/4823eb1906.png)
 
 [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty)
 
