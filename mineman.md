@@ -45,7 +45,7 @@ The initial release of the modpack had a binding conflict. This has since been f
 
 # About the server
 
-![](http://status.mclive.eu/shamcitizen.com/mc.shamcitizen.com/25565/banner.png) 
+![](http://status.mclive.eu/mc.shamcitizen.com/mc.shamcitizen.com/25565/banner.png) 
 
 The server is intended to be chiefly cooperative with a focus on exploration and expansion of industry and PVE capabilities. For now, PVP damage is enabled because friendly fire is funny and some faction warfare could be neat. Please, however, don't try to be a dick and Make A Thing out of it. I'm a lot more likely to just ban you upon being told you're a troublemaker than do anything preventative, because compromising the experience because of a bad egg is lame. So don't be lame.
 
