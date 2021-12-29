@@ -1,5 +1,4 @@
 
-
 # Helpful tip: GitHub has an automatic Table of Contents in the hamburger menu, top left
 ![click this](https://i.imgur.com/3piNG6e.png)
 
@@ -271,14 +270,31 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
 
 *Reminder: If you're updating an existing installation, make sure to only extract the "mods" folder and not the "configs" folders, as you can end up overwriting any existing changes you may have made to mods like the HUD and so on.*
 
-## 1.1.0
+## 1.2.0
+
+*Dec 29th 2021*
+
+ - Updated [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge/files/3584467), [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts/files/3584325), [AmbientSounds](https://www.curseforge.com/minecraft/mc-mods/ambientsounds/files/3584353), [Balm](https://www.curseforge.com/minecraft/mc-mods/balm), [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/files/3584842), [DungeonCrawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl/files/3583964), [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/3583838), [Iron Furances](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/files/3583823), [PuzzlesLib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/3583543), [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/3583912), [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot/files/3584917), and [V-Tweaks](https://www.curseforge.com/minecraft/mc-mods/v-tweaks/files/3582332)
+	 - The Iron Chests update **fixes Crystal Chests crashing their user**, so they're safe to use again.
+ - Reconfigured Enchantment Infuser again and Tool Leveling
+	 - **Enchantments are now 2× base costs and Tool Leveling costs are 6× base costs**; it now takes a bit more than a stack of diamonds to increase the level of Sharpness, for an example. Additionally, **all enchantments have been capped to Level 10**. Hopefully this is a little less stupid so we can keep the mod around, but otherwise it may be removed in the next iteration of the modpack, we'll see.
+ - Added [CraftingCraft](https://www.curseforge.com/minecraft/mc-mods/craftingcraft/files/3584875), [Item Borders](https://www.curseforge.com/minecraft/mc-mods/item-borders), [MK's Bowyery](https://www.curseforge.com/minecraft/mc-mods/mkbowyery), and [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/files/3544496)
+	 - CraftingCraft gives us something I've been hankering for this entire time: **A portable crafting grid.** Combine a crafting table with a stick to get it, and you can craft without having to put a block down. You don't even have to equip it, there's an optional keybind you can use as long as it's in your inventory.
+	 - MK's Bowyery (I don't think that is a word) adds **new bows** made from common Minecraft metals, with variable durability and some built in enchants. It also adds **new arrows and some cheesy arrow recipes**; I'm a little unsure about leaving in the latter part, but let's see how it shakes out. Frankly, easy to make arrows would be the least of our balancing issues right now.
+	 - LazyDFU will **slightly improve start up load time.** It knocked about 10 seconds off my own load time... out of 90, but that's still an improvement, and as I understand you should see increased gains on lower power systems.
+ - Temporarily, hopefully, removed Physics Mod
+	 - Currently, the mod **causes a client crash when breaking any Storage Drawer**; I have opened [an issue report](https://github.com/haubna/PhysicsMod/issues/237) for a way to blacklist modded blocks, but for now the mod's gotta go since it's just a neat aesthetic flavor mod and non-essential in comparison to Storage Drawers
+ - Corrected modpack format so that **it works with MultiMC's modpack importer again**; I forgot that feature exists.
+
+### 1.1.0
 
 *Dec 28th 2021*
 
- - Updated [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts/files/3583056), [Physics](https://www.curseforge.com/minecraft/mc-mods/physics-mod/files/3583001), [Better PVP](https://chocolateminecraft.com/update.php?mod_id=1) and [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3582993), [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/3582626), [Optifine](https://optifine.net/changelog?f=preview_OptiFine_1.18.1_HD_U_H5_pre4.jar), and [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/3582396)
+ - Updated [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts/files/3583056), [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod/files/3583001), [Better PVP](https://chocolateminecraft.com/update.php?mod_id=1) and [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3582993), [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/3582626), [Optifine](https://optifine.net/changelog?f=preview_OptiFine_1.18.1_HD_U_H5_pre4.jar), and [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/3582396)
 	- The update to Artifacts **fixes the hilarious Everlasting Beef drop rate**; feel free to hold onto the existing ones, removing them would be more trouble than it'd be worth and the idea of an *actual* beefconomy trade is really funny to me
 	- The Optifine update should hopefully **fix the occasional weird reverse-culling issues** we've seen with some tile entities
- - Reconfigured Enchantment Infuser: **Enchantment costs are now ~1.5× more expensive.**
+ - Reconfigured Enchantment Infuser
+	 - **Enchantment costs are now ~1.5× more expensive.**
  - Added [Flan](https://www.curseforge.com/minecraft/mc-mods/flan-forge), [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads), and [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
 	 - **Flan finally introduces chunk claiming.** The short version: Use a golden hoe to mark a zone to claim, up to 4 chunks worth of blocks can be claimed. You can configure permissions and groups with your friends using `/flan menu` when inside your zone. The long version: [Read their documentation.](https://github.com/Flemmli97/Flan/wiki/)
  - This is not a modpack update, but **the server has been upgraded**, with 2 more cores and 8 more GB of RAM; we're now running on an 8 core system with 32 GB of RAM, which should hopefully minimize the hiccups in TPS we see at higher player counts.
