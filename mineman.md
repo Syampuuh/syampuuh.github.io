@@ -282,8 +282,10 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
 	 - CraftingCraft gives us something I've been hankering for this entire time: **A portable crafting grid.** Combine a crafting table with a stick to get it, and you can craft without having to put a block down. You don't even have to equip it, there's an optional keybind you can use as long as it's in your inventory.
 	 - MK's Bowyery (I don't think that is a word) adds **new bows** made from common Minecraft metals, with variable durability and some built in enchants. It also adds **new arrows and some cheesy arrow recipes**; I'm a little unsure about leaving in the latter part, but let's see how it shakes out. Frankly, easy to make arrows would be the least of our balancing issues right now.
 	 - LazyDFU will **slightly improve start up load time.** It knocked about 10 seconds off my own load time... out of 90, but that's still an improvement, and as I understand you should see increased gains on lower power systems.
- - Temporarily, hopefully, removed Physics Mod
+ - Temporarily, hopefully, removed Physics Mod, and removed, permanently, Moving Elevators and Waystones
 	 - Currently, the mod **causes a client crash when breaking any Storage Drawer**; I have opened [an issue report](https://github.com/haubna/PhysicsMod/issues/237) for a way to blacklist modded blocks, but for now the mod's gotta go since it's just a neat aesthetic flavor mod and non-essential in comparison to Storage Drawers
+	 - Moving Elevators causes horrible graphical issues with Optifine, and since no one was using it anyway, off it goes
+	 - Waystones was left in sort of by accident ages ago; I originally wanted folks to have to use the Nether and minecarts as a primary means of long range travel to try and encourage industrialization. We *would* have a mod that [adds faster minecart tracks on copper](https://www.curseforge.com/minecraft/mc-mods/faster-minecarts-when-rails-are-placed-on-copper), but that is apparently broken right now.
  - Corrected modpack format so that **it works with MultiMC's modpack importer again**; I forgot that feature exists.
 
 ### 1.1.0
