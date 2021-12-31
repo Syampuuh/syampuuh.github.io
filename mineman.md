@@ -1,4 +1,3 @@
-
 # Helpful tip: GitHub has an automatic Table of Contents in the hamburger menu, top left
 ![click this](https://i.imgur.com/3piNG6e.png)
 
@@ -270,6 +269,23 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
 
 *Reminder: If you're updating an existing installation, make sure to only extract the "mods" folder and not the "configs" folders, as you can end up overwriting any existing changes you may have made to mods like the HUD and so on.*
 
+## 1.3.0
+*Dec 30th 2021*
+
+ - Updated [Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare/files/3586250), [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg/files/3586154), [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/files/3585973), and [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/files/3586301)
+ - Added [Blaze Gear](https://www.curseforge.com/minecraft/mc-mods/blaze-gear/screenshots),  [Faster Minecarts When Rails are Placed on Copper Blocks](https://www.curseforge.com/minecraft/mc-mods/faster-minecarts-when-rails-are-placed-on-copper), and [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality-forge)
+	 - Blaze Gear is an old favorite of mine that adds exactly what it says it does: **New materials and tools can be made using materials from Blazes,** offering some more neat built-in enchantments on equipment. This will matter more when our enchantment progression isn't a complete joke, I promise.
+	 - Faster Minecarts When Rails are Placed on Copper Blocks, in addition to taking the award for longest named mod in the pack, also adds exactly what it says it does: **Place minecart rails on top of copper blocks for a big speed boost.** Copper finally has a real use past making a shitload of wire!
+ - Removed Entity Culling
+	 - Turns out an incompatibility between this mod and Optifine was what was responsible for the weird flickering through walls we've seen occasionally. From my own observation this mod wasn't doing much, but let me know if you think the loss of it has significantly impacted performance on your system. Of course, [feel free to grab it again yourself.](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+ - Various Progressive Difficulty balance changes on the server configuration files:
+	 - **Loot bags now drop from fewer (and less farmable) mobs**: Only Creepers, Elder Guardians, Endermen, and 
+	 - **Loot bags should now actually exclude creative items.**
+	 - **Creepers now only have a 10% chance of spawning "knowing" how to detonate through walls**, similar to the vanilla mechanic of zombies having a chance of knowing how to break down doors.
+	 - **Decreased max explosion size from 125% to 110%.**
+	 - **Explosions only have a 50% chance of igniting the area** instead of being guaranteed now.
+- As a general note, the developer of the Physics Mod has confirmed fixes for the bugs from yesterday, though a build with the fixes hasn't shown up yet; it'll return Soon™
+
 ## 1.2.0
 
 *Dec 29th 2021*
@@ -288,7 +304,7 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
 	 - Waystones was left in sort of by accident ages ago; I originally wanted folks to have to use the Nether and minecarts as a primary means of long range travel to try and encourage industrialization. We *would* have a mod that [adds faster minecart tracks on copper](https://www.curseforge.com/minecraft/mc-mods/faster-minecarts-when-rails-are-placed-on-copper), but that is apparently broken right now.
  - Corrected modpack format so that **it works with MultiMC's modpack importer again**; I forgot that feature exists.
 
-### 1.1.0
+## 1.1.0
 
 *Dec 28th 2021*
 
@@ -303,7 +319,7 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
 	 - While I was at it, I also slightly reconfigured DynMap to hopefully be a little more responsive, but it still doesn't seem great. I'm probably going to have to look for help on this.
 
 
-### 1.0.1
+## 1.0.1
 
 *Dec 27th 2021*
 
