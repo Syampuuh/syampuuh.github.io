@@ -279,7 +279,7 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
  - Removed Entity Culling
 	 - Turns out an incompatibility between this mod and Optifine was what was responsible for the weird flickering through walls we've seen occasionally. From my own observation this mod wasn't doing much, but let me know if you think the loss of it has significantly impacted performance on your system. Of course, [feel free to grab it again yourself.](https://www.curseforge.com/minecraft/mc-mods/entityculling)
  - Various Progressive Difficulty balance changes on the server configuration files:
-	 - **Loot bags now drop from fewer (and less farmable) mobs**: Only Creepers, Elder Guardians, Endermen, and 
+	 - **Loot bags now drop from fewer (and less farmable) mobs**: Only Creepers, Elder Guardians, Endermen, and Evokers. I might expand this list to include a few of our modded mobs later, I just need to determine which would be appropriate.
 	 - **Loot bags should now actually exclude creative items.**
 	 - **Creepers now only have a 10% chance of spawning "knowing" how to detonate through walls**, similar to the vanilla mechanic of zombies having a chance of knowing how to break down doors.
 	 - **Decreased max explosion size from 125% to 110%.**
