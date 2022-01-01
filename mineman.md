@@ -269,6 +269,21 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
 
 *Reminder: If you're updating an existing installation, make sure to only extract the "mods" folder and not the "configs" folders, as you can end up overwriting any existing changes you may have made to mods like the HUD and so on.*
 
+## 1.4.0
+
+*Dec 31st 2021*
+
+- Updated [Dramatic Doors](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors/files/3586643), [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files/3587149), [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/3587221), and [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
+	- [Sophisticated Backpacks had a new version release today,](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/3587268) but it currently conflicts with Polymorph so I cannot add it just yet
+- Replaced [Actually Useful Stonecutter](https://www.curseforge.com/minecraft/mc-mods/actually-useful-stonecutter) with its alternate version that doesn't have a bunch of cheat recipes. Oops!
+- Added [Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers), [Find Me](https://www.curseforge.com/minecraft/mc-mods/findme) and its dependency [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-forge), [Iron Scaffolding](https://www.curseforge.com/minecraft/mc-mods/ironscaffolding), [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage), [Pierce Arrow](https://www.curseforge.com/minecraft/mc-mods/pierce-arrow)
+	- Hook Launchers add some much needed mobility to our pack (aside from the wacky bullshit some Curio combinations allow, but treasure them while they last 🙂), adding **a variety of grappling hooks for zipping and swinging around**.
+	- For safer, more grounded navigation, Iron Scaffolding is another flavor of "exactly what it says it is": **It adds a new variety of iron-flavored scaffolding that is functionally similar to the vanilla scaffolding's unique movement and placement properties,** but made of iron. **It's completely fireproof,** so it can be safely used to get around the Nether. It can even be "lavalogged", building straight through lava, and the dropped item cannot be burned so you can break it and recover it with a magnet safely.
+	- Refined Storage, finally! I caved. Given the absolutely massive piles of shit we can end up with rather quickly through our hyper-Fortune pickaxes and industrial efforts, ultimately just some drawers eventually doesn't cut it anymore. **Refined Storage provides fancy pants "digital" storage that can condense all your crap into one easy to sort through terminal.** And some other stuff.
+	- For those of us without a buncha "disks" of items, Find Me is a handy utility mod that can **locate a given item in containers around you,** for when you misplace strings for the 20th time. Just hover over any item in your inventory or JEI, and press the keybind. Note that that keybind defaults to Y, which is already default-bound to the creating a waypoint. I've rebound it to `/~ in the default options, but I don't think that will apply to existing installations, so **you may want to double check your keybinds to resolve any conflicts**.
+- Re-added [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+	- **The performance gain for some folks is significant enough to outweigh the occasional minor visual bugs.** If it bugs you enough and your system can take it, feel free to toss it! Or heck, toss Optifine if you don't need it, since it's the other half of the equation.
+
 ## 1.3.0
 *Dec 30th 2021*
 
