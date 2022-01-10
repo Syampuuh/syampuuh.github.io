@@ -354,3 +354,149 @@ Okay, the friend also died. When your revive timer runs out (or you choose to gi
 *Dec 27th 2021*
 
  - Fixed binding conflict between JEI and Veinminer; this won't be applied retroactively and only fixes it for new default options going forward
+
+# Modpack 2.0
+
+## Additions
+
+### Dungeons and other structures
+
+ - Awesome Dungeons
+ - Castle in the Sky
+ - Dungeons Arise
+ - Sky Villages
+
+Each of these mods adds more unique structures and dungeons throughout the world, full of loot to find and enemies to smack. I've tried to tune their spawn rates so that you should be able to see something different somewhat often, but not too many repeats.
+
+ - End Remastered
+
+End Remastered completely alters the path of progression to reach the End, changing it from simply farming pearls and then bee lining to the portal, and instead requiring a more interesting journey of finding different types of eyes from different drops, dungeons, and mini-bosses. Naturally, I recommend taking a look at the short guides on the mod page for more in-depth details.
+
+ - Biomes 'o Plenty
+
+Biomes 'o Plenty is an old faithful biome mod that adds a very large variety of new biomes, including some more fantastical ones. It offers a matching variety of woods and plants to accompany them that can be handy for decoration.
+
+ - Blue Skies
+
+Blue Skies introduces a new separate adventure alongside the rest of the familiar Minecraft world, with two new dimensions to explore and their own monsters and bosses to meet.
+
+### Tools and mechanics
+
+ - Chunkloaders
+
+Chunkloaders provide incremental utility blocks that will let you keep your farms and machines running when you're away from them, as long as you're still on the server.
+
+ - Create, Create Additions, Create Deco
+
+Create is a tech mod with a focus on physical mechanics, utilizing physical force through gears and shafts to provide automation and enhanced harvesting mechanics. Also take particular note of Create Additions, which adds machines capable of generating RF; you'll need these in order to charge electronics like Scanners and Refined Storage.
+
+ - Ever Potion
+
+Ever Potion is a very fancy mod that grants endless access to nearly any potion effect on a cooldown, even splash potions and tipped arrows. The keys to unlock each of the 3 usable slots are extremely rare and lost on death, but having even one can provide a massive boost in survivability with the right potion effects on hand.
+
+ - Falling Tree
+
+Plain and simple, Falling Tree is finally a real tree felling mod that will let you destroy any tree from the bottom with one broken block, even by hand!
+
+ - FTB Chunks, FTB Teams
+
+FTB Chunks and Teams combine to provide a toolset for claiming chunks and forming teams with other players to cooperate within those chunks. Claimed chunks can have protection from both other players and hostile mobs, so it's a must when you've settled down. Each player can claim up to 8 chunks.
+
+ - Responsive Shields
+
+Responsive shields provides and extra combat improvement: The hidden start up delay on a shield's protection has been reduced to just 1 tick (0.05 sec, about the length of the raise animation) instead of the long ass 5 ticks (0.25 sec, more than enough time to get shot when you thought you were safe). This makes shields significantly more useful in tight fights against groups when you can't reasonably swing at a target while trying to ward off another with projectiles.
+
+ - Skiing
+
+Skiing adds skiing. It also adds sledding and snowboarding, for funsies. With 1.18's terrain, this mod can add some quick options for getting downhill from a mountain base.
+
+ - Tetra
+
+i have not actually touched this much yet but it was recommended to me lol, i think it's like a tinkers' replacement without smelting
+
+ - Wall-jump
+
+I've been waiting for this one. Wall-jump, true to its name, adds some much needed base mobility to the game by letting you grab onto any surface and hop up past it. It can be utilized to climb up higher ledges or jump between parallel walls to climb out of a pit. Trust me, when you get used to it, you won't be able to live without it.
+ 
+### Other utilities
+
+ - Better Compatibility Checker
+
+Better Compat Checker will provide a clear indicator of when there's an update for the modpack available in the server list, so you don't have to just keep an eye out for my announcements of them on Discord or keep track of the version in the server MOTD.
+ 
+ - CraftTweaker
+
+CraftTweaker will finally let me alter recipes as needed without having to dive right into a mod's .JAR and yanking a .JSON out, necessitating server and pack updates. Coulda used this like, a month ago.
+
+ - Memory Usage Screen
+
+## Changes
+
+ - Loot Bags
+
+Loot Bags will now operate on a strict whitelist, of mostly resource items and occasional rarer tools and crafting materials, such as Ever Potion slots or rare components for Create crafting. No more bottomless drawers, for sure this time!
+
+ - Physics Mod
+
+Physics will now default to entirely disabled for blocks, but remain active for items and mobs. While there've already been plenty of complaints about performance issues when veinmining or knocking down trees, Create adds a weird new headache to the mix: Whenever a contraption becomes active, those blocks "break" and spew out a buncha particles. This looks really stupid and can hypothetically tank performance with more complex on-off automated systems, but I like the visual flavor of the item physics and mobs breaking apart enough to still keep that around. Special mention to how the item physics are even active in Create's "ponder" tutorials, seeing them flip about and off-screen is pretty good.
+
+## Removals
+
+ - Awesome Flooring
+
+Bloated up crafting recipes with a lotta decorative crap that nobody ever used.
+
+ - Air Hop
+
+Redundant, as Wall-jump adds its own double jump enchantments.
+
+ - Bowyery
+
+Redundant, as both Apotheosis and Tetra add a wider variety of bow and arrow customization.
+
+ - Dungeon Crawl
+
+Weirdly taxing on client-side performance for some reason. This has actually been an issue since all the way hell back when I first started using it on 1.12.2, but I figured that time for the developer and general improvements to my own computer and the servers I use should remedy it. Nope, still runs kinda ass. As such, it's getting tossed, but there's plenty else to fill its shoes.
+
+ - Enchanting Infuser
+
+The combination of being able to directly pick out enchantments *and* overlevel them is way too powerful, and it made it quickly unnecessary to engage with matrix enchanting at all. Tool Leveling is now in a pretty place, being very expensive and not unlimited, so logically Infusing can go.
+
+ - Flan
+
+Redundant, as FTB Chunks provides far more elegant chunk claiming and management tools.
+
+ - Immersive Engineering
+
+Replaced by Create and friends. While not 100% comparable in terms of scope/capabilities, a tech mod is a tech mod, and having both would pretty much just let you cheat or outright ignore the other.
+
+ - My Server is Compatible
+
+Redundant, as Better Compatibility Checker enhances the server compat check to actually be functional and useful rather than just removing it.
+
+ - Multi-Piston
+
+Redundant, as Create can pretty well do this in a way fancier fashion.
+
+ - Nameless Trinkets
+
+After some evaluation, I've decided that ultimately almost all of the content in Nameless Trinkets falls somewhere on a scale of "redundant" to "too powerful", or sometimes somewhere in a 4D position of both ends of the scale. As such, particularly with Artifacts now on 1.18, I've decided it's best to just get rid of it rather than try to force it to fit in.
+
+ - Pretty Pipes
+
+Obviously, redundant because of Create. While Create's item transportation is superficially similar to IE's conveyors, additional tools like mechanical arms and depots massively extend the capabilities of the systems for automated tasks beyond just "move item from A to B".
+
+ - Torch Slab Mod
+
+Has some weird breaking issues with lanterns. While not the biggest deal, it's also not outstandingly useful, and I'd rather just remove a broken mod than keep one around even if it's not broken often.
+
+## Wishlist
+
+However much I might wish it, there's still a lot of mods that aren't available on 1.18, or worse yet, are trapped on Fabric.
+
+ - I'm really hoping Grappling Hooks gets brought up to date sooner or later. Advanced Hook Launchers isn't bad, but it's a bit jank and rather basic. Grappling Hooks has some absurdly fluid movement, and now with all its new wacky Titanfall derivative enchantments it is just way too cool for me *not* to want it.
+ - Some flavor of "skills" mod would be wonderful to provide further use for XP; way the hell back in the day, [Improvable Skills](https://www.curseforge.com/minecraft/mc-mods/improvable-skills) was the shit, but I haven't seen another good take on it for Forge since then. That developer is still working pretty much entirely on 1.12 content, so someone else is going to have to take on the job hopefully.
+ - BetterEnd and BetterNether are wonderful mods that are now Fabric exclusive. While the Nether is not so much in need of help these days, the End is still pretty barren and boring, even with Quark and Alex's Mobs sprucing up the flora and fauna a bit. *Something* to improve it would be great.
+ - Relatedly, Draconic Evolution is pretty much the best mod to give the End really purpose past, well, being the End. So far it's been getting worked on for 1.16, so I am going to hope against hope that 1.18 is on the horizon some time past that.
+ - Guns are fucking cool. Modern Warfare, while really overly ambitious and pretty jank, hasn't really been touched for the amount of content and equipment depth it offered. That said, TechGuns was a much more "Minecrafty" take on a gun mod that had some actual very solid progression and a lot going on beyond just being "another gun mod". Anyway, I want something that goes "bang" and doesn't look like a high schooler's game dev class project. The TechGuns devs' Discord is pretty much abandoned though, so this is probably another one where I'm just kinda gonna be hoping that some other great king appears to fill their shoes.
+ - Grimoire of Gaia was also pretty cool. Don't look at me like that, it's not *just* because it added cute monster girls. I downloaded it for that at first, but it actually added quite a bit of variety to the world that I kinda miss. Also I like cute monster girls. Having been camping out in their Discord server for a while, it seems that the developer has been slowly chipping away at updating it, so I am crossing my fingers they can bring it back some time soon.
