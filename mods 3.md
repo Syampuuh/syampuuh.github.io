@@ -5,6 +5,10 @@
 ## Fallout 4 Mods
 
 <hr />
+
+# Helpful tip: GitHub has an automatic Table of Contents in the hamburger menu, top left
+![click this](https://i.imgur.com/3piNG6e.png)
+
 <hr />
 
 ### Fast Travel From Vault 81 - 0 - Hole in the Wall Quest Reward 1.01
