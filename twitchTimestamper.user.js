@@ -5,8 +5,8 @@
 // @description  Adds a button to Twitch streams to copy the live stream timestamp in XhXXmXXs format, mainly for use with my Bingo page thing
 // @author       Shampooh
 // @namespace    https://x.com/siampuu
-// @downloadURL  https://raw.githubusercontent.com/Syampuuh/syampuuh.github.io/refs/heads/master/twitchTimestamper.js
-// @updateURL    https://raw.githubusercontent.com/Syampuuh/syampuuh.github.io/refs/heads/master/twitchTimestamper.js
+// @downloadURL  https://raw.githubusercontent.com/Syampuuh/syampuuh.github.io/refs/heads/master/twitchTimestamper.user.js
+// @updateURL    https://raw.githubusercontent.com/Syampuuh/syampuuh.github.io/refs/heads/master/twitchTimestamper.user.js
 // @match        https://www.twitch.tv/*
 // @grant        GM_setClipboard
 // @run-at       document-idle
