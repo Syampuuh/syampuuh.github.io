@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitch Live Timestamp Grabber
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    https://github.com/Syampuuh/syampuuh.github.io
+// @version      1.01
 // @description  Adds a button to Twitch streams to copy the live stream timestamp in XhXXmXXs format, mainly for use with my Bingo page thing
 // @author       Shampooh
 // @namespace    https://x.com/siampuu
