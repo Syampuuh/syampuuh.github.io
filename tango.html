@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>TANGO Card for Team Bluebell</title>
+	<style>
+	:root {
+		--bg: #121212;
+		--fg: #e0e0e0;
+		--cell-bg: #1f1f1f;
+		--cell-border: #444;
+		--marked-bg: #388e3c;
+		--win: #d32f2f;
+		--accent: #90caf9;
+	}
+	
+	html,
+	body {
+		height: 100vh;
+		margin: 0;
+	}
+	
+	* {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+	}
+	
+	body {
+		background: var(--bg);
+		color: var(--fg);
+		font-family: sans-serif;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding: 10px;
+	}
+	
+	.grid-wrapper {
+		width: 75vh;
+		max-width: 95vw;
+	}
+	
+	.grid-header,
+	#card {
+		display: grid;
+		grid-template-columns: repeat(5, 1fr);
+		gap: 5px;
+		width: 100%;
+	}
+	
+	.grid-header {
+		margin-bottom: 5px;
+	}
+	
+	.grid-header div {
+		text-align: center;
+		font-size: 2.5rem;
+		color: var(--accent);
+		line-height: 1;
+	}
+	
+	.cell {
+		position: relative;
+		background: var(--cell-bg);
+		border: 2px solid var(--cell-border);
+		display: grid;
+		grid-template-rows: 1fr auto;
+		row-gap: 8px;
+		align-items: center;
+		padding: 12px;
+		aspect-ratio: 1/1;
+		transition: background 0.2s, color 0.2s;
+		cursor: default;
+		overflow: hidden;
+	}
+	
+	.cell.marked {
+		background: var(--marked-bg);
+		color: #fff;
+		cursor: pointer;
+	}
+	
+	.cell.win {
+		background: var(--win) !important;
+		color: #fff;
+	}
+	
+	.cell .text {
+		text-align: center;
+		font-size: 1rem;
+		line-height: 1.2;
+		overflow-wrap: anywhere;
+	}
+	
+	.timestamp-input {
+		width: 100%;
+		padding: 6px;
+		font-size: 0.9rem;
+		background: var(--bg);
+		border: 1px solid var(--cell-border);
+		border-radius: 2px;
+		color: var(--fg);
+	}
+	
+	.failsafe-checkbox {
+		position: absolute;
+		top: 2px;
+		left: 2px;
+		width: 18px;
+		height: 18px;
+		z-index: 2;
+		background: var(--bg);
+	}
+	
+	#vod-container {
+		width: 75vh;
+		max-width: 95vw;
+		margin-top: 20px;
+	}
+	
+	#vod-link {
+		width: 100%;
+		padding: 12px;
+		font-size: 1.1rem;
+		background: var(--cell-bg);
+		border: 2px solid var(--cell-border);
+		color: var(--fg);
+		border-radius: 4px;
+		outline: none;
+	}
+	
+	#vod-link::placeholder {
+		color: #888;
+	}
+	
+	#share-container {
+		margin-top: 20px;
+		width: 75vh;
+		max-width: 95vw;
+		display: flex;
+		justify-content: center;
+	}
+	
+	#share-btn {
+		background: var(--accent);
+		border: none;
+		padding: 12px 24px;
+		font-size: 1.1rem;
+		color: var(--bg);
+		cursor: pointer;
+		border-radius: 4px;
+		transition: opacity 0.2s;
+	}
+	
+	#share-btn:hover {
+		opacity: 0.8;
+	}
+	</style>
+</head>
+
+<body>
+	<div class="grid-wrapper">
+		<div class="grid-header">
+			<div>T</div>
+			<div>A</div>
+			<div>N</div>
+			<div>G</div>
+			<div>O</div>
+			<!--if we ever use this for a regular bingo event, easy to swap this out. hilarious event name btw-->
+		</div>
+		<div id="card"></div>
+	</div>
+	<div id="vod-container">
+		<input type="text" id="vod-link" placeholder="Enter Twitch VOD link (e.g. https://www.twitch.tv/videos/2437417602)" /> </div>
+	<div id="share-container">
+		<button id="share-btn">Copy Shareable Link</button>
+	</div>
+	<br/><a href="https://github.com/Syampuuh/syampuuh.github.io/raw/refs/heads/master/twitchTimestamper.user.js" style="color:var(--accent);font-style: italic;" target="_blank">TamperMonkey Script for fetching timestamps</a>
+	<script>
+	
+	const texts = [ //fill this array in with each cell left to right, top to bottom: "T","A","N","G","O"
+		"Hotdrop Superstore. Team can't leave until they have $20,000 total", "5+ melee or assassination kills in Game 1", "Visit 5+ Fire Stations in Game 1", "Hold 60 armor plates as a team in Game 1", "20+ kills as a squad in Game 1", //Row 1
+		"2+ kills while freefalling in Game 2", "1+ knock with a Sniper from Airport Tower", "Win Game 2 with ground loot only", "30+ kills as a squad in Game 2", "Knock 5+ players by shooting them out of the air in Game 2", //Row 2
+		"5+ knocks with HDR (new sniper rifle) in Game 3", "5+ knocks with vehicles in Game 3", "Victory Royale in any game", "5+ kills from the top of Stadium in Game 3", "$100,000 held by one player in Game 3", //Row 3
+		"Purchase from 4 different buystations in Game 4", "40+ kills as a squad in Game 4", "All 4 players win a Gulag in Game 4", "Complete at least 1 bounty contract in each Game", "5+ knocks from the bed/back of Big Bertha/Cargo Truck in Game 4", //Row 4
+		"50+ kills as a squad in Game 5", "10+ kills in Downtown in Game 5", "Win game with all 4 players alive at the end", "5+ throwing knife knocks in Game 5", "Road Trip: Visit Superstore, Hospital, TV Station, Stadium, and Dam in a single game" //Row 5
+	];
+	const winningLines = [
+		[0, 1, 2, 3, 4],
+		[5, 6, 7, 8, 9],
+		[10, 11, 12, 13, 14],
+		[15, 16, 17, 18, 19],
+		[20, 21, 22, 23, 24],
+		[0, 5, 10, 15, 20],
+		[1, 6, 11, 16, 21],
+		[2, 7, 12, 17, 22],
+		[3, 8, 13, 18, 23],
+		[4, 9, 14, 19, 24],
+		[0, 6, 12, 18, 24],
+		[4, 8, 12, 16, 20]
+	];
+	const card = document.getElementById('card');
+	const vodInput = document.getElementById('vod-link');
+	const shareBtn = document.getElementById('share-btn');
+	let timestampInputs = [];
+	let failsafeCheckboxes = [];
+	let state = new Array(25).fill(false);
+	
+	function buildCard() {
+		texts.forEach((text, i) => {
+			const cell = document.createElement('div');
+			cell.className = 'cell';
+			// failsafe checkbox in case i'm lazy and/or stupid
+			const cb = document.createElement('input');
+			cb.type = 'checkbox';
+			cb.className = 'failsafe-checkbox';
+			
+			cb.addEventListener('change', () => {
+				if(cb.disabled) return;
+				state[i] = cb.checked;
+				cell.classList.toggle('marked', state[i]);
+				checkWins();
+				updateHash();
+			});
+			cell.appendChild(cb);
+			
+			failsafeCheckboxes[i] = cb;
+			const txt = document.createElement('div');
+			txt.className = 'text';
+			txt.innerText = text;
+			cell.appendChild(txt);
+			// timestamp input
+			const ti = document.createElement('input');
+			ti.type = 'text';
+			ti.className = 'timestamp-input';
+			ti.placeholder = 'e.g. 0h22m46s';
+			ti.addEventListener('input', () => {
+				const filled = ti.value.trim() !== '';
+				if(filled) {
+					cb.checked = false;
+					cb.disabled = true;
+				} else {
+					cb.disabled = false;
+				}
+				state[i] = filled ? true : cb.checked;
+				cell.classList.toggle('marked', state[i]);
+				fitText(txt, cell, ti);
+				updateHash();
+				const anyFilled = timestampInputs.some(inp => inp.value.trim() !== '');
+				timestampInputs.forEach(inp => {
+					inp.placeholder = anyFilled ? '' : 'e.g. 0h22m46s';
+				});
+				checkWins();
+			});
+			
+			cell.appendChild(ti);
+			timestampInputs[i] = ti;
+			cell.addEventListener('click', e => {
+				if(!state[i]) return;
+				if(e.target.closest('input')) return;
+				const vod = vodInput.value.trim();
+				if(!vod) {
+					alert('Please enter the Twitch VOD link first.');
+					return;
+				}
+				const ts = ti.value.trim();
+				const sep = vod.includes('?') ? '&' : '?';
+				window.open(`${vod}${sep}t=${encodeURIComponent(ts)}`, '_blank');
+			});
+			
+			card.appendChild(cell);
+		});
+	}
+
+	//these links aren't going to be pretty but whatever, we're just using this for ourselves here
+	function updateHash() {
+		const data = {
+			vod: vodInput.value.trim(),
+			stamps: timestampInputs.map(i => i.value.trim()),
+			fs: failsafeCheckboxes.map(cb => cb.checked)
+		};
+		history.replaceState(null, '', location.pathname + '#data=' + encodeURIComponent(JSON.stringify(data)));
+	}
+	
+	function applyStateFromHash() {
+		const h = location.hash;
+		if(!h.startsWith('#data=')) return;
+		try {
+			const data = JSON.parse(decodeURIComponent(h.slice(6)));
+			if(data.vod) vodInput.value = data.vod;
+			(data.stamps || []).forEach((val, i) => {
+				if(val) {
+					timestampInputs[i].value = val;
+					failsafeCheckboxes[i].checked = false;
+					failsafeCheckboxes[i].disabled = true;
+					state[i] = true;
+					card.children[i].classList.add('marked');
+					fitText(card.children[i].querySelector('.text'), card.children[i], timestampInputs[i]);
+				}
+			});
+			(data.fs || []).forEach((checked, i) => {
+				if(!timestampInputs[i].value && checked) {
+					failsafeCheckboxes[i].checked = true;
+					state[i] = true;
+					card.children[i].classList.add('marked');
+				}
+			});
+			checkWins();
+		} catch(e) {
+			console.error('Invalid share data', e);
+		}
+	}
+	
+	function fitText(txtElem, cell, inputElem) {
+		const style = getComputedStyle(cell);
+		const padTop = parseFloat(style.paddingTop);
+		const padBot = parseFloat(style.paddingBottom);
+		const available = cell.clientHeight - padTop - padBot - inputElem.offsetHeight - 8;
+		let fs = parseFloat(getComputedStyle(txtElem).fontSize);
+		txtElem.style.whiteSpace = 'pre-wrap';
+		while(fs > 8 && txtElem.scrollHeight > available) {
+			fs -= 1;
+			txtElem.style.fontSize = fs + 'px';
+		}
+	}
+	
+	function checkWins() {
+		document.querySelectorAll('.cell.win').forEach(c => c.classList.remove('win'));
+		winningLines.forEach(line => {
+			if(line.every(i => state[i])) {
+				line.forEach(i => {
+					card.children[i].classList.add('win');
+				});
+			}
+		});
+	}
+	
+	window.addEventListener('resize', () => {
+		document.querySelectorAll('.cell').forEach((cell, i) => {
+			fitText(cell.querySelector('.text'), cell, timestampInputs[i]);
+		});
+	});
+	
+	vodInput.addEventListener('input', updateHash);
+	
+	shareBtn.addEventListener('click', () => {
+		navigator.clipboard.writeText(location.href).then(() => alert('Link copied!')).catch(() => prompt('Copy this link:', location.href));
+	});
+	
+	buildCard();
+	applyStateFromHash();
+	setTimeout(() => {
+		document.querySelectorAll('.cell').forEach((cell, i) => {
+			fitText(cell.querySelector('.text'), cell, timestampInputs[i]);
+		});
+		checkWins();
+	}, 50);
+	</script>
+</body>
+
+</html>
