@@ -87,6 +87,14 @@
 		color: #fff;
 	}
 	
+	.cell.filtered-match {
+		opacity: 1;
+	}
+	
+	.cell.filtered-out {
+		opacity: 0.3;
+	}
+	
 	.cell .text {
 		text-align: center;
 		font-size: 1rem;
@@ -114,13 +122,38 @@
 		background: var(--bg);
 	}
 	
-	#vod-container {
+	#inputs-row {
+		display: flex;
+		gap: 10px;
 		width: 75vh;
 		max-width: 95vw;
-		margin-top: 20px;
+		margin-top: 10px;
+	}
+
+	#vod-container,
+	#filter-container {
+		flex: 1;
+		margin: 0;
+	}
+
+	#vod-container input,
+	#filter-container input {
+		width: 100%;
+		box-sizing: border-box;
+	}
+
+	#vod-container,
+	#filter-container,
+	#share-container {
+		width: 75vh;
+		max-width: 95vw;
+		margin-top: 10px;
+		display: flex;
+		justify-content: center;
 	}
 	
-	#vod-link {
+	#vod-link,
+	#filter-input {
 		width: 100%;
 		padding: 12px;
 		font-size: 1.1rem;
@@ -131,16 +164,9 @@
 		outline: none;
 	}
 	
-	#vod-link::placeholder {
+	#vod-link::placeholder,
+	#filter-input::placeholder {
 		color: #888;
-	}
-	
-	#share-container {
-		margin-top: 20px;
-		width: 75vh;
-		max-width: 95vw;
-		display: flex;
-		justify-content: center;
 	}
 	
 	#share-btn {
@@ -172,8 +198,14 @@
 		</div>
 		<div id="card"></div>
 	</div>
-	<div id="vod-container">
-		<input type="text" id="vod-link" placeholder="Enter Twitch VOD link (e.g. https://www.twitch.tv/videos/2437417602)" /> </div>
+	<div id="inputs-row">
+		<div id="vod-container">
+			<input type="text" id="vod-link" placeholder="Enter Twitch VOD link…" />
+		</div>
+		<div id="filter-container">
+			<input type="text" id="filter-input" placeholder="Filter cells…" />
+		</div>
+	</div>
 	<div id="share-container">
 		<button id="share-btn">Copy Shareable Link</button>
 	</div>
@@ -181,11 +213,11 @@
 	<script>
 	
 	const texts = [ //fill this array in with each cell left to right, top to bottom: "T","A","N","G","O"
-		"Hotdrop Superstore. Team can't leave until they have $20,000 total", "2+ kills while freefalling in Game 2", "5+ knocks with HDR (new sniper rifle) in Game 3", "Purchase from 4 different buystations in Game 4", "50+ kills as a squad in Game 5", //Row 1
-		"5+ melee or assassination kills in Game 1", "1+ knock with a Sniper from Airport Tower", "5+ knocks with vehicles in Game 3", "40+ kills as a squad in Game 4", "10+ kills in Downtown in Game 5", //Row 2
-		"Visit 5+ Fire Stations in Game 1", "Win Game 2 with ground loot only", "Victory Royale in any game", "All 4 players win a Gulag in Game 4", "Win game with all 4 players alive at the end", //Row 3
-		"Hold 60 armor plates as a team in Game 1", "30+ kills as a squad in Game 2", "5+ kills from the top of Stadium in Game 3", "Complete at least 1 bounty contract in each Game", "5+ throwing knife knocks in Game 5", //Row 4
-		"20+ kills as a squad in Game 1", "Knock 5+ players by shooting them out of the air in Game 2", "$100,000 held by one player in Game 3", "5+ knocks from the bed/back of Big Bertha/Cargo Truck in Game 4", "Road Trip: Visit Superstore, Hospital, TV Station, Stadium, and Dam in a single game" //Row 5
+		"Hotdrop Superstore. Team can't leave until they have $20,000 total", "2+ kills while freefalling in Game 2", "5+ knocks with Sniper Rifles in Game 3", "Purchase from 4 different buystations in Game 4", "40+ kills as a squad in Game 5", //Row 1
+		"5+ melee or assassination kills in Game 1", "1+ knock with a Sniper from Airport Tower", "3+ knocks with vehicles in Game 3", "30+ kills as a squad in Game 4", "10+ kills in Downtown in Game 5", //Row 2
+		"Visit 5+ Fire Stations in Game 1", "Win Game 2 with ground loot only", "Victory Royale in any game", "All 4 players win a Gulag in Game 4", "Win a game with all 4 players alive at the end", //Row 3
+		"Hold 32 armor plates & 2 armor boxes as a team in Game 1", "20+ kills as a squad in Game 2", "5+ kills at Hospital in Game 3", "Complete at least 1 bounty contract in each Game", "5+ knocks using equipment in Game 5", //Row 4
+		"10+ kills as a squad in Game 1", "Knock 5+ players by shooting them out o f the air in Game 2", "$50,000 held by one player in Game 3", "5+ knocks from the bed/back of Big Bertha/Cargo Truck in Game 4", "Visit Superstore, Hospital, TV Station, Stadium, and Dam in a single game" //Row 5
 	];
 	const winningLines = [
 		[0, 1, 2, 3, 4],
@@ -204,6 +236,7 @@
 	const card = document.getElementById('card');
 	const vodInput = document.getElementById('vod-link');
 	const shareBtn = document.getElementById('share-btn');
+	const filterInput = document.getElementById('filter-input');
 	let timestampInputs = [];
 	let failsafeCheckboxes = [];
 	let state = new Array(25).fill(false);
@@ -337,6 +370,19 @@
 		});
 	}
 	
+	function applyFilter() {
+		const q = filterInput.value.trim().toLowerCase();
+		card.querySelectorAll('.cell').forEach((cell,i) => {
+			cell.classList.remove('filtered-match','filtered-out');
+			if (!q) return;
+			if (texts[i].toLowerCase().includes(q)) {
+				cell.classList.add('filtered-match');
+			} else {
+				cell.classList.add('filtered-out');
+			}
+		});
+	}
+	
 	window.addEventListener('resize', () => {
 		document.querySelectorAll('.cell').forEach((cell, i) => {
 			fitText(cell.querySelector('.text'), cell, timestampInputs[i]);
@@ -344,7 +390,7 @@
 	});
 	
 	vodInput.addEventListener('input', updateHash);
-	
+	filterInput.addEventListener('input', applyFilter);
 	shareBtn.addEventListener('click', () => {
 		navigator.clipboard.writeText(location.href).then(() => alert('Link copied!')).catch(() => prompt('Copy this link:', location.href));
 	});
