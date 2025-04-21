@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitch Live Timestamp Grabber
 // @namespace    https://github.com/Syampuuh/syampuuh.github.io
-// @version      1.01
+// @version      1.1
 // @description  Adds a button to Twitch streams to copy the live stream timestamp in XhXXmXXs format, mainly for use with my Bingo page thing
 // @author       Shampooh
 // @namespace    https://x.com/siampuu
@@ -16,7 +16,7 @@
     'use strict';
 
     function insertButton() {
-        const panel = document.querySelector('.theatre-social-panel');
+        const panel = document.querySelector('.player-controls__right-control-group');
         if (!panel || document.getElementById('tm-ts-btn')) return;
 
         const btn = document.createElement('button');
@@ -51,7 +51,7 @@
             }
         });
 
-        panel.appendChild(btn);
+        panel.prepend(btn);
     }
 
     // Observe DOM for panel insertion
