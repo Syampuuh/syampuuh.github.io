@@ -1,4 +1,4 @@
 # Oct Tuah, Lurch On That Thang
 ## (Oowee)
 
-# Peak: Platinum 4 Season 24
+# Peak: Platinum 4 Season 25
