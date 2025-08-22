@@ -1,3 +1,3 @@
 # Anonymous
 
-# Peak: Diamond 1 Season 25
+# Peak: Gold 1 Season 25
