@@ -1,5 +1,5 @@
 # Odintu
 
-# Peak: Platinum Season 22
+# Peak: Platinum 2 Season 22
 
 >pwease be gentle
